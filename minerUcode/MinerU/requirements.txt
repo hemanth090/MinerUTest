@@ -1,0 +1,5 @@
+mineru
+transformers==4.50.3
+accelerate
+scikit-learn
+numpy

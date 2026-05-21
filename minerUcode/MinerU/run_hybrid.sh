@@ -1,12 +1,10 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-VENV="/Users/hem/Desktop/Miner2.5/minerUcode/venv"
-INPUT_DIR="/Users/hem/Desktop/Miner2.5/minerUcode/MinerU/inputs"
-OUTPUT_DIR="/Users/hem/Desktop/Miner2.5/minerUcode/MinerU/output"
-BACKEND="hybrid-auto-engine"
-
-source "$VENV/bin/activate"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+INPUT_DIR="$SCRIPT_DIR/inputs"
+OUTPUT_DIR="$SCRIPT_DIR/output"
+BACKEND="vlm-auto-engine"
 mkdir -p "$OUTPUT_DIR"
 
 total_start=$(date +%s)
@@ -14,7 +12,7 @@ total_files=0
 total_failed=0
 
 echo "========================================"
-echo "MinerU hybrid-auto-engine batch run"
+echo "MinerU vlm-transformers batch run"
 echo "Started: $(date '+%Y-%m-%d %H:%M:%S')"
 echo "Input:   $INPUT_DIR"
 echo "Output:  $OUTPUT_DIR"
