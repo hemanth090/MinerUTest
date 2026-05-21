@@ -1,0 +1,1699 @@
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 20 Non-current Borrowings (Contd...)
+
+Notes:
+
+# 1. The security details for the borrowing balances :
+
+# a. Security Details as at March 31, 2024
+
+In case of Company, Rupee Term Loans from Banks aggregating to \` 13,200.00 crore and Rupee Term Loans from Financial Institutions aggregating \` 6,500.00 crore are secured by first mortgage, deed of hypothecation and charge on the identified leasehold and freehold project land at Mundra TPP, Tiroda TPP, Kawai TPP, Udupi TPP, Raipur TPP, Raigarh TPP and solar bitta plant, immovable and movable assets, both present and future assets of the Company, operating cash flows including book debts, receivables, permitted investments, advances, intangible assets etc. except “investments in equity share capital, unsecured loans, quasi equity etc. and certain non-project land”, on paripassu basis with the lenders of the Company.
+
+Term loan from banks in terms of master facility agreement carries interest rate based on respective lenders benchmark rate + applicable spread, equivalent to 8.70% p.a.
+
+Consequent to the enhancement in the credit rating of the Company to AA-, which followed the amalgamation of its six subsidiaries with the Company, the Company has consolidated the term loan facilities into a single long-term Rupee term loan facility of \` 19,700 crore under a consortium financing arrangement with lead Banker, State Bank of India.
+
+Security Creation is in process as per terms of Master facility agreement dated March 22, 2024.
+
+# b. Security Details as at March 31, 2023
+
+In case of Company, Rupee Term Loans from Banks aggregating to \` 15,584.15 crore, Rupee Term Loans from Financial Institutions aggregating to \` 3,319.31 In case of Company, crore, ARCs aggregating to \` 71.92 crore, Foreign Currency Loans from Banks aggregating to \` 763.04 crore and Foreign Currency Loans from Financial Institutions aggregating to \` 506.04 crore carry annual weighted average interest rate of 9.14% p.a. and are secured by first mortgage and charge on the identified immovable and movable and leasehold land, both present and future assets of the Mundra TPP, Tiroda TPP, Kawai TPP, Udupi TPP, Raipur TPP, Raigarh TPP (collectively and individually referred as “Projects”) on paripassu basis with the lenders of the respective projects.
+
+Further, for related party transactions refer note 69.
+
+c. In case of APJL, Borrowings from Financial Institutions \` 7,080.66 crore (Previous year \` 4,696.38 crore) are secured by first charge on all present and future immovable, movable assets, pledge of 100% equity shares of APJL held by the Company. It has interest rate range between 11.15% to 11.65%.
+
+d. In case of APJL, Trade credit (Pertaining to Property, Plant & Equipment) from bank \` 1,139.30 crore (Previous year \` 3,531.07 crore) are further secured by Letter of comfort of Rural Electrical Corporation limited (REC) and Power Finance Corporation Limited (PFC). It has interest rate range between 5.34% to 6.97%.
+
+e. In case of MEL, Borrowings from Banks aggregating to \` Nil (Previous year \` 556.38 crore), Borrowings from Financial institutions aggregating to \` Nil (Previous year \` 617.19 crore) and Borrowings from ARC aggregating to \` Nil (Previous year \` 76.43 crore) carry annual weighted average interest rate of 10.50% p.a. was secured by first mortgage and charge on the identified immovable and movable, both present and future assets of MEL’s 1200 MW power project at Bandhora plant (Madhya Pradesh) on paripassu basis. These borrowings were further secured by pledge of 51% equity shares of MEL, held by the Company on paripassu basis.
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 20 Non-current Borrowings (Contd...)
+
+# 2. Repayment schedule for the Secured and Unsecured borrowing balances :
+
+\` In crore 
+
+<table><tr><td>Particulars</td><td>FY2024 -25</td><td>FY2025-26</td><td>FY2026-27</td><td>FY2027-28</td><td>FY2028-33</td><td>FY 2033-34Onwards</td></tr><tr><td>Secured Borrowings - at amortised cost</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Term Loans</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>From Banks</td><td>660.00</td><td>660.00</td><td>660.00</td><td>660.00</td><td>4,884.00</td><td>6,815.30</td></tr><tr><td>From Financial Institutions</td><td>808.12</td><td>808.12</td><td>808.12</td><td>808.12</td><td>4,820.61</td><td>5,527.57</td></tr><tr><td>Total Secured Borrowings</td><td>1,468.12</td><td>1,468.12</td><td>1,468.12</td><td>1,468.12</td><td>9,704.61</td><td>12,342.87</td></tr><tr><td>Unsecured Borrowings - at amortised cost</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>0.01% Compulsory Redeemable Preference (refer note (c) below)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>415.86</td></tr><tr><td>Upto 5% Non-cumulative Compulsory Redeemable Preference Shares (refer note (b) below)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>300.00</td></tr><tr><td>Total Unsecured Borrowing</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>715.86</td></tr><tr><td>Total Repayment of Non-current Borrowings</td><td>1,468.12</td><td>1,468.12</td><td>1,468.12</td><td>1,468.12</td><td>9,704.61</td><td>13,058.73</td></tr></table>
+
+a. During the year, the Group has fully paid term loan facilities of \` 21,494.46 crore (including MEL), outstanding as at March 31, 2023.
+
+b. During the financial year 2021-22, the erstwhile wholly owned subsidiary of the Company, Adani Power (Mundra) Limited (now amalgamated with the Company), had issued 5,00,00,000 nos. of upto 5% Non-cumulative Compulsory Redeemable Preference shares (“NCRPS”) of \` 100 each amounting to \` 500 crore and has called \` 60 per share amounting to \` 300 crore and balance to be called at discretion of the issuer. On account of amalgamation, the Company cancelled the NCRPS and issued fresh NCRPS on the same terms during the financial year 2022-23.
+
+The instrument is redeemable at any time at the option of the Issuer but not later than 20 years from the date of issue. These NCRPS are separated into liability and recognised at fair value of \` 53.45 crore and equity components of \` 246.55 crore considering the instrument as compound financial instrument on initial recognition. Interest on liability component is recognised as interest expense using the effective interest method. The discounted value as at March 31, 2024 of \` 66.88 crore (Previous year - \` 62.06 crore) are redeemable in Financial year 2041-42.
+
+c. During the financial year 2019-20, the erstwhile wholly owned subsidiary of the Company, Raipur Energen Limited (now amalgamated with the Company), had issued 4,15,86,207 nos. of 0.01% Compulsory Redeemable Preference shares (CRPS) of \` 100/- each amounting to \` 415.86 crore. On account of amalgamation, the Company cancelled the CRPS and issued fresh CRPS during financial year 2022-23. Considering CRPS as compound financial instrument, these are accounted for as liability at fair value of \` 71.37 crore and other equity (under capital reserve) of \` 344.49 crore on initial recognition. Interest on liability component is accounted for as interest expense, using the effective interest method. The discounted value as at March 31, 2024 of \` 117.61 crore (Previous year \` 106.89 crore) are redeemable at any time by June 30, 2038.
+
+3. The amount disclosed in security details in note 1 above and repayment schedule in note 2 above are gross amount excluding adjustments towards upfront fees.
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+21 Non-Current Lease Liabilities 
+
+<table><tr><td>Particulars</td><td>As atMarch 31, 2024</td><td>₹ In croreAs atMarch 31, 2023</td></tr><tr><td>Lease liabilities (refer note below and note 44)</td><td>143.11</td><td>88.32</td></tr><tr><td>Total</td><td>143.11</td><td>88.32</td></tr></table>
+
+Note:   
+The fair value of Lease Liabilities approximate the carrying value presented. (Also refer note 56)
+
+22 Other Non-current Financial Liabilities 
+
+<table><tr><td>Particulars</td><td>As atMarch 31, 2024</td><td>₹ In croreAs atMarch 31, 2023</td></tr><tr><td>Security Deposit*</td><td>1.07</td><td>-</td></tr><tr><td>Total</td><td>1.07</td><td>-</td></tr></table>
+
+Notes:   
+i) The fair value of Other Non-current Financial Liabilities approximate the carrying value presented. (Also refer note 56)   
+\* For transaction with related parties, refer note 69.
+
+23 Non-current Provisions 
+
+<table><tr><td>Particulars</td><td>As at March 31, 2024</td><td>As at March 31, 2023</td></tr><tr><td>Provision for Mine Closure Obligations (refer note 45)</td><td>46.28</td><td>42.07</td></tr><tr><td>Provision for obligation incidental to land acquisition (refer note 46)</td><td>65.71</td><td>65.66</td></tr><tr><td>Employee Benefits</td><td></td><td></td></tr><tr><td>Provision for Gratuity (refer note 58)</td><td>87.54</td><td>81.46</td></tr><tr><td>Provision for Leave Encashment (refer note 58)</td><td>37.92</td><td>37.76</td></tr><tr><td>Total</td><td>237.45</td><td>226.95</td></tr></table>
+
+# 24 Deferred Tax Liabilities (Net)
+
+(a) Deferred Tax Liabilities (Net) 
+
+<table><tr><td>Particulars</td><td>As atMarch 31, 2024</td><td>As atMarch 31, 2023</td></tr><tr><td>Deferred Tax Liabilities</td><td></td><td></td></tr><tr><td>Depreciation on Property, Plant and Equipment</td><td>360.83</td><td>-</td></tr><tr><td>Gross Deferred Tax Liabilities - Total (a)</td><td>360.83</td><td>-</td></tr><tr><td>Deferred Tax Assets</td><td></td><td></td></tr><tr><td>Provision for employee benefits</td><td>1.84</td><td>-</td></tr><tr><td>Unabsorbed depreciation</td><td>31.60</td><td>-</td></tr><tr><td>Others</td><td>11.59</td><td></td></tr><tr><td>Gross Deferred Tax Assets - Total (b)</td><td>45.03</td><td>-</td></tr><tr><td>Net Deferred Tax Liabilities - Total (a-b)</td><td>315.80</td><td>-</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 24 Deferred Tax Liabilities (Net) (Contd...)
+
+(b) Movement in Deferred Tax Liabilities (Net) for the year ended March 31, 2024
+
+\` In crore 
+
+<table><tr><td>Particulars</td><td>Opening Balance as at April 01, 2023</td><td>Recognised in statement of profit and Loss</td><td>Recognised in other comprehensive income</td><td>Closing balance as at March 31, 2024</td></tr><tr><td>Tax effect of items constituting Deferred Tax Liabilities :</td><td></td><td></td><td></td><td></td></tr><tr><td>Depreciation on Property, Plant and Equipment</td><td>-</td><td>360.83</td><td>-</td><td>360.83</td></tr><tr><td>Total - (a)</td><td>-</td><td>360.83</td><td>-</td><td>360.83</td></tr><tr><td>Tax effect of items constituting Deferred Tax Assets:</td><td></td><td></td><td></td><td></td></tr><tr><td>Provision for employee benefits</td><td>-</td><td>1.86</td><td>(0.02)</td><td>1.84</td></tr><tr><td>Unabsorbed depreciation</td><td>-</td><td>31.60</td><td>-</td><td>31.60</td></tr><tr><td>Others</td><td>-</td><td>-</td><td>11.59</td><td>11.59</td></tr><tr><td>Total - (b)</td><td>-</td><td>33.46</td><td>11.57</td><td>45.03</td></tr><tr><td>Deferred Tax Liabilities (Net) Total - (a-b)</td><td>-</td><td>327.37</td><td>(11.57)</td><td>315.80</td></tr></table>
+
+# 25 Other Non-current Liabilities
+
+<table><tr><td>Particulars</td><td>As at March 31, 2024</td><td>As at March 31, 2023</td></tr><tr><td>Deferred Government Grant (refer note 4.1(iii))</td><td>6,098.63</td><td>4,183.15</td></tr><tr><td>Total</td><td>6,098.63</td><td>4,183.15</td></tr></table>
+
+# 26 Current Borrowings
+
+<table><tr><td>Particulars</td><td>As at March 31, 2024</td><td>As at March 31, 2023</td></tr><tr><td>Secured Borrowings - at amortised cost</td><td></td><td></td></tr><tr><td>Working Capital Demand Loans From Banks</td><td>939.19</td><td>2,036.27</td></tr><tr><td>Trade Credits From Banks (refer note 20(1)(a))</td><td>5,299.60</td><td>1,951.85</td></tr><tr><td>Cash Credit From Banks</td><td>158.16</td><td>490.96</td></tr><tr><td>Customers&#x27; Bills Discounted (recourse basis)</td><td>-</td><td>1,192.50</td></tr><tr><td>Current maturities of Non-Current borrowings (refer note 20)</td><td>1,464.90</td><td>2,877.87</td></tr><tr><td>Total</td><td>7,861.85</td><td>8,549.45</td></tr></table>
+
+# Notes :
+
+# i) Security Details as at March 31, 2024
+
+In case of the Company, Working Capital Demand Loans, Trade Credits, Cash Credits and Customers’ Bills Discounted provided by Banks (Working Capital Facilities) aggregating to \` 5,775.06 crore are secured by first mortgage, deed of hypothecation and charge on the identified leasehold and freehold project land at
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 26 Current Borrowings (Contd...)
+
+Mundra TPP, Tiroda TPP, Kawai TPP, Udupi TPP, Raipur TPP, Raigarh TPP and Solar Bitta Plant, immovable and movable assets, both present and future assets of the Company, operating cash flows including book debts, receivables, permitted investments, advances, intangible assets etc. except “investments in equity share capital, unsecured loans, quasi equity etc. and certain non-project land”, on paripassu basis with the lenders of the Company. It has interest rate ranges between 5.46% p.a. to 8.35% p.a.
+
+# ii) Security Details as at March 31, 2023
+
+In case of the Company, Working Capital Demand Loans, Trade Credits, Cash Credits and Customers’ Bills Discounted provided by Bank (Working Capital Facilities) aggregating to \` 5,671.58 crore carry annual weighted average interest rate of 5.75% p.a. and are secured by first mortgage and charge on the identified immovable and movable, both present and future assets of the Mundra TPP, Tiroda TPP, Kawai TPP, Udupi TPP, Raipur TPP, Raigarh TPP (collectively and individually referred as “Projects”) on paripassu basis with the lenders of the respective projects.
+
+iii) In case of APJL, Secured trade credits, Working Capital Demand Loan and Cash Credit aggregating of \` 621.89 crore (Previous year \` Nil) are secured by first mortgage and charge on the identified immovable, movable and leasehold land, both present and future assets of the project on paripassu basis and are further secured by pledge of 100% equity shares of APJL held by the Company on paripassu basis. It has interest rate ranges between 8.20% p.a. to 9.80% p.a.
+
+# 27 Current Lease Liabilities
+
+<table><tr><td>Particulars</td><td>As atMarch 31, 2024</td><td>₹ In croreAs atMarch 31, 2023</td></tr><tr><td>Lease liabilities (refer note below and 44)</td><td>15.59</td><td>9.16</td></tr><tr><td>Total</td><td>15.59</td><td>9.16</td></tr></table>
+
+# Note:
+
+The fair value of Lease Liabilities approximate the carrying value presented. (Also refer note 56)
+
+# 28 Trade Payables
+
+<table><tr><td>Particulars</td><td>As at March 31, 2024</td><td>As at March 31, 2023</td></tr><tr><td>Acceptances</td><td>-</td><td>192.26</td></tr><tr><td>Other than acceptances</td><td></td><td></td></tr><tr><td>- total outstanding dues of micro enterprises and small enterprises</td><td>141.93</td><td>95.76</td></tr><tr><td>- total outstanding dues of creditors other than micro enterprises and small enterprises (refer note 69 for related party dues)</td><td>3,494.37</td><td>2,791.43</td></tr><tr><td>Total</td><td>3,636.30</td><td>3,079.45</td></tr></table>
+
+# Notes:
+
+i) Trade payables mainly include amount payable to coal suppliers and operation and maintenance vendors in whose case credit period allowed is 0-180 days. The Group usually opens usance letter of credit in favour of the coal suppliers.   
+ii) The fair value of trade payables approximate the carrying value presented. (Also refer note 56)
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 28 Trade Payables (Contd...)
+
+# iii) Ageing schedule:
+
+a. As at March 31, 2024
+
+\` In crore 
+
+<table><tr><td rowspan="2">Sr No</td><td rowspan="2">Particulars</td><td rowspan="2">Unbilled (including accrued expense)</td><td rowspan="2">Not due</td><td colspan="4">Outstanding for following periods from due date of Payment*</td><td rowspan="2">Total</td></tr><tr><td>Less than 1 year</td><td>1-2 years</td><td>2-3 years</td><td>More than 3 years</td></tr><tr><td>1</td><td>MSME</td><td>-</td><td>141.93</td><td>-</td><td>-</td><td>-</td><td>-</td><td>141.93</td></tr><tr><td>2</td><td>Others</td><td>284.55</td><td>281.67</td><td>2,854.78</td><td>29.68</td><td>12.66</td><td>0.35</td><td>3,463.69</td></tr><tr><td>3</td><td>Disputed dues - MSME</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>Disputed dues - Others#</td><td>-</td><td>-</td><td>5.59</td><td>4.68</td><td>4.60</td><td>15.81</td><td>30.68</td></tr><tr><td></td><td>Total</td><td>284.55</td><td>423.60</td><td>2,860.37</td><td>34.36</td><td>17.26</td><td>16.16</td><td>3,636.30</td></tr></table>
+
+b. As at March 31, 2023
+
+\` In crore 
+
+<table><tr><td rowspan="2">Sr No</td><td rowspan="2">Particulars</td><td rowspan="2">Unbilled (including accrued expense)</td><td rowspan="2">Not due</td><td colspan="4">Outstanding for following periods from due date of Payment*</td><td rowspan="2">Total</td></tr><tr><td>Less than 1 year</td><td>1-2 years</td><td>2-3 years</td><td>More than 3 years</td></tr><tr><td>1</td><td>MSME</td><td>-</td><td>95.76</td><td>-</td><td>-</td><td>-</td><td>-</td><td>95.76</td></tr><tr><td>2</td><td>Others</td><td>346.45</td><td>98.15</td><td>2,316.78</td><td>78.94</td><td>38.56</td><td>79.72</td><td>2,958.60</td></tr><tr><td>3</td><td>Disputed dues - MSME</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>4</td><td>Disputed dues - Others#</td><td>-</td><td>-</td><td>4.68</td><td>4.60</td><td>3.25</td><td>12.56</td><td>25.09</td></tr><tr><td></td><td>Total</td><td>346.45</td><td>193.91</td><td>2,321.46</td><td>83.54</td><td>41.81</td><td>92.28</td><td>3,079.45</td></tr></table>
+
+\*Where due dates not provided, date of transaction is considered.   
+#Includes amount payable to MSEDCL for fixed charges towards start-up power arrangement of earlier years at Tiroda TPP which it has already applied for termination. In the matter, APTEL allowed the appeal filed by Tiroda TPP and remanded the matter back to MERC to reexamine the case within the defined framework. Although, on a conservative basis, the Company has provided these claims in the books. However, the management expects the favourable outcome in the matter.
+
+# 29 Other Current Financial Liabilities
+
+\` In crore 
+
+<table><tr><td>Particulars</td><td>As at March 31, 2024</td><td>As at March 31, 2023</td></tr><tr><td>Interest accrued but not due (refer note (i) of cash flow statement)</td><td>69.13</td><td>86.70</td></tr><tr><td>Payable towards purchase of Property, Plant and Equipment (including retention money)*</td><td>1,808.45</td><td>1,520.00</td></tr><tr><td>Derivative Liabilities (Net) (refer note (i) below and 52)</td><td>3.69</td><td>7.04</td></tr><tr><td>Truing Up / Tariff revenue adjustment (Refund Liability)</td><td>198.21</td><td>547.16</td></tr><tr><td>Other financial liabilities (refer note (ii) below)</td><td>10.32</td><td>300.68</td></tr><tr><td>Total</td><td>2,089.80</td><td>2,461.58</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 29 Other Current Financial Liabilities (Contd...)
+
+# Notes :
+
+i) Includes Forward contracts of \` 3.69 crore (Previous year \` 7.04 crore) of instruments designated as cash flow hedges.   
+ii) Includes refundable amount as per the agreement.   
+iii) The fair value of Other Current Financial Liabilities approximate the carrying value presented. (Also refer note 56)
+
+\* For transaction with related parties, refer note 69.
+
+# 30 Other Current Liabilities
+
+<table><tr><td>Particulars</td><td>As atMarch 31, 2024</td><td>₹ In croreAs atMarch 31, 2023</td></tr><tr><td>Statutory liabilities</td><td>138.25</td><td>140.69</td></tr><tr><td>Advance from Customers</td><td>4.89</td><td>32.73</td></tr><tr><td>Deferred Government Grant (refer note 4.1(iii))</td><td>400.59</td><td>304.18</td></tr><tr><td>Others (refer note (i) below)</td><td>1,615.71</td><td>3,145.22</td></tr><tr><td>Total</td><td>2,159.44</td><td>3,622.82</td></tr></table>
+
+# Note :
+
+(i) Includes \` 50.87 crore (Previous year \` 50.87 crore) on account of Fair Valuation of contingent liabilities recognised on acquisition of Raipur TPP, \` 1,515.88 crore (Previous year \` 3,046.98 crore) on account of additional cost for procurement of coal based on power supplies obligation, as may be required and \` 47.02 crore (Previous year \` 47.02 crore) towards accrual of demand for matter related to National Green Tribunal ("NGT"). (refer note 50)
+
+# 31 Current Provisions
+
+<table><tr><td>Particulars</td><td>As at March 31, 2024</td><td>₹ In crore As at March 31, 2023</td></tr><tr><td>Provision for obligation incidental to land acquisition (refer note 46)</td><td>7.18</td><td>6.20</td></tr><tr><td>Provision for Employee Benefits</td><td></td><td></td></tr><tr><td>Provision for Gratuity (refer note 58)</td><td>0.71</td><td>0.13</td></tr><tr><td>Provision for Leave Encashment (refer note 58)</td><td>17.80</td><td>15.31</td></tr><tr><td>Total</td><td>25.69</td><td>21.64</td></tr></table>
+
+# 32 Current Tax Liabilities (Net)
+
+<table><tr><td>Particulars</td><td>As atMarch 31, 2024</td><td>₹ In croreAs atMarch 31, 2023</td></tr><tr><td>Income-tax payable (Net of advance tax)</td><td>-</td><td>0.49</td></tr><tr><td>Total</td><td>-</td><td>0.49</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+33 Revenue from Operations 
+
+<table><tr><td>Particulars</td><td>For the year ended March 31, 2024</td><td>For the year ended March 31, 2023</td></tr><tr><td>Revenue from Power Supply (refer notes below)</td><td>49,940.40</td><td>37,830.00</td></tr><tr><td>Revenue from trading goods</td><td>97.76</td><td>165.69</td></tr><tr><td>Sale of services</td><td>12.91</td><td>27.34</td></tr><tr><td>Other Operating Revenue</td><td></td><td></td></tr><tr><td>Sale of Fly Ash and Others</td><td>67.28</td><td>55.82</td></tr><tr><td>Gain on Sale of Investment (refer note (vii) and (viii) below)</td><td>232.90</td><td>694.45</td></tr><tr><td>Total revenue from contracts with customers</td><td>50,351.25</td><td>38,773.30</td></tr></table>
+
+# Notes:
+
+(i) In respect of Tiroda TPP
+
+(a) In the matter of non-availability of coal due to cancellation of Lohara coal block for the Company’s 800 MW power generation capacity at Tiroda thermal power plant (“Tiroda TPP”), the Hon’ble Supreme Court vide its order dated April 20, 2023, upheld the orders of Maharashtra Electricity Regulatory Commission (“MERC”) dated September 06, 2019 and the Appellate Tribunal for Electricity (“APTEL”) dated October 05, 2020, respectively granting compensation (including carrying costs thereon) towards additional coal cost for the use of alternative coal.   
+(b) Similarly, in a matter relating to shortfall in availability of domestic coal under New Coal Distribution Policy (“NCDP”) and Scheme of Harnessing and Allocating Koyala (Coal) Transparently in India (“SHAKTI”) policy of the government, for the Company’s 2500 MW power generation capacity at Tiroda TPP, Hon’ble Supreme Court vide its orders dated March 03, 2023 and April 20, 2023, upheld the MERC’s orders dated March 07, 2018 and February 07, 2019, and the APTEL’s orders dated September 14, 2020 and September 28, 2020 respectively granting compensation (including carrying costs thereon) towards additional coal cost for the use of alternative coal.   
+(c) Pursuant to the said Hon’ble Supreme Court order, in respect of matters stated in (a) and (b) above, the Company has completed provisional reconciliation of claims from April 2013 to February 2023, with Maharashtra State Electricity Distribution Company Limited (“MSEDCL”) based on various regulatory orders and accordingly, reassessed the compensation claims (including carrying cost thereon) recognised in the books of account since earlier periods and recognised certain additional claims on account of reconciliation / realisation with / from MSEDCL.
+
+The Company has recognised tariff compensation claims towards additional coal cost of \` 4,282.15 crore and carrying cost of \` 190.49 crore during the year ended March 31, 2024 (includes tariff compensation claims of \` 290.19 crore (net of credit of \` 115.72 crore) and carrying cost of \` 190.49 crore pertaining to earlier years) after initial estimation of claims made by the Company during the year ended March 31, 2023.
+
+Further, during the year ended March 31, 2024, the Company has also accounted late / delayed payment surcharge (“LPS”) of \` 5,870.81 crore from MSEDCL, disclosed as other income, based on Company’s policy relating to recognition of late/delayed payment surcharge on acknowledgement or receipt whichever is earlier.
+
+(d) Apart from above, in one of the matter relating to cost factor for computation of tariff compensatory claim, on account of consumption of alternate coal, based on the claim amount billed by the Company, MSEDCL is in appeal with APTEL although the Company has favorable tariff compensation order from
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 33 Revenue from Operations (Contd...)
+
+MERC dated September 11, 2021 in the matter. Further, during the year ended March 31, 2024, MSEDCL has also filed a petition with MERC w.r.t. the interpretation of its earlier order relating to compensation for in-land transportation cost factor for transfer of domestic coal. During the year ended March 31, 2024, the Company has recognised additional tariff compensation claim of \` 1,239.95 crore, carrying cost of \` 303.18 crore and late payment surcharge of \` 709.04 crore (including recognition of tariff compensation claim of \` 1,364.44 crore, carrying cost \` 303.18 crore and late payment surcharge of \` 709.04 crore pertaining to prior years) on account of acknowledgement / realisation of claims in the matter from MSEDCL. The management does not expect any adverse impact of the matter. Currently, the Company has recognised the compensation claim in the matter on the best estimate basis pending settlement of appeal.
+
+# (ii) In respect of Udupi TPP
+
+For power supplied from Udupi thermal power plant (“Udupi TPP”), the Company raises invoices on its customers (“Karnataka Discoms”) based on the most recent tariff order / provisional tariff approved by the Central Electricity Regulatory Commission (“CERC”), as modified by the orders of Appellate Tribunal for Electricity (“APTEL”) / CERC to the extent applicable, having regard to mechanism provided in applicable tariff regulations and the bilateral arrangements with the Discom. Such tariff order is subject to conclusion of final tariff order in terms of Multiyear Tariff (“MYT”) Regulations at end of tariff period of every 5 years. During the year, the CERC has issued tariff order dated January 04, 2024 in respect of MYT period 2019-24 and true up order in respect of MYT period 2014-19. Accordingly, the Company has revised the revenue recognition, reversed the revenue of \` 16.81 crore for the year ended March 31, 2024.
+
+# (Iii) In respect of Kawai TPP
+
+In the matter relating to shortfall in availability of domestic linkage coal Hon’ble Supreme Court vide its order dated August 31, 2020 has admitted all tariff compensation claims for additional coal costs incurred for power generation and the Company continues to realise the claim amount towards compensation based on the methodology for change in law compensation approved by Rajasthan Electricity Regulation Commission (“RERC”), APTEL and the Hon’ble Supreme Court. During the year ended March 31, 2022, the Company had recognised additional tariff compensation claims on account of realisation of \` 5,996.44 crore from Discoms and continued to recognise the tariff compensation claims based on the methodology upheld by the Hon’ble Supreme court vide aforesaid order during the subsequent period till date and it has been able to realise such claims from Discoms.
+
+During the year ended March 31, 2024, Rajasthan Urja Vikas and IT Services Limited (“RUVITL”) (formerly known as Rajasthan Urja Vikas Nigam Limited) had filed a fresh petition before RERC primarily challenging the methodology and operating parameters considered while arriving at the tariff compensation claim for additional coal cost incurred for power generation by the Company which had earlier been settled by RUVITL in March, 2022 based on Hon’ble Supreme Court order dated August 31, 2020. The RERC vide its order dated September 01, 2023 dismissed the petition of RUVITL and giving RUVITL the liberty to raise the issue before appropriate legal forum in terms of order passed by Hon’ble Supreme Court dated April 19, 2022 in the contempt petition. Subsequent to the order of RERC, RUVITL has preferred an appeal with APTEL against the ruling of RERC. Pending conclusion of the matter with APTEL, the Company continues to recognise the revenue based on the principle as approved in the order passed by the Hon’ble Supreme court.
+
+# (iv) In respect to Mundra TPP
+
+(a) The Company and Gujarat Urja Vikas Nigam Limited (“GUVNL”) had entered into an additional Supplemental Power Purchase Agreements (“SPPAs”) dated March 30, 2022 to resolve all pending matter / dispute relating to Bid 1 and Bid 2 Power Purchase Agreement (“PPA / SPPA”), towards supply of 2434 MW of power and thereby approached CERC to determine the base energy tariff rates for power
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 33 Revenue from Operations (Contd...)
+
+sales under Bid 1 & Bid 2 SPPAs, with retrospective effect from October 15, 2018, for further submission to the Government of Gujarat (“GoG”). CERC vide its order dated June 13, 2022 recommended the base energy tariff rates for final approval of GoG which is still pending as on reporting date. CERC order allows the Company and GUVNL to mutually agree on adoption of six monthly or monthly CERC escalation index to apply over base energy tariff rate as on October 2018 as per the provisions of earlier SPPA dated December 05, 2018 having impact on determination of subsequent period energy rates.
+
+(b) Pending approval of the base energy tariff rate by GoG and also the mutual agreement between the Company and GUVNL as regards adoption of monthly / six-monthly CERC escalation index, the Company has been supplying power to GUVNL based on certain mechanism whereby actual fuel cost incurred gets pass through in the billing of energy charges, during March 01, 2022 to March 31, 2024 as per understanding with GUVNL for the purpose of additional Supplemental PPA dated March 30, 2022. The Company also realised significant amounts of invoices billed to GUVNL, although there are certain deductions of \` 406.74 crore (net of provisions) made by GUVNL are pending reconciliation / settlement which management expects to be settled after conclusion of base energy tariff rate with GUVNL covering period since 2018. Apart from this, during the year, the Company has received a communication from GUVNL seeking refund of \` 1,172.69 crore from the Company towards energy charges on account of adjustment of coal cost in respect of power supplied during October 15, 2018 to March 31, 2023 considering CERC base rate order of June 13, 2022.
+
+The Company has not accepted the GUVNL claim but based on conservative parameters made one time provisional adjustments in the revenue of \` 1,172.69 crore during the year ended March 31, 2024 (Including reversal of \` 1,222.37 crore pertaining to prior period). The Company continues to recognise energy charges revenue as per amount billed based on actual fuel costs since the date of SPPA, pending approval of base energy tariff and agreement between the Company and GUVNL regarding adoption of method of CERC escalation index. CERC escalation index impact the Company’s energy charges claims, depending on the trend of coal price movement. During the current financial year the escalation index has positive impact on energy charges but Company continues to invoice energy charges on actual fuel cost basis. For the reporting period ended March 31, 2024, the company has recognised revenue on provisional basis as per amount billed (net of certain adjustments). The Company expects to settle the matter without any further recognition / derecognition in this regard.
+
+(c) In respect of the matter relating to shortfall in availability of domestic coal under Fuel Supply Agreement (“FSAs”) with Coal India Limited’s subsidiaries for supply of power against 1424 MW of PPA from Mundra TPP (reduced to 1200 MW PPA pursuant to the SPPAs dated February 28, 2023) with Haryana Discoms, the Hon’ble Supreme Court vide its order dated April 20, 2023 upheld the APTEL’s orders dated November 03, 2020 and June 30, 2021, allowing the tariff compensation claims (including carrying cost thereon) relating to NCDP and SHAKTI policy, respectively.
+
+Pursuant to the said orders, the Company has recognised additional tariff compensation claims of \` 393.23 crore (including carrying cost of \` 135.55 crore) during the year, including pertaining to earlier period on account of realisation of certain additional claims from Haryana Discoms after initial estimation of claims made by the Company during the year ended March 31, 2023.
+
+Further, during the year ended March 31, 2024, the Company has also recognised income towards delayed payment interest of \` 961.89 crore (including \` 941.85 crore pertaining to earlier period) as other income based on realisation of such amount from Haryana Discoms based on Company’s policy relating to recognition of late / delayed payment surcharge.
+
+v) Revenue from operations for the year ended March 31, 2024, (including the amounts disclosed separately elsewhere in other notes) includes recognition of amount of \` 683.43 crore, (net off reversal) recognised
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 33 Revenue from Operations (Contd...)
+
+pertaining to prior years upto March 31, 2023 (Previous Year - \` 2,377.24 crore pertaining to period upto March 31, 2022), based on the orders received from various regulatory authorities such as MERC / CERC, APTEL, Hon’ble Supreme Court and reconciliation with Discoms relating to various claims towards change in law events, carrying cost thereon and delayed payment interest.
+
+vi) For regulatory claims / change in law claims, the management recognises income on conservative parameters, since the same are under litigation / pending final settlement with Discoms. The differential adjustments on account of such claims are recognised on resolution of the litigation / final settlement of matter with Discoms, including carrying cost / late payment surcharge.   
+vii) During the year ended March 31, 2024, the Company has disposed off its investments in the subsidiaries, lnnovant Buildwell Private Limited (“IBPL”) (formerly known as Eternus Real Estate Private Limited) (acquired on June 07, 2022) and Aviceda Infra Park Limited (“AIPL”) (incorporated on September 05, 2022), by execution of Share Purchase Agreements with AdaniConnex Private Limited for an aggregate consideration of \` 536.22 crore. The net income on such sale of investments amounting to \` 232.90 crore is accounted as other operating revenue pertaining to trading, investment and other activities segment in the financial statements.   
+viii) Similarly during the previous year, the Company has disposed off its investment held in Support Properties Private Limited (“SPPL”) a wholly owned subsidiary and holding land parcel at Navi Mumbai by execution of share purchase agreement with AdaniConnex Private Limited and received a consideration of \` 988.97 crore which has been arrived at on arm’s length basis. The net income on such sale of investment amounting to \` 694.45 crore was accounted as other operating revenue.   
+ix) For transaction with related parties, refer note 69.
+
+# 34 Other Income
+
+\` In crore 
+
+<table><tr><td>Particulars</td><td>For the year ended March 31, 2024</td><td>For the year ended March 31, 2023</td></tr><tr><td>Interest income (refer note (i), (ii) below and 69)</td><td>8,921.11</td><td>3,607.19</td></tr><tr><td>Income from Mutual Funds</td><td>42.92</td><td>13.10</td></tr><tr><td>Sale of Scrap</td><td>26.24</td><td>20.83</td></tr><tr><td>Foreign Exchange Fluctuation Gain (Net)</td><td>149.37</td><td>-</td></tr><tr><td>Amortised Government Grant Income</td><td>391.67</td><td>304.06</td></tr><tr><td>Liability no longer required written back</td><td>92.20</td><td>41.37</td></tr><tr><td>Miscellaneous Income (refer note (iii) below)</td><td>306.72</td><td>280.67</td></tr><tr><td>Total</td><td>9,930.23</td><td>4,267.22</td></tr></table>
+
+# Notes :
+
+i) Includes interest income in nature of Late payment surcharge / carrying cost of \` 8,668.29 crore (Previous year \` 3,499.93 crore) from DISCOMs towards change in claims and over due receivables.   
+ii) Includes interest income of \` 236.95 crore (Previous year \` 86.65 crore) on fixed deposits.   
+iii) Miscellaneous income mainly includes refund of customs duty of \` 258.63 crore. (Previous year \` 61.84 crore towards GST refund, \` 150.08 crore towards credit of transmission charges, which were expensed off in earlier years)
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 35 Purchase of Stock in trade / Power
+
+It includes purchase of traded goods of \` 83.12 crore (Previous year \` 110.15 crore) and purchase of Power of \` 139.14 crore (Previous year \` 103.99 crore).\*
+
+\* For transaction with related parties, refer note 69.
+
+# 36 Employee Benefits Expenses
+
+<table><tr><td>Particulars</td><td>For the year ended March 31, 2024</td><td>For the year ended March 31, 2023</td></tr><tr><td>Salaries, Wages and Allowances (refer note (i) below) *</td><td>545.51</td><td>504.91</td></tr><tr><td>Contribution to Provident and Other Funds *</td><td>43.75</td><td>27.41</td></tr><tr><td>Staff Welfare Expenses (including training expenses)</td><td>54.44</td><td>37.67</td></tr><tr><td>Total</td><td>643.70</td><td>569.99</td></tr></table>
+
+# Note :
+
+i) The above amount is net of capitalisation during the year, refer note 4.1.
+
+\* For transaction with related parties, refer note 69.
+
+# 37 Finance Costs
+
+<table><tr><td>Particulars</td><td>For the year ended March 31, 2024</td><td>For the year ended March 31, 2023</td></tr><tr><td>(a) Interest Expense on :</td><td></td><td></td></tr><tr><td>Term Loans (refer note (ii) below) *</td><td>2,880.21</td><td>2,755.14</td></tr><tr><td>Working Capital, Trade Credits and Others (refer note (i) below)</td><td>199.22</td><td>285.02</td></tr><tr><td>Total (a)</td><td>3,079.43</td><td>3,040.16</td></tr><tr><td>(b) Other borrowing costs :</td><td></td><td></td></tr><tr><td>(Gain) on Derivative Contracts (Net)</td><td>(38.50)</td><td>(142.03)</td></tr><tr><td>Bank Charges and Other Borrowing Costs</td><td>254.52</td><td>179.27</td></tr><tr><td>Total (b)</td><td>216.02</td><td>37.24</td></tr><tr><td>(c) Net loss on foreign currency transactions and translation (to the extent considered as finance cost)</td><td>92.64</td><td>256.10</td></tr><tr><td>Total (c)</td><td>92.64</td><td>256.10</td></tr><tr><td>Total (a+b+c)</td><td>3,388.09</td><td>3,333.50</td></tr></table>
+
+# Notes :
+
+i) Includes interest on lease liabilities (net of capitalisation) of \` 17.19 crore (Previous year \` 9.32 crore) and unwinding of interest on preference shares of \` 15.54 crore. (Previous year \` 14.63 crore)
+
+ii) During the year, unamortised borrowing cost of \` 46.25 crore has been charged off on payment of entire outstanding borrowing.
+
+iii) The above amount is net of capitalisation during the year, refer note 4.1.
+
+\* For transaction with related parties, refer note 69.
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+38 Other Expenses 
+
+<table><tr><td>Particulars</td><td>For the year ended March 31, 2024</td><td>₹ In crore For the year ended March 31, 2023</td></tr><tr><td>Consumption of Stores and Spares</td><td>389.54</td><td>381.94</td></tr><tr><td>Repairs and Maintenance Expenses *</td><td>724.30</td><td>591.98</td></tr><tr><td>Expenses related to short term leases</td><td>16.75</td><td>10.60</td></tr><tr><td>Rates and Taxes</td><td>140.09</td><td>185.99</td></tr><tr><td>Legal and Professional Expenses *</td><td>170.74</td><td>133.23</td></tr><tr><td>Directors&#x27; Sitting Fees *</td><td>0.47</td><td>0.47</td></tr><tr><td>Insurance Expenses</td><td>143.99</td><td>124.43</td></tr><tr><td>Bad debts / sundry balances written off</td><td>7.53</td><td>8.68</td></tr><tr><td>Advances to suppliers / unrealised balances provided for</td><td>164.53</td><td>-</td></tr><tr><td>Provision for Capital work in progress</td><td>31.43</td><td>33.97</td></tr><tr><td>Foreign Exchange Fluctuation Loss (Net)</td><td>-</td><td>114.67</td></tr><tr><td>Contract relinquishment charges provided for</td><td>89.40</td><td>-</td></tr><tr><td>Loss on Sale / Retirement of Property, Plant and Equipment written off (Net)</td><td>46.92</td><td>51.68</td></tr><tr><td>Donations</td><td>0.11</td><td>2.11</td></tr><tr><td>Corporate Social Responsibility Expenses *</td><td>40.16</td><td>18.55</td></tr><tr><td>Miscellaneous Expenses</td><td>382.00</td><td>285.75</td></tr><tr><td>Total</td><td>2,347.96</td><td>1,944.05</td></tr></table>
+
+# Note :
+
+i) The above amount is net of capitalisation during the year, refer note 4.1.
+
+\*For transaction with related parties, refer note 69.
+
+# 39 Income Tax
+
+The major components of income tax expense are: 
+
+<table><tr><td>Particulars</td><td>For the year ended March 31, 2024</td><td>₹ In crore For the year ended March 31, 2023</td></tr><tr><td>Profit and Loss section</td><td></td><td></td></tr><tr><td>Current Tax:</td><td></td><td></td></tr><tr><td>Current Income Tax Charge</td><td>0.09</td><td>0.58</td></tr><tr><td>Tax Expenses / (Credit) adjusted relating to earlier years (refer note 63)</td><td>13.91</td><td>(768.18)</td></tr><tr><td>Total (a)</td><td>14.00</td><td>(767.60)</td></tr><tr><td>Deferred Tax (credit)</td><td></td><td></td></tr><tr><td>Deferred Tax (Credit) relating to earlier years (refer note 63)</td><td>(51.28)</td><td>(2,499.77)</td></tr><tr><td>Total (b)</td><td>(51.28)</td><td>(2,499.77)</td></tr><tr><td>Current tax component netted off with Deferred tax recoverable from future tariff</td><td>-</td><td>(46.86)</td></tr><tr><td>Total (c)</td><td>-</td><td>(46.86)</td></tr><tr><td>OCI section</td><td></td><td></td></tr><tr><td>Deferred tax related to items recognised in OCI during the year</td><td>(9.26)</td><td>-</td></tr><tr><td>Total (d)</td><td>(9.26)</td><td>-</td></tr><tr><td>Total (a+b+c+d)</td><td>(46.54)</td><td>(3,314.23)</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 39 Income Tax (Contd...)
+
+The income tax expense for the year can be reconciled to the accounting profit as follows:
+
+<table><tr><td colspan="2">Particulars</td><td>For the year ended March 31, 2024</td><td>₹ In crore For the year ended March 31, 2023</td></tr><tr><td colspan="2">Profit before tax as per Statement of Profit and Loss</td><td>20,791.51</td><td>7,674.70</td></tr><tr><td colspan="2">Income tax using the company&#x27;s domestic tax rate @ 25.168% (Previous year rate @ 25.168%)</td><td>5,232.81</td><td>1,931.57</td></tr><tr><td colspan="2">Tax Effect of :</td><td></td><td></td></tr><tr><td>i)</td><td>Unabsorbed Depreciation / brought forward losses utilised</td><td>(4,955.43)</td><td>(1,834.68)</td></tr><tr><td>ii)</td><td>(Reversal) of MAT on Deferred Tax Recoverable on which deferred tax asset not recognised</td><td>-</td><td>(46.86)</td></tr><tr><td>iii)</td><td>Tax Adjustments of earlier years, reversal of provision</td><td>77.23</td><td>(768.18)</td></tr><tr><td>iv)</td><td>Tax Impact on Distribution to holders of Unsecured Perpetual Securities</td><td>(410.72)</td><td>(166.40)</td></tr><tr><td>v)</td><td>Non Deductible Expenses</td><td>30.73</td><td>98.58</td></tr><tr><td>vi)</td><td>Non Taxable Income</td><td>(21.16)</td><td>(52.58)</td></tr><tr><td>vii)</td><td>Profit taxable at different tax rates and impact of tax rate differences</td><td>-</td><td>24.09</td></tr><tr><td>viii)</td><td>Reversal of Deferred tax liabilities created in earlier years, refer note 63</td><td>-</td><td>(2,499.77)</td></tr><tr><td colspan="2">Income tax recognised in Statement of Profit and Loss Total</td><td>(46.54)</td><td>(3,314.23)</td></tr></table>
+
+# 40 Earnings per share
+
+\` In crore 
+
+<table><tr><td>Particulars</td><td></td><td>For the year ended March 31, 2024</td><td>For the year ended March 31, 2023</td></tr><tr><td>Basic and Diluted EPS</td><td></td><td></td><td></td></tr><tr><td>Profit after tax for the year</td><td>₹ in crore</td><td>20,828.79</td><td>10,726.64</td></tr><tr><td>Less : Distribution on Unsecured Perpetual Securities (including Undeclared)</td><td>₹ in crore</td><td>919.31</td><td>1,251.65</td></tr><tr><td>Profit attributable to equity shareholders after impact of distribution on Unsecured Perpetual Securities</td><td>₹ in crore</td><td>19,909.48</td><td>9,474.99</td></tr><tr><td>Weighted average number of equity shares outstanding during the year towards Basic and Diluted</td><td>No.</td><td>3,85,69,38,941</td><td>3,85,69,38,941</td></tr><tr><td>Nominal Value of equity share</td><td>₹</td><td>10</td><td>10</td></tr><tr><td>Basic and Diluted EPS</td><td>₹</td><td>51.62</td><td>24.57</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 41 Details of Subsidiaries:
+
+The consolidated financial statements comprise the financial statements of the parent company, Adani Power Limited and the following subsidiaries.
+
+<table><tr><td rowspan="2">Name of the subsidiaries</td><td rowspan="2">Country of incorporation</td><td colspan="2">Effective ownership in subsidiary as at</td></tr><tr><td>March 31, 2024</td><td>March 31, 2023</td></tr><tr><td>Adani Power Resources Limited (&quot;APReL&quot;)</td><td>India</td><td>51%</td><td>51%</td></tr><tr><td>Adani Power (Jharkhand) Limited</td><td>India</td><td>100%</td><td>100%</td></tr><tr><td>Mahan Energen Limited</td><td>India</td><td>100%</td><td>100%</td></tr><tr><td>Adani Power Dahej Limited</td><td>India</td><td>100%</td><td>100%</td></tr><tr><td>Pench Thermal Energy (MP) Limited</td><td>India</td><td>100%</td><td>100%</td></tr><tr><td>Kutchh Power Generation Limited</td><td>India</td><td>100%</td><td>100%</td></tr><tr><td>Mahan Fuel Management Limited</td><td>India</td><td>100%</td><td>100%</td></tr><tr><td>Alcedo Infra Park Limited</td><td>India</td><td>100%</td><td>100%</td></tr><tr><td>Chandenvalle Infra Park Limited</td><td>India</td><td>100%</td><td>100%</td></tr><tr><td>Emberiza Infra Park Limited</td><td>India</td><td>100%</td><td>100%</td></tr><tr><td>Resurgent Fuel Management Limited (w.e.f April 20, 2022)</td><td>India</td><td>100%</td><td>100%</td></tr><tr><td>Aviceda Infra Park Limited (w.e.f September 05, 2022 till March 29, 2024)</td><td>India</td><td>-</td><td>100%</td></tr><tr><td>Innovant Buildwell Private Limited (Formerly Known as - Eternus Real Estate Private Limited) (w.e.f June 07, 2022 till January 29, 2024)</td><td>India</td><td>-</td><td>100%</td></tr></table>
+
+# Note :
+
+The principal activity of these Subsidiaries is generation of power and other related activities except in case of the subsidiaries viz. Alcedo Infra Park Limited, Aviceda Infra Park Limited, Chandenvalle Infra Park Limited and Emberiza Infra Park Limited, for which the principal activity is to acquire land parcel and simultaneously develop infrastructure facilities as a part of trading, investment and other business activities.
+
+# 42 Non-Controlling Interest (NCI)
+
+Non controlling interest relates to APReL as on March 31, 2024. NCI holds 49% shares in APReL.
+
+The table below shows summarised financial information of subsidiaries of the Group that have noncontrolling interests.
+
+\` In crore 
+
+<table><tr><td>Particulars</td><td>As at March 31, 2024</td><td>As at March 31, 2023</td></tr><tr><td>Non-current assets</td><td>0.01</td><td>-</td></tr><tr><td>Current assets</td><td>-</td><td>0.02</td></tr><tr><td>Non-current liabilities</td><td>0.01</td><td>0.01</td></tr><tr><td>Current liabilities</td><td>0.01</td><td>-</td></tr><tr><td>Net Assets</td><td>(0.01)</td><td>0.01</td></tr><tr><td>Equity attributable to owners of the group</td><td>(0.01)</td><td>0.01</td></tr><tr><td>Non-controlling interest</td><td>*</td><td>*</td></tr></table>
+
+(Figures below \` 50,000 are denominated with\*)
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 43 Contingent Liabilities and Commitments (to the extent not provided for) :
+
+# (a) Contingent Liabilities :
+
+<table><tr><td colspan="2">Particulars</td><td>As atMarch 31, 2024</td><td>₹ In croreAs atMarch 31, 2023</td></tr><tr><td rowspan="9">i)</td><td>Claims against the Group not acknowledged as debts in respect of:</td><td></td><td></td></tr><tr><td>a. Income Tax demands (under appeal)</td><td>6.33</td><td>27.74</td></tr><tr><td>b. Entry Tax (refer note 1(a) below)</td><td>-</td><td>1.65</td></tr><tr><td>c. Custom Duty (refer note 1(b) and 2 below)</td><td>1,220.51</td><td>1,220.51</td></tr><tr><td>d. Transmission Line Relinquishment (refer note 1(c) and 7 below)</td><td>226.58</td><td>339.40</td></tr><tr><td>e. Central Sales Tax (refer note 3 below)</td><td>13.10</td><td>13.10</td></tr><tr><td>f. Value Added Tax (refer note 4 below)</td><td>-</td><td>1.51</td></tr><tr><td>g. Goods and Services Tax (refer note 5 below)</td><td>35.12</td><td>-</td></tr><tr><td>h. Additional Penalty towards Water Charges (refer note 6 below)</td><td>173.90</td><td>75.35</td></tr><tr><td colspan="2">Total</td><td>1,675.54</td><td>1,679.26</td></tr></table>
+
+# Notes:
+
+1) (a) In Case of Raipur TPP, the Company has opted for amnesty scheme during the current year and accordingly the matter stands settled.
+
+(b) In Case of Raipur TPP, The Ministry of Power, Government of India vide letter dated September 08, 2011 had granted Provisional Mega Power Status Certificate under the Mega Power Policy for construction of its 1,370 MW Thermal based Power Plant. In terms of the same, the Raipur TPP (the entity stands merged with the Company) has availed exemptions of duty of customs and excise duty upon submission of bank guarantees worth \` 960.01 crore and pledge of margin money deposits of \` 59.67 crore. The grant of final Mega power status of Raipur TPP is dependent upon plant achieving tie up for supply of power for 70% of its installed capacity through long term Power Purchase Agreements by way of competitive bidding and the balance through regulated market within stipulated time. The time period to achieve tie up for supply of power as prescribed in Mega Power Policy has been further extended to 156 months from the date of Import, till September 12, 2024, by the Ministry of Power, Government of India vide amendment dated April 07, 2022. The Management expects to comply the conditions and hence no adjustments are made in the books.
+
+(c) In case of Raipur TPP, the Company had entered into a bulk power transmission agreement (‘BPTA’) with Power Grid Corporation of India Limited (‘PGCIL’) dated March 31, 2010 as per which the Company was granted Long term Access (‘LTA’) of 816 MW. However, owing to non-availability of PPA, which as per management is beyond the control of the Company, Raipur TPP was not in a position to utilise the LTA and has accordingly sought for surrender of the LTA, for which PGCIL has raised demand of \` 154.50 crore towards relinquishment charges on the Company. However, the said claim will be subject to the outcome of the petition dated September 07, 2020 filed by the Company before the APTEL. Presently, the Company has taken legal opinion in the matter as per which there are force majure events and other factors as per which it is not liable to pay charges.
+
+2) For the Company’s Udupi TPP and Tiroda TPP, matter on Custom Duty relating to March 2012 to February 2013 is contested at Customs, Excise and Service Tax Appellate Tribunal (“CESTAT”).   
+3) The Central Sale Tax matter of Company’s Mundra TPP relating to FY 2017-18, is contested at Commissioner Appeals.
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 43 Contingent Liabilities and Commitments (to the extent not provided for) : (Contd...)
+
+4) For company’s Tiroda TPP, Joint Commissioner of State Tax (Adm), Nagpur Division, has raised demand of Value added tax relating to FY 13-14 along with interest. During the current year, the Company has opted for the amnesty scheme and accordingly the matter stands settled.   
+5) The Goods and Services Tax matters of Company’s Mundra TPP and Raipur TPP relating to FY 2017-18 and Raigarh TPP relating to FY 2022-23, are contested at Commissioner Appeals   
+6) In case of APJL, Water resource department (“WRD”), Jharkhand has charged penalty on the amount of penalty on water charges which has not been accepted by APJL as per the terms of agreement and APJL has filed Writ Petition with Hon’ble High court of Jharkhand.   
+7) In case of MEL, the Company relinquished the long-term transmission agreement for supply of power through Mahan – Sipat transmission line in April 2017, which was accepted by Central Transmission Utility Ltd (“CTUIL”). In this regard, CERC vide its tariff determination order dated March 14, 2022 read with true up order dated November 22, 2023 imposed additional transmission charges on account of change in technical configuration of the transmission line. Subsequently, the Company filed a review petition stating that no additional charges are leviable, as the transmission line was relinquished. Moreover, the Company also filed an appeal in this matter with the APTEL. While the matter is pending final adjudication, APTEL vide its interim order dated January 24, 2023 instructed the Company to make interim payments, till the appeal is finally disposed. As per the APTEL order, the Company had made payment of \` 86.76 crore under protest.
+
+ii) In case of the Mundra TPP, apart from above, the Development Commissioner, Mundra has issued a show cause notice to the Company in case of Mundra TPP for the period FY 2009-10 to FY 2014-15 in relation to custom duty on raw materials used for generation of electricity supplied from SEZ to DTA, which amounts to \` 963.94 crore. The Company has contested the said show cause notice. Further, the management is of the view that such duties on raw material are eligible to be made good to Mundra TPP under the PPA with Discoms or are refundable from the Authorities. Hence, the Company has not considered this as contingent liabilities.
+
+iii) The Group has assessed that it is only possible, but not probable, that outflow of economic resources will be required in respect of above matters.
+
+(b) Commitments : 
+
+<table><tr><td>Particulars</td><td>As atMarch 31, 2024</td><td>₹ In croreAs atMarch 31, 2023</td></tr><tr><td>Estimated amount of contracts remaining to be executed on capital account and not provided for (net of advances) (refer notes below)</td><td>17,188.08</td><td>8,674.54</td></tr><tr><td>Total</td><td>17,188.08</td><td>8,674.54</td></tr></table>
+
+# Notes:
+
+i) In case of the Company, capital commitment mainly includes commitment relating to Flue Gas Desulfurisation project.   
+ii) Mahan Energen Limited (“MEL”) is in the process of undertaking an expansion project of two units of 2\*800 MW Ultra super critical thermal power plant (“hereinafter referred as Phase II expansion project”) at Bandhoura, District Singrauli, Madhya Pradesh. Above amount of Capital commitment includes open purchase order (net of capital advances) pertaining to Phase II expansion project.
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 43 Contingent Liabilities and Commitments (to the extent not provided for) : (Contd...)
+
+# Others Commitments :
+
+(i) The Company has given a commitment to lenders of Mahan Energen Limited (“MEL”) that it will not transfer its 49% equity holding in MEL outside the Adani Power Group, except with the prior approval of lenders.
+
+# 44 Leases
+
+The Group has lease contracts for land, Building and computer hardware used in its operations. Leases of these items have lease terms between 2 to 99 years. The Group is restricted from assigning and subleasing the leased assets.
+
+The weighted average incremental borrowing rate applied to lease liabilities are in range of 8.50% to 10.00%.
+
+(i) The following is the movement in Lease liabilities.
+
+<table><tr><td>Particulars</td><td>As atMarch 31, 2024</td><td>As atMarch 31, 2023</td></tr><tr><td>Opening Balance</td><td>97.48</td><td>102.75</td></tr><tr><td>Add: Addition on account of new lease arrangements during the year</td><td>56.71</td><td>-</td></tr><tr><td>Add: Finance cost incurred for the year</td><td>20.13</td><td>9.41</td></tr><tr><td>Less: Payment of Lease Liabilities</td><td>(15.62)</td><td>(14.68)</td></tr><tr><td>Closing Balance (refer note 21 and 27)</td><td>158.70</td><td>97.48</td></tr></table>
+
+(ii) Classification of Lease Liabilities:
+
+<table><tr><td>Particulars</td><td>As atMarch 31, 2024</td><td>As atMarch 31, 2023</td></tr><tr><td>Current Lease Liabilities</td><td>15.59</td><td>9.16</td></tr><tr><td>Non-current Lease Liabilities</td><td>143.11</td><td>88.32</td></tr></table>
+
+(iii) Disclosure of expenses related to Lease:
+
+<table><tr><td>Particulars</td><td>For the year ended March 31, 2024</td><td>For the year ended March 31, 2023</td></tr><tr><td>Interest on lease liabilities (Net of capitalisation of ₹ 2.95 crore (Previous year ₹ 0.09 crore)</td><td>17.19</td><td>9.32</td></tr><tr><td>Depreciation expense on Right-of-use assets</td><td>33.28</td><td>24.90</td></tr><tr><td>Expense Related to Short Term Leases and Leases of Low Value</td><td>16.75</td><td>10.60</td></tr></table>
+
+(iv) Amount recognised in statement of Cash Flows:
+
+<table><tr><td>Particulars</td><td>For the year ended March 31, 2024</td><td>₹ In crore For the year ended March 31, 2023</td></tr><tr><td>Payment of lease liability (including interest paid (Net of capitalisation) ₹ 15.15 crore (Previous year - ₹ 9.41 crore))</td><td>15.62</td><td>14.68</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 44 Leases (Contd...)
+
+(v) The additions to the Rights-of-use asset during the year and its carrying value - refer note 4.1 (vi)   
+(vi) The undiscounted maturity analysis of lease liabilities over the remaining lease term is as follows:
+
+<table><tr><td rowspan="2">Particulars</td><td colspan="2">₹ In crore</td></tr><tr><td>As at March 31, 2024</td><td>As at March 31, 2023</td></tr><tr><td>Less than 1 year</td><td>23.56</td><td>15.54</td></tr><tr><td>1 to 5 years</td><td>67.93</td><td>47.85</td></tr><tr><td>More than 5 year</td><td>458.92</td><td>308.94</td></tr></table>
+
+# 45 Provision for Mine Closure Obligation
+
+<table><tr><td>Particulars</td><td>As atMarch 31, 2024</td><td>₹ In croreAs atMarch 31, 2023</td></tr><tr><td>Opening Balance</td><td>42.07</td><td>39.44</td></tr><tr><td>Add: Interest on account of unwinding of Provision</td><td>4.21</td><td>2.63</td></tr><tr><td>Less: Utilisation</td><td>-</td><td>-</td></tr><tr><td>Closing Balance (refer note 23)</td><td>46.28</td><td>42.07</td></tr></table>
+
+# Note :
+
+In case of Raipur TPP, the mine closure obligation has been remeasured based on the management estimate for the cost likely to be incurred on mine closure.
+
+# 46 Provision for obligation incidental to land acquisition
+
+(i) The following is the movement in Provision for obligation incidental to land acquisition :
+
+<table><tr><td>Particulars</td><td>As atMarch 31, 2024</td><td>As atMarch 31, 2023</td></tr><tr><td>Opening Balance</td><td>71.86</td><td>85.13</td></tr><tr><td>Less: Amount utilised during the year</td><td>(7.25)</td><td>(6.34)</td></tr><tr><td>Less: Amount charged / (adjusted) in statement of profit and loss</td><td>8.28</td><td>(6.93)</td></tr><tr><td>Closing Balance (refer note 23 and 31)</td><td>72.89</td><td>71.86</td></tr></table>
+
+(ii) Classification of Provision for obligation incidental to land acquisition :
+
+<table><tr><td>Particulars</td><td>As at March 31, 2024</td><td>As at March 31, 2023</td></tr><tr><td>Current Provision for obligation incidental to land acquisition</td><td>7.18</td><td>6.20</td></tr><tr><td>Non-current Provision for obligation incidental to land acquisition</td><td>65.71</td><td>65.66</td></tr></table>
+
+# Note :
+
+Mahan Energen Limited has capitalised Rehabilitation & Resettlement (“R&R”) expenditure incurred till March 31, 2013 towards land owners with cost of land, as assessed and estimated by the management. As per IND AS 16 post acquisition of land, R&R expenses is charged to the Statement of Profit and Loss.
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+47 The Company had sought cancellation of the Jitpur coal block and requested the Nominated Authority, Ministry of Coal, New Delhi, to cancel the Vesting Order, vide its representation dated October 31, 2020 and had also requested to authorities for refund of the costs of \` 138.51 crore incurred by it and for release of the performance bank guarantee of \` 92.90 crore given to the Nominated Authority. The Nominated Authority vide its letter dated September 17, 2021, had accepted the surrender petition by the Company and ordered for invocation of bank guarantee along with obligation to fulfil antecedent liability. On September 29, 2021, the Hon’ble Delhi High Court, in response to petition filed by the Company, has stayed the invocation of the said performance bank guarantee and restrained the Nominated Authority from taking any coercive steps in the matter. The said Writ Petition is yet to be adjudicated by the Delhi High Court. Meanwhile, the Hon’ble Delhi High Court vide its order dated March 03, 2022, had directed the Nominated authority to return the said performance bank guarantee within one week from the date of execution of Letter of Intent of “Coal Mines Production and Development Agreement” (“CMPDA”) with a new bidder and to present the said CMPDA before the Delhi High Court. The Nominated Authority has concluded the fresh e-auction of Jitpur Coal Block on September 13, 2022. Pursuant to this, the CMDPA has been signed between the new bidder and the Nominated Authority, Ministry of Coal on October 13, 2022. The Nominated Authority is yet to submit CMPDA with new bidder with Delhi High Court in the matter.
+
+Earlier, the Company has submitted the details of costs / expenditure incurred towards development of mine with Nominated Authority, and based on allotment of mine to a new bidder, the Company expects a favourable resolution relating to cost realisation of Jitpur mine with Nominated Authority and for release of Performance Bank Guarantee. The Company has also obtained legal opinion basis which it is reasonably confident to get compensation realised of the entire costs incurred towards the development of the coal mine in the subsequent period.
+
+48 The Company through erstwhile subsidiary, Raipur Energen Limited (“REL”) has incurred cost of \` 55.57 crore and \` 30.75 crore towards development of Talabira Coal mine and Ganeshpura Coal mine, respectively in the earlier years.
+
+In the above matter, earlier the Company had filed two writ petitions with Hon’ble Delhi High Court requesting surrender of the said mines in view of Union of India’s (“UoI”) notification dated April 16, 2015 stating capping of the fixed / capacity charges and also requested to refund the costs incurred along with the release of bid security. The Hon’ble Delhi High Court vide its single order dated April 15, 2019 dismissed the petitions on the ground of delay in filling of writ petitions. Consequently, the Company filed petitions before Hon’ble Supreme Court to set aside the order of the Hon’ble Delhi High Court. Pending adjudication of the petitions, Hon’ble Supreme Court directed UoI and others vide its order dated May 30, 2019 that no coercive action to be taken in these matters.
+
+The management expects favourable resolution of these matters and is reasonably confident to realise the entire cost spent towards these coal mines as compensation in the subsequent periods.
+
+However, the matter has been pending for long period of time, the company based on prudence principles has fully provided the amount in the books for the purpose of financial reporting.
+
+49 The Government of India conducted bidding for allocation of coal blocks, under the coal block auction process whereby the MEL acquired the rights of Tokisud Coal Block (in the state of Jharkhand) on March 18, 2015. Subsequently, in the month of April 2015, by way of a notification, Ministry of Power put cap on the fixed/ capacity charges due to which MEL had filed a writ petition in the High Court of Delhi for impugning the above referred notification and also offered to return the said coal block to the Government of India against return of the performance security in the form of Bank Guarantee of \` 261.76 crore provided by MEL and moneys paid, without any penalty.
+
+However, Hon’ble High Court vide its judgement dated April 15, 2019 dismissed the petition of MEL. Subsequently, MEL has filed Special Leave Petition (SLP) before the Hon’ble Supreme Court against the order of the Hon’ble High Court. Meanwhile, the bank guarantee of \` 261.76 crore was invoked by the Nominated Authority.
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+The Union Ministry of Coal has re-allocated the said coal block to National Mineral Development Corporation (NMDC) for commercial mining. MEL had incurred a total cost of \` 491.62 crore towards development of tokisud coal mine. Nominated authority vide order dated March 16, 2022 determined \` 163.23 crore being the total compensation payable by successful allottee (NMDC) to the MEL. The said amount has been received during the year ended March 31, 2023. During the pendency of the matter in Supreme Court, the Company has fully provided for the balance receivable of \` 328.41 crore in the books for the purpose of financial reporting.
+
+50 i) The National Green Tribunal (“NGT”) in a matter relating to non-compliance of environmental norms relating to Udupi thermal power plant (“Udupi TPP”) directed the Company vide its order dated March 14, 2019, to make payment of \` 5.00 crore as an interim environmental compensation to Central Pollution Control Board (“CPCB”), which was deposited by the Company with CPCB under protest, in April 2019 and expensed the same in the books.
+
+NGT vide its order dated May 31, 2022 settled the matter and directed the Company to deposit an additional amount of \` 47.02 crore with CPCB within 3 months from the date of order. The Company has recognised expense provision of \` 47.02 crore in the books on a conservative basis, although, the Company has filed petition with the Hon’ble Supreme Court dated August 26, 2022 against the above referred NGT order. The Udupi TPP continues to operate in compliance with all the conditions under Environment Clearance as at reporting date.
+
+ii) In case of MEL, Hon’ble National Green Tribunal (NGT) vide order dated August 28, 2018 has prohibited Northern Coalfields Limited (NCL) to transport coal by road, who is the major supplier of coal to MEL. The customers of NCL (along with the Company) had requested for some time to allow till a alternative arrangement for transportation of coal is in place. The Oversight Committee of NGT (Committee) as an interim measure allowed to transportation of coal by road for two months period.
+
+In the meantime, NCL moved application before Hon’ble NGT to review its order. However their application was rejected. Thereafter NCL moved to Hon’ble Supreme Court who stated that ‘status quo as of today shall be maintained in the meantime’.
+
+However the Committee is of the view that Status quo order was passed when NGT order on coal transportation was in operation which has prohibited NCL to transport coal by road. Consequently, a General Notice from NCL on June 22, 2019 has been served on MEL confirming the above position to stop sale of coal by road to MEL at its Power Plant at Singrauli M.P, Sonabhadra U.P.
+
+Subsequently, NCL decided to keep the sale of coal in abeyance for the time being and to approach Hon’ble Supreme Court for further resolution of issue. The Company has also approached Hon’ble Supreme Court to obtain necessary directions which would ensure continuous operations of the Company, since its operations came to halt fully (for 7 days) after supply of coal being stopped by NCL.
+
+Hon’ble Supreme Court vide its order dated July 01, 2019 has ordered to maintain status quo i.e. permitting the transportation of coal by road from NCL till the further order. Pending the decision of Hon’ble Supreme Court, the Company is presently getting the supply of coal through road for its operations of generation of electricity.
+
+51 (a) In respect of Mundra TPP, the management believes that on account of resolution of majority of the issues relating to tariff compensation claim with GUVNL and Haryana Discoms and also on account of execution of 360 MW PPA with MPSEZ Utilities Limited (“MUL”), and certain other factors, Mundra TPP of the Company would be able to establish profitable operations over a foreseeable future and meet its performance and financial obligations. During the year, the Company has resumed supply of power to Haryana Discom and consequently has improved its operational performance in terms of achieving Higher Plant load factor (PLF) and generating positive operating cashflows, hence, based on the assessment of value in use of Mundra TPP, no provision / adjustment is considered necessary to the carrying value of its Mundra TPP related property, plant and equipment aggregating to \` 15,094.30 crore as at March 31, 2024.
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+(b) The Company has determined the recoverable amounts of all its Thermal Power Plants (including goodwill allocated to respective Power Plants) over their useful lives based on the Cash Generating Units (“CGUs”) identified, as required under Ind AS 36, Impairment of Assets on the basis of their Value in Use by estimating the future cash inflows over the estimated useful life of the Power Plants. Further, the cash flow projections are based on estimates and assumptions relating to tariff, operational performance of the Plants, availability of domestic coal under fuel supply agreement / coal linkage as per the directives of Competent Authority, life extension plans, market prices of coal and other fuels, exchange variations, inflation, terminal value etc. which are considered reasonable by the Management.
+
+On a careful evaluation of the aforesaid factors, the Management of the Group has concluded that the recoverable value of such CGUs individually is higher than their respective carrying amounts as at March 31, 2024. However, if these estimates and assumptions were to change in future, there could be corresponding impact on the recoverable amounts of the Plants.
+
+52 The Group has taken various derivatives to hedge its risks associated with foreign currency fluctuations on items including principal loan amount, Trade Credits, Letter of Credits etc. and interest thereof along with interest rate changes. The outstanding position of derivative instruments is as under :
+
+\` In crore 
+
+<table><tr><td rowspan="2">Nature</td><td rowspan="2">Purpose</td><td colspan="2">As at March 31, 2024</td><td colspan="2">As at March 31, 2023</td></tr><tr><td>Amount</td><td>USD(in Millions)</td><td>Amount</td><td>USD(in Millions)</td></tr><tr><td rowspan="4">Forward covers</td><td>Hedging of Trade Credits</td><td>4,383.43</td><td>525.56</td><td>1,496.84</td><td>182.16</td></tr><tr><td>Hedging of Creditors</td><td>310.18</td><td>37.19</td><td>510.57</td><td>62.14</td></tr><tr><td>Hedging of Trade Receivables</td><td>(2,426.45)</td><td>(290.92)</td><td>-</td><td>-</td></tr><tr><td>Hedging of External Commercial Borrowings and interest</td><td>-</td><td>-</td><td>503.37</td><td>61.26</td></tr><tr><td>Principal only swaps (through cash flow hedge)</td><td>Hedging of LC, Acceptances, Creditors</td><td>1,152.47</td><td>138.18</td><td>3,689.02</td><td>448.95</td></tr><tr><td>Cross currency interest rate swap (through cash flow hedge)</td><td>Hedging of LC, Acceptances, Creditors</td><td>32.17</td><td>3.86</td><td>2,691.07</td><td>327.50</td></tr><tr><td></td><td></td><td>3,451.80</td><td></td><td>8,890.87</td><td></td></tr></table>
+
+The details of foreign currency exposures not hedged by derivative instruments are as under :
+
+\` In crore 
+
+<table><tr><td rowspan="2">Particulars</td><td colspan="2">As at March 31, 2024</td><td colspan="2">As at March 31, 2023</td></tr><tr><td>Amount</td><td>Foreign Currency (in Millions)</td><td>Amount</td><td>Foreign Currency (in Millions)</td></tr><tr><td rowspan="3">1. Import Creditors</td><td>3,124.36</td><td>USD 374.60</td><td>2,084.90</td><td>USD 253.73</td></tr><tr><td>-</td><td>-</td><td>0.84</td><td>GBP 0.08</td></tr><tr><td>-</td><td>-</td><td>0.52</td><td>EURO 0.06</td></tr><tr><td>2. Trade credits from banks</td><td>133.94</td><td>USD 16.06</td><td>-</td><td>-</td></tr><tr><td>3. Foreign currency borrowings</td><td>-</td><td>-</td><td>847.51</td><td>USD 103.14</td></tr><tr><td>4. Interest accrued but not due</td><td>33.93</td><td>USD 4.07</td><td>16.02</td><td>USD 1.95</td></tr><tr><td>5. Trade Receivables</td><td>(2,497.57)</td><td>USD (299.45)</td><td>-</td><td>-</td></tr><tr><td></td><td>794.66</td><td></td><td>2,949.79</td><td></td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 53 Financial Risk Management Objective and Policies :
+
+The Group’s risk management activities are subject to the management direction and control under the framework of Risk Management Policy as approved by the Board of Directors of the Company. The Management ensures appropriate risk governance framework for the Group through appropriate policies and procedures and the risks are identified, measured and managed in accordance with the Group’s policies and risk objectives.
+
+The Group’s financial liabilities (other than derivatives) comprises mainly of borrowings including interest accrual, leases, trade, capital and other payables. The Group’s financial assets (other than derivatives) comprise mainly of investments, cash and cash equivalents, other balances with banks, loans, trade and other receivables.
+
+In the ordinary course of business, the Group is exposed to Market risk, Credit risk and Liquidity risk.
+
+# (i) Market risk
+
+Market risk is the risk that the fair value of future cash flows of a financial instrument will fluctuate because of changes in market prices. Market risk comprises three types of risk: interest rate risk, currency risk and commodity risk.
+
+# a) Interest rate risk
+
+Interest rate risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market interest rates. The Group’s exposure to the risk of changes in market interest rates relates primarily to the part of Group’s debt obligations with floating interest rates.
+
+The Group manages its interest rate risk by having a mixed portfolio of fixed and variable rate loans and borrowings. Significant portion of Group’s borrowings is in \` and are borrowed at fluctuating interest rates.
+
+The sensitivity analysis have been carried out based on the exposure to interest rates for instruments not hedged against interest rate fluctuation at the end of the reporting period. The said analysis has been carried out on the amount of floating rate liabilities outstanding at the end of the reporting period. The year end balances are not necessarily representative of the average debt outstanding during the year. A 50 basis point increase or decrease represents management’s assessment of the reasonably possible change in interest rates.
+
+In case of fluctuation in interest rates by 50 basis points on the exposure of borrowings (having fluctuating rates i.e. exposed to changes in rates) of \` 28,053.90 crore as on March 31, 2024 and \` 21,985.47 crore as on March 31, 2023 respectively and if all other variables were held constant, the Group’s profit or loss for the year would increase or decrease as follows :
+
+\` In crore 
+
+<table><tr><td>Particulars</td><td>For the year ended March 31, 2024</td><td>For the year ended March 31, 2023</td></tr><tr><td>Impact on Profit or Loss before tax for the year</td><td>140.27</td><td>109.93</td></tr><tr><td>Impact on Equity</td><td>104.97</td><td>109.93</td></tr></table>
+
+The Group intends to hold investment in liquid mutual fund for relatively shorter period and hence, interest rate risk is not material to that extent.
+
+# b) Foreign currency risk
+
+Foreign currency risk is the risk that the fair value or future cash flows of an exposure will fluctuate because of changes in foreign exchange rates. The Group’s exposure to the risk of changes in foreign exchange rates relates primarily to the Group’s operating activities (Coal imports etc.) and borrowings. The Group manages its foreign currency risk by hedging transactions that are expected to realise in future.
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 53 Financial Risk Management Objective and Policies : (Contd...)
+
+The Group manages its foreign currency risk by entering into currency swap for converting \` loan into other foreign currency for taking advantage of lower cost of borrowing in stable currency environment. The Group also enters into various foreign exchange hedging contracts such as forward covers, swaps, options etc. to mitigate the risk arising out of foreign exchange rate movement on foreign currency borrowings or trade payables. (including Capital Creditors)
+
+Every one percentage point depreciation / appreciation in the exchange rate between the Indian rupee and U.S.dollar on the unhedged exposure of \$ 73.52 million as on March 31, 2024 and \$ 234.08 million as on March 31, 2023 would have affected the Group's profit or loss for the year as follows:
+
+<table><tr><td>Particulars</td><td>For the year ended March 31, 2024</td><td>₹ In crore For the year ended March 31, 2023</td></tr><tr><td>Impact on Profit or Loss before tax for the year (Net of amounts capitalised under Property, Plant and Equipment)</td><td>6.13</td><td>19.23</td></tr><tr><td>Impact on Equity</td><td>4.59</td><td>16.38</td></tr></table>
+
+# c) Commodity price risk
+
+The Group’s exposure to commodity price is affected by a number of factors including the effect of regulation, the price volatility of coal prices in the market, including imported coal, contract size and length, market condition etc. which is moderated by optimising the procurement under fuel supply agreement and getting compensated under long term power purchase agreements and change in law regulation. In case, the Group anticipates non-availability of coal, the same is mitigated by sourcing imported coal in advance to meet the demand. Its operating / trading activities require the on-going purchase for continuous supply of coal and other commodities. Therefore the Group monitors its purchases closely to optimise the procurement cost.
+
+# (ii) Credit risk
+
+Credit risk is the risk that counter party will not meet its obligations under a financial instrument or customer contract, leading to a financial loss.
+
+# a) Trade Receivables
+
+The Group is having majority of receivables from State Electricity Boards which are Government undertakings and have interest clause on delayed payments and hence, they are secured from credit losses in the future. The receivable against supply of Electricity to Bangladesh Power Development Board (BPDB) are secured against sovereign guarantee of Bangladesh Government.
+
+# b) Other Financial Assets
+
+This comprises of deposit with banks, loans, investments in mutual funds, derivative assets and other receivables. The company limits its exposure to credit risks arising from these financial assets and there is no collateral held against these because counter parties are group companies, banks and recognised financial institutions. Banks and recognised financial institutions have high credit ratings assigned by credit rating agencies.
+
+# (iii) Liquidity risk
+
+Liquidity risk is the risk that the Company will encounter difficulty in meeting the obligations associated with is financial liabilities.
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 53 Financial Risk Management Objective and Policies : (Contd...)
+
+The Group monitors its liquidity requirement using cash flow forecasting models. These models consider the maturity of its financial investments, committed funding and projected cash flows from operations. The Group’s objective is to provide financial resources to meet its business objectives in a timely, cost effective and reliable manner and to manage its capital structure. A balance between continuity of funding and flexibility is maintained through internal accruals as well as adequately adjusting the working capital cycle.
+
+Having regard to the nature of the business wherein the Group is able to generate regular cash flows over a period of time, any surplus cash generated, over and above the amount required for working capital management and other operational requirements, is retained as cash and cash equivalents (to the extent required) and any excess is invested in highly liquid mutual funds with appropriate maturities to optimise the cash returns on investments while ensuring sufficient liquidity to meet its liabilities.
+
+Read with note 55, the Group expects to generate positive cash flows from operations in order to meet its external financial liabilities as they fall due and also consistently monitors funding options available in the debt and capital market with a view to maintain financial flexibility.
+
+# Maturity profile of financial liabilities :
+
+The table below has been drawn up based on the undiscounted contractual maturities of the financial liabilities including interest that will be paid on those liabilities upto the maturity of the instruments.
+
+\` in crore 
+
+<table><tr><td>As at March 31, 2024</td><td>Carrying Amount</td><td>Less than 1 year</td><td>1 to 5 years</td><td>More than 5 years</td><td>Total</td></tr><tr><td>Borrowings (refer note 20 and 26)</td><td>34,456.86</td><td>10,502.83</td><td>15,542.47</td><td>28,997.58</td><td>55,042.88</td></tr><tr><td>Trade Payables</td><td>3,636.30</td><td>3,636.30</td><td>-</td><td>-</td><td>3,636.30</td></tr><tr><td>Derivative Instruments</td><td>3.69</td><td>3.69</td><td>-</td><td>-</td><td>3.69</td></tr><tr><td>Lease liabilities</td><td>158.70</td><td>23.56</td><td>67.93</td><td>458.92</td><td>550.41</td></tr><tr><td>Other Financial Liabilities</td><td>2,087.18</td><td>2,086.11</td><td>-</td><td>37.95</td><td>2,124.06</td></tr></table>
+
+\` in crore 
+
+<table><tr><td>As at March 31, 2023</td><td>Carrying Amount</td><td>Less than 1 year</td><td>1 to 5 years</td><td>More than 5 years</td><td>Total</td></tr><tr><td>Borrowings (refer note 20 and 26)</td><td>42,252.05</td><td>11,954.46</td><td>30,776.86</td><td>13,145.76</td><td>55,877.08</td></tr><tr><td>Trade Payables</td><td>3,079.45</td><td>3,079.45</td><td>-</td><td>-</td><td>3,079.45</td></tr><tr><td>Derivative Instruments</td><td>7.04</td><td>7.04</td><td>-</td><td>-</td><td>7.04</td></tr><tr><td>Lease liabilities</td><td>97.48</td><td>15.54</td><td>47.85</td><td>308.94</td><td>372.33</td></tr><tr><td>Other Financial Liabilities</td><td>2,454.54</td><td>2,454.54</td><td>-</td><td>-</td><td>2,454.54</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 54 Contract balances and Trade Receivables Ageing
+
+# (i) Contract balances:
+
+The following table provides information about trade receivables, contract assets and contract liabilities from the contracts with customers.
+
+<table><tr><td>Particulars</td><td>As at March 31, 2024</td><td>As at March 31, 2023</td></tr><tr><td>Trade Receivables (Also refer note 33)</td><td>11,677.48</td><td>11,529.36</td></tr><tr><td>Contract assets relate to the invoices pending to be raised (refer note 15)</td><td>-</td><td>0.18</td></tr><tr><td>Contract liabilities relate to advance received from customers (refer note 30)</td><td>4.89</td><td>32.73</td></tr></table>
+
+Set out below is the amount of revenue recognised from: 
+
+<table><tr><td>Particulars</td><td>For the year ended March 31, 2024</td><td>For the year ended March 31, 2023</td></tr><tr><td>Amount included in contract liabilities at the beginning of the year</td><td>32.73</td><td>53.26</td></tr></table>
+
+Reconciliation of the amount of revenue recognised in the statement of profit and loss with the contracted price:
+
+<table><tr><td>Particulars</td><td>For the year ended March 31, 2024</td><td>For the year ended March 31, 2023</td></tr><tr><td>Revenue as per contracted price (excluding other operating revenue)</td><td>51,604.98</td><td>38,286.81</td></tr><tr><td>Adjustments</td><td></td><td></td></tr><tr><td>Discount on prompt payment</td><td>(127.76)</td><td>(83.31)</td></tr><tr><td>Discount under Shakti Scheme</td><td>(28.67)</td><td>(33.54)</td></tr><tr><td>Income during construction of Power Plant, adjusted against Value of Property, Plant and Equipments Capitalised</td><td>(224.79)</td><td>(146.93)</td></tr><tr><td>Other adjustment (refer note 33 (iv)(b))</td><td>(1,172.69)</td><td>-</td></tr><tr><td>Revenue from contract with customers</td><td>50,051.07</td><td>38,023.03</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 54 Contract balances and Trade Receivables Ageing (Contd...)
+
+# (ii) Trade Receivable Ageing:
+
+a. Balance as at March 31, 2024
+
+\` In crore 
+
+<table><tr><td rowspan="2">Particulars</td><td rowspan="2">Unbilled</td><td rowspan="2">Not due</td><td colspan="5">Outstanding for following periods from due date of Payment</td><td rowspan="2">Total</td></tr><tr><td>Less than 6 Months</td><td>6 Months - 1 year</td><td>1-2 years</td><td>2-3 years</td><td>More than 3 years</td></tr><tr><td>Undisputed Trade receivable - Considered Good</td><td>2,814.08</td><td>3,219.28</td><td>5,151.67</td><td>164.50</td><td>82.82</td><td>93.09</td><td>131.69</td><td>11,657.13</td></tr><tr><td>Disputed Trade receivable - Considered Good (refer note (iv) below)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>20.35</td><td>-</td><td>20.35</td></tr><tr><td>Total</td><td>2,814.08</td><td>3,219.28</td><td>5,151.67</td><td>164.50</td><td>82.82</td><td>113.44</td><td>131.69</td><td>11,677.48</td></tr></table>
+
+b. Balance as at March 31, 2023
+
+\` In crore 
+
+<table><tr><td rowspan="2">Particulars</td><td rowspan="2">Unbilled</td><td rowspan="2">Not due</td><td colspan="5">Outstanding for following periods from due date of Payment</td><td rowspan="2">Total</td></tr><tr><td>Less than 6 Months</td><td>6 Months - 1 year</td><td>1-2 years</td><td>2-3 years</td><td>More than 3 years</td></tr><tr><td>Undisputed Trade receivable - Considered Good</td><td>1,730.92</td><td>3,878.25</td><td>4,119.59</td><td>728.43</td><td>125.38</td><td>207.69</td><td>718.75</td><td>11,509.01</td></tr><tr><td>Disputed Trade receivable - Considered Good (refer note (iv) below)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>20.35</td><td>-</td><td>-</td><td>20.35</td></tr><tr><td>Total</td><td>1,730.92</td><td>3,878.25</td><td>4,119.59</td><td>728.43</td><td>145.73</td><td>207.69</td><td>718.75</td><td>11,529.36</td></tr></table>
+
+# Notes :
+
+i) The above ageing has been calculated based on due date as per terms of agreement. In case where due date is not provided, date of transaction is considered.   
+ii) Includes \` Nil (Previous year - \` 1,192.50 crore) of Customers’ bills discounted considered as not due.
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 54 Contract balances and Trade Receivables Ageing (Contd...)
+
+iii) Trade receivable includes certain balances which are under reconciliation / settlement with Discoms for payment / closure.   
+iv) In respect of the Company’s 40 MW solar power plant at Bitta, in the matter of alleged excess energy injected in terms of the PPA, GUVNL has withheld \` 72.10 crore against power supply dues during the year ended March 31, 2022. GERC vide its order dated November 03, 2022 directed GUVNL to make payment of the amount withheld within three months from the date of order along with late payment surcharge as per PPA.
+
+However, GUVNL has filed an appeal with APTEL against the said order of GERC and the matter is pending adjudication. The Company, as per interim order of APTEL dated February 28, 2023, has received \` 51.75 crore being 75% of the withheld amount subject to outcome of appeal with APTEL. The management, based on GERC order, expects favourable outcome in the matter.
+
+v) In respect of receivables from GUVNL against Mundra TPP, refer note 33(iv)(b).   
+vi) Also refer note 3(vii).
+
+# 55 Capital management :
+
+The Group’s objectives when managing capital is to safeguard continuity, maintain a strong credit rating and healthy capital ratios in order to support its business and provide adequate return to shareholders through continuing growth. The Group’s overall strategy remains unchanged from previous year.
+
+The Group sets the amount of capital required on the basis of annual business and long-term operating plans which include capital and other strategic investments.
+
+The funding requirements are met through a mixture of equity, unsecured perpetual securities, internal fund generation and other long term borrowings. (including consolidation of borrowings) The Group monitors capital and long term debt on the basis of debt to equity ratio.
+
+The debt equity ratio at the end of the reporting period is as follows :
+
+<table><tr><td>Particulars</td><td>As atMarch 31, 2024</td><td>As atMarch 31, 2023</td></tr><tr><td>Debt (refer note (i) below)</td><td>28,218.61</td><td>36,677.95</td></tr><tr><td>Total Capital (refer note (ii) below)</td><td>43,145.03</td><td>29,875.66</td></tr><tr><td>Debt Equity Ratio (In times)</td><td>0.65</td><td>1.23</td></tr></table>
+
+# Notes:
+
+(i) Debt is defined as Non-current borrowings (including current maturities) and lease liabilities.   
+(ii) Capital is defined as Equity share capital, Instrument entirely Equity in nature and other equity including reserves and surplus.
+
+The Group believes that it will able to meet all its current liabilities and interest obligations in timely manner.
+
+The Group’s capital management ensure that it meets financial covenants attached to the interest bearing loans and borrowings that define capital structure requirements. Breaches in meeting the financial covenants would permit the bank to levy penal interest as per terms of sanction. There have been no breaches in the financial covenants of any interest bearing loans and borrowings in the current year. No changes were made in the objectives, policies or processes for managing capital by the Group during the year ended March 31, 2024 and March 31, 2023.
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 56 Fair Value Measurement :
+
+a) The carrying value of financial instruments by categories as of March 31, 2024 is as follows :
+
+\` in crore 
+
+<table><tr><td>Particulars</td><td>Fair Value through other Comprehensive income</td><td>Fair Value through profit or loss</td><td>Amortised cost</td><td>Total</td></tr><tr><td>Financial Assets</td><td></td><td></td><td></td><td></td></tr><tr><td>Cash and cash equivalents</td><td>-</td><td>-</td><td>1,136.25</td><td>1,136.25</td></tr><tr><td>Bank balances other than cash and cash equivalents</td><td>-</td><td>-</td><td>6,402.27</td><td>6,402.27</td></tr><tr><td>Investments</td><td>*</td><td>373.50</td><td>0.01</td><td>373.51</td></tr><tr><td>Trade Receivables</td><td>-</td><td>-</td><td>11,677.48</td><td>11,677.48</td></tr><tr><td>Loans</td><td>-</td><td>-</td><td>3.49</td><td>3.49</td></tr><tr><td>Derivative Instruments</td><td>100.23</td><td>3.94</td><td>-</td><td>104.17</td></tr><tr><td>Other Financial assets</td><td>-</td><td>-</td><td>641.09</td><td>641.09</td></tr><tr><td>Total</td><td>100.23</td><td>377.44</td><td>19,860.59</td><td>20,338.26</td></tr><tr><td>Financial Liabilities</td><td></td><td></td><td></td><td></td></tr><tr><td>Borrowings</td><td>-</td><td>-</td><td>34,456.86</td><td>34,456.86</td></tr><tr><td>Trade Payables</td><td>-</td><td>-</td><td>3,636.30</td><td>3,636.30</td></tr><tr><td>Derivative Instruments</td><td>-</td><td>3.69</td><td>-</td><td>3.69</td></tr><tr><td>Lease liabilities</td><td>-</td><td>-</td><td>158.70</td><td>158.70</td></tr><tr><td>Other Financial Liabilities</td><td>-</td><td>-</td><td>2,087.18</td><td>2,087.18</td></tr><tr><td>Total</td><td>-</td><td>3.69</td><td>40,339.04</td><td>40,342.73</td></tr></table>
+
+b) The carrying value of financial instruments by categories as of March 31, 2023 is as follows :
+
+\` in crore 
+
+<table><tr><td>Particulars</td><td>Fair Value through other Comprehensive income</td><td>Fair Value through profit or loss</td><td>Amortised cost</td><td>Total</td></tr><tr><td>Financial Assets</td><td></td><td></td><td></td><td></td></tr><tr><td>Cash and cash equivalents</td><td>-</td><td>-</td><td>349.23</td><td>349.23</td></tr><tr><td>Bank balances other than cash and cash equivalents</td><td>-</td><td>-</td><td>1,857.45</td><td>1,857.45</td></tr><tr><td>Investments</td><td>*</td><td>611.54</td><td>42.51</td><td>654.05</td></tr><tr><td>Trade Receivables</td><td>-</td><td>-</td><td>11,529.36</td><td>11,529.36</td></tr><tr><td>Loans</td><td>-</td><td>-</td><td>3.19</td><td>3.19</td></tr><tr><td>Derivative Instruments</td><td>371.98</td><td>-</td><td>-</td><td>371.98</td></tr><tr><td>Other Financial assets</td><td>-</td><td>-</td><td>632.20</td><td>632.20</td></tr><tr><td>Total</td><td>371.98</td><td>611.54</td><td>14,413.94</td><td>15,397.46</td></tr><tr><td>Financial Liabilities</td><td></td><td></td><td></td><td></td></tr><tr><td>Borrowings</td><td>-</td><td>-</td><td>42,252.05</td><td>42,252.05</td></tr><tr><td>Trade Payables</td><td>-</td><td>-</td><td>3,079.45</td><td>3,079.45</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+56 Fair Value Measurement : (Contd...)   
+\` in crore 
+
+<table><tr><td>Particulars</td><td>Fair Value through other Comprehensive income</td><td>Fair Value through profit or loss</td><td>Amortised cost</td><td>Total</td></tr><tr><td>Derivative Instruments</td><td>-</td><td>7.04</td><td>-</td><td>7.04</td></tr><tr><td>Lease liabilities</td><td>-</td><td>-</td><td>97.48</td><td>97.48</td></tr><tr><td>Other Financial Liabilities</td><td>-</td><td>-</td><td>2,454.54</td><td>2,454.54</td></tr><tr><td>Total</td><td>-</td><td>7.04</td><td>47,883.52</td><td>47,890.56</td></tr></table>
+
+(Figures below \` 50,000 are denominated with \*)
+
+The fair value of financial assets and financial liabilities are reasonably approximate the carrying value, since the Company does not anticipate that the carrying amount would be significantly different from the values that would eventually be received or settled.
+
+57 Level wise disclosure of fair value for financial instruments requiring fair value measurement / disclosure :   
+\` in crore 
+
+<table><tr><td rowspan="2">Particulars</td><td colspan="4">As at March 31, 2024</td></tr><tr><td>Level 1</td><td>Level 2</td><td>Level 3</td><td>Total</td></tr><tr><td>Assets</td><td></td><td></td><td></td><td></td></tr><tr><td>Investment</td><td>-</td><td>373.50</td><td>-</td><td>373.50</td></tr><tr><td>Derivative Instruments</td><td>-</td><td>104.17</td><td>-</td><td>104.17</td></tr><tr><td>Total</td><td>-</td><td>477.67</td><td>-</td><td>477.67</td></tr><tr><td>Liabilities</td><td></td><td></td><td></td><td></td></tr><tr><td>Derivative Instruments</td><td>-</td><td>3.69</td><td>-</td><td>3.69</td></tr><tr><td>Total</td><td>-</td><td>3.69</td><td>-</td><td>3.69</td></tr></table>
+
+\` in crore 
+
+<table><tr><td rowspan="2">Particulars</td><td colspan="4">As at March 31, 2023</td></tr><tr><td>Level 1</td><td>Level 2</td><td>Level 3</td><td>Total</td></tr><tr><td>Assets</td><td></td><td></td><td></td><td></td></tr><tr><td>Investment</td><td>-</td><td>611.54</td><td>-</td><td>611.54</td></tr><tr><td>Derivative Instruments</td><td>-</td><td>371.98</td><td>-</td><td>371.98</td></tr><tr><td>Total</td><td>-</td><td>983.52</td><td>-</td><td>983.52</td></tr><tr><td>Liabilities</td><td></td><td></td><td></td><td></td></tr><tr><td>Derivative Instruments</td><td>-</td><td>7.04</td><td>-</td><td>7.04</td></tr><tr><td>Total</td><td>-</td><td>7.04</td><td>-</td><td>7.04</td></tr></table>
+
+The fair value of the financial assets and financial liabilities included in the level 2 categories above have been determined in accordance with generally accepted pricing models based on a discounted cash flow analysis, with the most significant inputs being the discount rate that reflects the credit risk of counter parties. The most frequently applied valuation techniques include forward pricing and swap models, using present value calculations. The models incorporate various inputs including the credit quality of counterparties, foreign exchange spot and forward rates, yield curves of the respective currencies, currency basis spreads between the respective currencies, interest rate curves and forward rates curves of the underlying derivative.
+
+The fair values of investments in mutual fund units is based on the net asset value (‘NAV’).
+
+There have been no transfers between Level 1 and Level 2 during the year ended March 31, 2024 and March 31, 2023.
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 58 (a) Defined Benefit Plan
+
+The Group operates a defined benefit plan (the Gratuity plan) covering eligible employees, which provides a lump sum payment to vested employees at retirement, death, incapacitation or termination of employment, of an amount based on the respective employee’s salary and the tenure of employment.
+
+<table><tr><td>Particulars</td><td>As atMarch 31, 2024</td><td>As atMarch 31, 2023</td></tr><tr><td>i. Reconciliation of Opening and Closing Balances of Defined Benefit Obligation</td><td></td><td></td></tr><tr><td>Liability at the beginning of the year</td><td>103.80</td><td>89.84</td></tr><tr><td>Current Service Cost</td><td>11.93</td><td>11.13</td></tr><tr><td>Interest Cost</td><td>7.77</td><td>6.12</td></tr><tr><td>Liability Transferred (out)</td><td>(0.58)</td><td>(2.02)</td></tr><tr><td>Benefits paid</td><td>(4.94)</td><td>(6.55)</td></tr><tr><td>Re-measurement (or Actuarial) (gain) / loss arising from:</td><td></td><td></td></tr><tr><td>Change in demographic assumptions</td><td>(2.37)</td><td>1.35</td></tr><tr><td>Change in financial assumptions</td><td>(6.23)</td><td>(3.67)</td></tr><tr><td>Experience variance (i.e. Actual experience vs assumptions)</td><td>(0.69)</td><td>7.59</td></tr><tr><td>Present Value of Defined Benefits Obligation at the end of the year</td><td>108.69</td><td>103.80</td></tr><tr><td>ii. Reconciliation of Opening and Closing Balances of the Fair value of Plan Assets</td><td></td><td></td></tr><tr><td>Fair Value of Plan assets at the beginning of the year</td><td>22.21</td><td>24.47</td></tr><tr><td>Investment Income</td><td>1.79</td><td>1.68</td></tr><tr><td>Benefits paid</td><td>(3.15)</td><td>(3.31)</td></tr><tr><td>Actuarial (loss) on plan assets, excluding amount recognised in net interest expense</td><td>-</td><td>(0.63)</td></tr><tr><td>Fair Value of Plan assets at the end of the year</td><td>20.85</td><td>22.21</td></tr><tr><td>iii. Reconciliation of the Present value of defined benefit obligation and Fair value of plan assets</td><td></td><td></td></tr><tr><td>Present Value of Defined Benefit Obligations at the end of the year</td><td>108.69</td><td>103.80</td></tr><tr><td>Fair Value of Plan assets at the end of the year</td><td>20.85</td><td>22.21</td></tr><tr><td>Net (Liability) recognized in balance sheet as at the end of the year</td><td>(87.84)</td><td>(81.59)</td></tr><tr><td>iv. Composition of Plan Assets</td><td></td><td></td></tr><tr><td>Plan assets for the Company and MEL is administered by Life Insurance Corporation of India. Plan assets of other entities are unfunded.</td><td></td><td></td></tr><tr><td>v. Gratuity Cost for the year</td><td></td><td></td></tr><tr><td>Current service cost</td><td>11.93</td><td>11.13</td></tr><tr><td>Interest cost</td><td>7.77</td><td>6.12</td></tr><tr><td>Expected return on plan assets</td><td>(1.79)</td><td>(1.68)</td></tr><tr><td>Net Gratuity cost recognised in the statement of Profit and Loss</td><td>17.91</td><td>15.57</td></tr><tr><td>vi. Other Comprehensive (Income) / expense</td><td></td><td></td></tr><tr><td>Actuarial (gains) / losses</td><td></td><td></td></tr><tr><td>Change in demographic assumptions</td><td>(2.37)</td><td>1.35</td></tr><tr><td>Change in financial assumptions</td><td>(6.23)</td><td>(3.67)</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+58 (a) Defined Benefit Plan (Contd...) 
+
+<table><tr><td>Particulars</td><td>As at March 31, 2024</td><td>As at March 31, 2023</td></tr><tr><td>Experience variance (i.e. Actual experience vs assumptions)</td><td>(0.69)</td><td>7.59</td></tr><tr><td>Return on plan assets, excluding amount recognised in net interest expense</td><td>-</td><td>0.64</td></tr><tr><td>Components of defined benefit costs recognised in other comprehensive (income) / expense</td><td>(9.29)</td><td>5.91</td></tr></table>
+
+vii. Actuarial Assumptions 
+
+<table><tr><td>Particulars</td><td>As at March 31, 2024</td><td>As at March 31, 2023</td></tr><tr><td>Discount Rate (per annum)</td><td>7.20%</td><td>7.50%</td></tr><tr><td>Expected annual Increase in Salary Cost</td><td>9.00%</td><td>10.00%</td></tr><tr><td>Attrition / Withdrawal rate (per annum)</td><td>9.44%</td><td>6.59%</td></tr></table>
+
+Mortality Rates as given under Indian Assured Lives Mortality (2012-14) Ultimate Retirement Age 58 Years.
+
+# viii. Sensitivity Analysis
+
+Significant actuarial assumptions for the determination of the defined benefit obligation are discount rate, expected salary increase and mortality. The sensitivity analysis below have been determined based on reasonably possible changes of the assumptions occurring at the end of the reporting period, while holding all other assumptions constant. The results of sensitivity analysis is given below :
+
+<table><tr><td>Particulars</td><td>As atMarch 31, 2024</td><td>As atMarch 31, 2023</td></tr><tr><td>Defined Benefit Obligation (Base)</td><td>108.69</td><td>103.80</td></tr></table>
+
+<table><tr><td rowspan="2">Particulars</td><td colspan="2">As at March 31, 2024</td><td colspan="2">As at March 31, 2023</td></tr><tr><td>Decrease</td><td>Increase</td><td>Decrease</td><td>Increase</td></tr><tr><td>Discount Rate (- / + 1%)</td><td>11.79</td><td>8.63</td><td>9.53</td><td>8.20</td></tr><tr><td>Salary Growth Rate (- / + 1%)</td><td>8.60</td><td>11.60</td><td>8.10</td><td>9.21</td></tr><tr><td>Attrition Rate (- / + 50%)</td><td>9.16</td><td>6.19</td><td>6.14</td><td>4.05</td></tr><tr><td>Mortality Rate (- / + 10%)</td><td>4.07</td><td>4.09</td><td>0.07</td><td>0.01</td></tr></table>
+
+# ix. Asset Liability Matching Strategies
+
+The Company and MEL has funded benefit plan and have purchased insurance policy, which is basically a year-on-year cash accumulation plan in which the interest rate is declared on yearly basis and is guaranteed for a period of one year. The insurance Company, as part of the policy rules, makes payment of all gratuity outgoes happening during the year (subject to sufficiency of funds under the policy). The policy thus, mitigates the liquidity risk. However, being a cash accumulation plan, the duration of assets is shorter compared to the duration of liabilities. Thus, the Group is exposed to movement in
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 58 (a) Defined Benefit Plan (Contd...)
+
+interest rate, which can result in a increase in liability without corresponding increase in the funded asset wherever applicable. Gratuity plan is unfunded in Adani Power (Jharkhand) Limited, Adani Power Dahej Limited and Pench Thermal Energy (MP) Limited.
+
+# x. Effect of Plan on Entity’s Future Cash Flows
+
+# a) Funding arrangements and Funding Policy
+
+The Company and MEL have purchased an insurance policies to provide for payment of gratuity to the employees. Every year, the insurance company carries out a funding valuation based on the latest employee data provided by these Companies. Any deficit in the assets arising as a result of such valuation is funded by these Companies.
+
+# b) Expected Contribution during the next annual reporting period
+
+The best estimate of contribution during the next year is \` 93.58 crore. (Previous year \` 15.06 crore). The actual contributions are made based on management estimates.
+
+# c) Maturity Profile of Defined Benefit Obligation
+
+Weighted average duration (based on discounted cash flows) - 7 years. (Previous year - 9 years)
+
+\` In crore 
+
+<table><tr><td>Expected cash flows in future (valued on undiscounted basis):</td><td>As at March 31, 2024</td><td>As at March 31, 2023</td></tr><tr><td>1 year</td><td>17.95</td><td>13.87</td></tr><tr><td>2 to 5 years</td><td>45.44</td><td>34.20</td></tr><tr><td>6 to 10 years</td><td>48.72</td><td>45.24</td></tr><tr><td>More than 10 years</td><td>83.51</td><td>137.36</td></tr></table>
+
+# xi. The Group has defined benefit plans for Gratuity to eligible employees. The contributions are made to Life Insurance Corporation of India who invests the funds as per Insurance Regulatory Development Authority guidelines.
+
+The discount rate is based on the prevailing market yields of Government of India securities as at the balance sheet date for the estimated term of the obligations.
+
+The expected contributions for Defined Benefit Plan for the next financial year will be in line with FY 2023-24.
+
+# (b) Defined Contribution Plan
+
+Contribution to Defined Contribution Plans, recognised in Statement of Profit and Loss, for the year is as under :
+
+\` In crore 
+
+<table><tr><td>Particulars</td><td>For the year ended March 31, 2024</td><td>For the year ended March 31, 2023</td></tr><tr><td>Employer&#x27;s Contribution to Provident Fund</td><td>27.78</td><td>26.69</td></tr><tr><td>Employer&#x27;s Contribution to Superannuation Fund</td><td>0.12</td><td>0.15</td></tr><tr><td>Total</td><td>27.90</td><td>26.84</td></tr><tr><td>Less: Capitalised during the year</td><td>(1.38)</td><td>(1.53)</td></tr><tr><td>Total</td><td>26.52</td><td>25.31</td></tr></table>
+
+# (c) Compensated Absences
+
+The actuarial liability for compensated absences as at the year ended March 31, 2024 is \` 55.71 crore. (As at March 31, 2023 \` 53.07 crore)
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 59 Based on the information available with the Company, there has not had any transaction with struck off companies except as follows :
+
+\` In crore 
+
+<table><tr><td>Name of the struck off company</td><td>Nature of transaction</td><td>As at March 31, 2024</td><td>As at March 31, 2023</td></tr><tr><td>Pyrotech Electronics Private Limited</td><td>Payables</td><td>0.01</td><td>0.01</td></tr><tr><td>Advance Valves Private Limited</td><td>Payables</td><td>-</td><td>0.02</td></tr><tr><td>Agaria Fabritech And Engg Private Limited</td><td>Payables</td><td>-</td><td>0.09</td></tr><tr><td>Agaria Fabritech And Engg Private Limited</td><td>Advance Given</td><td>-</td><td>0.13</td></tr></table>
+
+Further, there are certain companies as follows who are holding equity shares of the company. Total shares held by these companies are 7,244 numbers. (Previous year - 39,855 numbers)
+
+<table><tr><td colspan="2">Name of struck off companies as at March 31, 2024</td><td colspan="2">Name of struck off companies as at March 31, 2023</td></tr><tr><td>1.</td><td>Dreams Broking Private Limited</td><td>1.</td><td>Dreams Broking Private Limited</td></tr><tr><td>2.</td><td>Unique Consulting and Trading Private Limited</td><td>2.</td><td>Unique Consulting and Trading Private Limited</td></tr><tr><td>3.</td><td>Pooja Shares &amp; Management Services</td><td>3.</td><td>Azure Finance Private Limited</td></tr><tr><td>4.</td><td>New Wave Consultancy Services Private Limited</td><td>4.</td><td>New Wave Consultancy Services Private Limited</td></tr><tr><td>5.</td><td>Zenith Insurance Services Private Limited</td><td>5.</td><td>Shankar Suitings Private Limited</td></tr><tr><td>6.</td><td>Microtronics Tech Solutions Private Limited</td><td>6.</td><td>Microtronics Tech Solutions Private Limited</td></tr><tr><td>7.</td><td>Fairtrade Securities Limited</td><td>7.</td><td>Fairtrade Securities Limited</td></tr><tr><td>8.</td><td>Vitalink Wealth Advisory Services Private Limited</td><td>8.</td><td>Allied Commodities Private Limited</td></tr><tr><td>9.</td><td>Growth Consolidated Investment Services Private Limited</td><td>9.</td><td>Arvind Securities Private Limited</td></tr><tr><td>10.</td><td>Kothari Intergroup Limited</td><td>10.</td><td>Kothari Intergroup Limited</td></tr><tr><td>11.</td><td>Surya Grain Fields And Farms Ltd</td><td>11.</td><td>Growth Consolidated Investment Services Private Limited</td></tr><tr><td>12.</td><td>Harivallabhdas Kalidas Private Limited</td><td>12.</td><td>Salasar Securities Private Limited</td></tr><tr><td rowspan="6">13.</td><td rowspan="6">Advait Finstock Private Limited</td><td>13.</td><td>Zenith Insurance Services Private Limited</td></tr><tr><td>14.</td><td>Advait Finstock Private Limited</td></tr><tr><td>15.</td><td>Jagat Trading Enterprises Limited</td></tr><tr><td>16.</td><td>Vitalink Wealth Advisory Services Private Limited</td></tr><tr><td>17.</td><td>Shiv Products Private Limited</td></tr><tr><td>18.</td><td>Om Buildmart Private Limited</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 60 Additional information as required by para 2 of the General Instructions for preparation of Consolidated Financial Statements to Schedule III to the Companies Act, 2013:
+
+a) As at March 31, 2024   
+\` In crore 
+
+<table><tr><td rowspan="2">Name of the Entity</td><td colspan="2">Net assets</td><td colspan="2">Share in profit or loss</td><td colspan="2">Share in other comprehensive income</td><td colspan="2">Share in total comprehensive income</td></tr><tr><td>As % of consolidated</td><td>Amount</td><td>As % of consolidated</td><td>Amount</td><td>As % of consolidated</td><td>Amount</td><td>As % of consolidated</td><td>Amount</td></tr><tr><td>Adani Power Limited</td><td>91%</td><td>39,448.05</td><td>90%</td><td>18,749.24</td><td>25%</td><td>6.87</td><td>90%</td><td>18,756.11</td></tr><tr><td>Subsidiaries (Indian) :</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Adani Power (Jharkhand) Limited</td><td>8%</td><td>3,612.34</td><td>4%</td><td>915.07</td><td>(125)%</td><td>(34.43)</td><td>4%</td><td>880.64</td></tr><tr><td>Mahan Energen Limited</td><td>7%</td><td>2,901.75</td><td>15%</td><td>3,056.52</td><td>0%</td><td>0.05</td><td>15%</td><td>3,056.57</td></tr><tr><td>Pench Thermal Energy (MP) Limited</td><td>0%</td><td>82.14</td><td>(0)%</td><td>(22.85)</td><td>0%</td><td>0.02</td><td>(0)%</td><td>(22.83)</td></tr><tr><td>Kutchh Power Generation Limited</td><td>0%</td><td>2.30</td><td>(0)%</td><td>(11.33)</td><td>-</td><td>-</td><td>(0)%</td><td>(11.33)</td></tr><tr><td>Adani Power Dahej Limited</td><td>1%</td><td>274.85</td><td>(0)%</td><td>(13.80)</td><td>-</td><td>-</td><td>(0)%</td><td>(13.80)</td></tr><tr><td>Adani Power Resources Limited</td><td>(0)%</td><td>(0.01)</td><td>0%</td><td>*</td><td>-</td><td>-</td><td>-</td><td>*</td></tr><tr><td>Resurgent Fuel Management Limited</td><td>(0)%</td><td>(0.07)</td><td>0%</td><td>1.56</td><td>-</td><td>-</td><td>0%</td><td>1.56</td></tr><tr><td>Mahan Fuel Management Limited</td><td>(0)%</td><td>(0.01)</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Alcedo Infra Park Limited</td><td>0%</td><td>41.82</td><td>0%</td><td>*</td><td>-</td><td>-</td><td>-</td><td>*</td></tr><tr><td>Chandenvalle Infra Park Limited</td><td>0%</td><td>87.02</td><td>0%</td><td>*</td><td>-</td><td>-</td><td>-</td><td>*</td></tr><tr><td>Emberiza Infra Park Limited</td><td>0%</td><td>0.01</td><td>0%</td><td>*</td><td>-</td><td>-</td><td>-</td><td>*</td></tr><tr><td>Non-controlling interest</td><td>*</td><td>*</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Intercompany Elimination and consolidation adjustments</td><td>(8)%</td><td>(3,305.16)</td><td>(9)%</td><td>(1,845.62)</td><td>-</td><td>-</td><td>(9)%</td><td>(1,845.62)</td></tr><tr><td>Total</td><td>100%</td><td>43,145.03</td><td>100%</td><td>20,828.79</td><td>100%</td><td>(27.49)</td><td>100%</td><td>20,801.30</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 60 Additional information as required by para 2 of the General Instructions for preparation of Consolidated Financial Statements to Schedule III to the Companies Act, 2013: (Contd...)
+
+# b) As at March 31, 2023
+
+\` In crore 
+
+<table><tr><td rowspan="2">Name of the Entity</td><td colspan="2">Net assets</td><td colspan="2">Share in profit or loss</td><td colspan="2">Share in other comprehensive income</td><td colspan="2">Share in total comprehensive income</td></tr><tr><td>As % of consolidated</td><td>Amount</td><td>As % of consolidated</td><td>Amount</td><td>As % of consolidated</td><td>Amount</td><td>As % of consolidated</td><td>Amount</td></tr><tr><td>Adani Power Limited</td><td>147%</td><td>44,018.32</td><td>102%</td><td>10,912.78</td><td>(12)%</td><td>(4.17)</td><td>101%</td><td>10,908.61</td></tr><tr><td>Subsidiaries (Indian):</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Adani Power Resources Limited</td><td>-</td><td>*</td><td>-</td><td>*</td><td>-</td><td>-</td><td>-</td><td>*</td></tr><tr><td>Adani Power (Jharkhand) Limited</td><td>9%</td><td>2,811.61</td><td>(1)%</td><td>(70.97)</td><td>118%</td><td>39.82</td><td>(0)%</td><td>(31.15)</td></tr><tr><td>Adani Power Dahej Limited</td><td>1%</td><td>288.65</td><td>(0)%</td><td>(4.82)</td><td>(0)%</td><td>(0.01)</td><td>(0)%</td><td>(4.83)</td></tr><tr><td>Mahan Energen Limited</td><td>(3)%</td><td>(954.82)</td><td>2%</td><td>245.42</td><td>(6)%</td><td>(1.90)</td><td>2%</td><td>243.52</td></tr><tr><td>Pench Thermal Energy (MP) Limited</td><td>0%</td><td>104.97</td><td>(0)%</td><td>(0.01)</td><td>-</td><td>-</td><td>(0)%</td><td>(0.01)</td></tr><tr><td>Kutchh Power Generation Limited</td><td>0%</td><td>13.63</td><td>(0)%</td><td>(0.20)</td><td>-</td><td>-</td><td>(0)%</td><td>(0.20)</td></tr><tr><td>Mahan Fuel Management Limited</td><td>0%</td><td>0.01</td><td>-</td><td>*</td><td>-</td><td>-</td><td>-</td><td>*</td></tr><tr><td>Aviceda Infra Park Limited</td><td>1%</td><td>163.75</td><td>(0)%</td><td>(0.39)</td><td>-</td><td>-</td><td>(0)%</td><td>(0.39)</td></tr><tr><td>Resurgent Fuel Management Limited</td><td>(0)%</td><td>(1.63)</td><td>(0)%</td><td>(1.64)</td><td>-</td><td>-</td><td>(0)%</td><td>(1.64)</td></tr><tr><td>Support Properties Private Limited</td><td>0%</td><td>-</td><td>(0)%</td><td>(33.01)</td><td>-</td><td>-</td><td>(0)%</td><td>(33.01)</td></tr><tr><td>Innovant Buildwell Private Limited</td><td>(0)%</td><td>(128.44)</td><td>(0)%</td><td>(30.49)</td><td>-</td><td>-</td><td>(0)%</td><td>(30.49)</td></tr><tr><td>Alcedo Infra Park Limited</td><td>0%</td><td>41.82</td><td>-</td><td>*</td><td>-</td><td>-</td><td>-</td><td>*</td></tr><tr><td>Chandenvalle Infra Park Limited</td><td>0%</td><td>80.66</td><td>-</td><td>*</td><td>-</td><td>-</td><td>-</td><td>*</td></tr><tr><td>Emberiza Infra Park Limited</td><td>0%</td><td>0.01</td><td>-</td><td>*</td><td>-</td><td>-</td><td>-</td><td>*</td></tr><tr><td>Non-controlling interest</td><td>-</td><td>*</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Intercompany Elimination and consolidation adjustments</td><td>(55)%</td><td>(16,562.88)</td><td>(3)%</td><td>(290.03)</td><td>-</td><td>-</td><td>(3)%</td><td>(290.03)</td></tr><tr><td>Total</td><td>100%</td><td>29,875.66</td><td>100%</td><td>10,726.64</td><td>100%</td><td>33.74</td><td>100%</td><td>10,760.38</td></tr></table>
+
+(Figures below \` 50,000 are denominated with \*)
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+61 The Group’s business activities revolve around development and operations of power generation plants including related activities and trading, investment and other activities as two segments. The segments are largely organised and managed separately according to the organisation structure that is designed based on the nature of Group’s business and operations, as well as based on reviews of operating results by the chief operating decision maker to make decisions about resource allocation and performance measurement. During the year, chief operating decision maker has revised the methods and components, mainly in respect of allocation of borrowings and finance costs, used to determine the reported segments’ assets, liabilities and results. Accordingly, the reported segments’ assets, liabilities and results of previous year is aligned to make it comparable. Following are the details of segment wise revenue, results, segment assets and segment liabilities :
+
+(a) Segment Information: 
+
+<table><tr><td>Particulars</td><td>For the year ended March 31, 2024</td><td>For the year ended March 31, 2023</td></tr><tr><td>Segment Revenue</td><td></td><td></td></tr><tr><td>Power Generation and related activities</td><td>50,014.16</td><td>37,895.85</td></tr><tr><td>Trading, Investment and other activities</td><td>337.09</td><td>877.45</td></tr><tr><td>Total</td><td>50,351.25</td><td>38,773.30</td></tr><tr><td>Less: Inter Segment Transfer</td><td>-</td><td>-</td></tr><tr><td>Revenue from Operations</td><td>50,351.25</td><td>38,773.30</td></tr><tr><td>Segment Results</td><td></td><td></td></tr><tr><td>Power Generation and related activities</td><td>20,557.22</td><td>6,957.13</td></tr><tr><td>Trading, Investment and other activities</td><td>234.29</td><td>717.57</td></tr><tr><td>Profit before tax and Deferred tax (adjustable) from future tariff</td><td>20,791.51</td><td>7,674.70</td></tr><tr><td>Current Tax</td><td>14.00</td><td>(767.60)</td></tr><tr><td>Deferred Tax (credit)</td><td>(51.28)</td><td>(2,499.77)</td></tr><tr><td>Total Tax (Credit)</td><td>(37.28)</td><td>(3,267.37)</td></tr><tr><td>Deferred tax (adjustable) from future tariff (Net of tax)</td><td>-</td><td>(215.43)</td></tr><tr><td>Profit for the year</td><td>20,828.79</td><td>10,726.64</td></tr><tr><td>Less: Non - Controlling interest</td><td>*</td><td>*</td></tr><tr><td>Net Profit for the year</td><td>20,828.79</td><td>10,726.64</td></tr><tr><td>Segment Assets</td><td></td><td></td></tr><tr><td>Power Generation and related activities</td><td>91,378.85</td><td>84,364.22</td></tr><tr><td>Trading, Investment and other activities</td><td>203.86</td><td>1,134.26</td></tr><tr><td>Unallocable Assets</td><td>742.06</td><td>322.79</td></tr><tr><td>Total Assets</td><td>92,324.77</td><td>85,821.27</td></tr><tr><td>Segment Liabilities</td><td></td><td></td></tr><tr><td>Power Generation and related activities</td><td>48,856.29</td><td>55,648.53</td></tr><tr><td>Trading, Investment and other activities</td><td>7.65</td><td>296.59</td></tr><tr><td>Unallocable Liabilities</td><td>315.80</td><td>0.49</td></tr><tr><td>Total Liabilities</td><td>49,179.74</td><td>55,945.61</td></tr><tr><td>Depreciation /Amortisation</td><td></td><td></td></tr><tr><td>Power Generation and related activities</td><td>3,912.15</td><td>3,272.51</td></tr><tr><td>Trading, Investment and other activities</td><td>19.18</td><td>31.17</td></tr><tr><td>Total Depreciation /Amortisation</td><td>3,931.33</td><td>3,303.68</td></tr><tr><td>Capital Expenditure</td><td></td><td></td></tr><tr><td>Power Generation and related activities</td><td>2,602.45</td><td>3,008.50</td></tr><tr><td>Trading, Investment and other activities</td><td>-</td><td>235.18</td></tr><tr><td>Total Capital Expenditure</td><td>2,602.45</td><td>3,243.68</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+(b) Geographic Information : 
+
+<table><tr><td>Particulars</td><td>For the year ended March 31, 2024</td><td>For the year ended March 31, 2023</td></tr><tr><td>Segment Revenue - External Customers :</td><td></td><td></td></tr><tr><td>Within India</td><td>42,981.14</td><td>38,773.30</td></tr><tr><td>Outside India (Bangladesh)</td><td>7,370.11</td><td>-</td></tr><tr><td>Total</td><td>50,351.25</td><td>38,773.30</td></tr><tr><td>Non current Segment Assets :</td><td></td><td></td></tr><tr><td>Within India</td><td>65,359.92</td><td>65,123.26</td></tr><tr><td>Outside India</td><td>-</td><td>-</td></tr><tr><td>Total</td><td>65,359.92</td><td>65,123.26</td></tr></table>
+
+# Note :
+
+i) All Non-current segment assets are located within India.
+
+62 During the financial year 2019-20, the erstwhile wholly owned subsidiary of the Company, Raipur Energen Limited (now amalgamated with the Company), had issued 4,15,86,207 nos. of 0.01% Compulsory Redeemable Preference shares (CRPS) of \` 100/- each amounting to \` 415.86 crore. On account of amalgamation, the Company cancelled the CRPS and issued fresh CRPS during financial year 2022-23. The instrument is redeemable at any time by June 30, 2038. During the current year, dividend of \` 0.04 crore (Previous Year - \` 0.11 crore) has been paid. Further, the Board of Directors of the Company has proposed dividend of \` 0.04 crore for the Financial Year 2023-24 which is subject to approval of the shareholders.   
+63 Amalgamation of Adani Power Maharashtra Limited (“APML”), Adani Power (Mundra) Limited (“APMuL”), Adani Power Rajasthan Limited (“APRL”), Udupi Power Corporation Limited (“UPCL”), Raipur Energen Limited (“REL”), Raigarh Energy Generation Limited (“REGL”) (wholly owned subsidiary companies) (“WOS”) with the Company :
+
+Pursuant to approval by National Company Law Tribunal (“NCLT”) of the Scheme of Amalgamation (the “Scheme”) vide its order dated February 08, 2023, the six wholly owned subsidiaries of the Company, viz, Adani Power Maharashtra Limited (“Tiroda TPP”), Adani Power Rajasthan Limited (“Kawai TPP”), Adani Power (Mundra) Limited (“Mundra TPP”), Udupi Power Corporation Limited (“Udupi TPP”), Raipur Energen Limited (“Raipur TPP”) and Raigarh Energy Generation Limited (“Raigarh TPP”) got merged into the Company with effect from appointed date October 01, 2021, To give effect to the Scheme, the current tax and deferred tax expenses for the year ended March 31, 2022 as recognised in the books of the Company and the merged subsidiaries, was reassessed based on the special purpose financial statement of respective subsidiary Company (ies) and the Company respectively, to give tax effect mainly on account of utilisation of carry forward tax losses and unabsorbed depreciation under the Income tax Act, 1961. Accordingly, tax expenses of the Company for the year ended March 31, 2023 include reversal of deferred tax liability of \` 2,303.87 crore and reversal of current tax provision of \` 768.33 crore.
+
+The aforesaid scheme has no impact on the consolidated financial statement of the Group since the scheme of amalgamation was within the parent company and wholly owned subsidiaries.
+
+During the year ended March 31, 2023, Udupi TPP (erstwhile wholly owned subsidiary, Udupi Power Corporation Limited) has also reassessed the deferred tax recoverable recognised since earlier years based on CERC tariff norms, as amount recoverable from beneficiaries. Based on such reassessment, the Company has fully reversed the recoverable amount of \` 215.43 crore during the year ended March 31, 2023 as corresponding deferred tax liabilities is also reversed.
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+64 (a) During the year ended March 31, 2024, the resolution plan to acquire Coastal Energen Private Limited (“CEPL”) through Insolvency and Bankruptcy Code, by the Consortium of applicants of which the Company is a part, has been approved by the Committee of Creditors (“CoC”) of CEPL. CEPL has capacity of 1,200 MW (2x600 MW) coal fired power plant in the state of Tamil Nadu. Consequently, Resolution Professional appointed by National Company Law Tribunal (“NCLT”) has issued a Letter of Intent (LoI) dated December 23, 2023, in favour of the Consortium and in terms of such LOI, a bank guarantee of \` 100 crore as performance security has been submitted.
+
+The closure of the transaction shall be subject to the terms of LoI and necessary approvals and fulfilment of conditions precedent under the Resolution Plan.
+
+(b) During the year ended March 31, 2024, the resolution plan of the Company to acquire Lanco Amarkantak Power Limited (“LAPL”) through Insolvency and Bankruptcy Code has been approved by the Committee of Creditors (“CoC”) of LAPL. Consequently, Resolution Professional appointed by National Company Law Tribunal (“NCLT”) has issued a Letter of Intent (LoI) dated March 04, 2024, in favour of the Company and in terms of such LOI, a bank guarantee of \` 100 crore as performance security has been submitted. LAPL has capacity of 600 MW (2x300 MW) coal fired power plant and is also setting up 1,320 MW (2x660 MW) coal fired power plant in the state of Chhattisgarh.
+
+The closure of the transaction shall be subject to the terms of LoI and necessary approvals and fulfilment of conditions precedent under the Resolution Plan.
+
+65 The Code on Social Security, 2020 (‘Code’) relating to employee benefits during employment and post employment benefits received Presidential assent in September 2020. The Code has been published in the Gazette of India. However, the date on which the Code will come into effect has not been notified and the final rules/interpretation have not yet been issued. The Group will assess the impact of the Code when it comes into effect and will record any related impact in the period the Code becomes effective.   
+66 No funds have been advanced or loaned or invested (either from borrowed funds or share premium or any other sources or kind of funds) by the Group to or in any other persons or entities, including foreign entities (“Intermediaries”) with the understanding, whether recorded in writing or otherwise, that the Intermediary shall lend or invest in party identified by or on behalf of the Company (Ultimate Beneficiaries). Further, No funds have been received by the Group from any parties (Funding Parties) with the understanding that the Group shall whether, directly or indirectly lend or invest in other persons or entities identified by or on behalf of the funding party or provide any guarantee, security or the like on behalf thereof.   
+67 A wholly owned subsidiary of the Company, Adani Power Jharkhand Limited (“APJL”) have commenced commercial operations of its Ultra-super-critical Power Plant of 1600 MW located at Godda, Jharkhand comprising of two units w.e.f. April 05, 2023 and June 26, 2023, respectively. Consequently, APJL has started recognition of revenue towards supply of power under its long term PPA with Bangladesh Power Development Board (“BPDB”) during the current year.   
+68 During the year ended March 31, 2023, a short seller report (“SSR”) was published in which certain allegations were made involving Adani Group Companies, including on certain entities of the Group, which comprises Adani Power Limited (“the Holding Company”) and its subsidiaries. In this regard, certain writ petitions were filed with the Hon’ble Supreme Court (“SC”), seeking independent investigation of the allegations in SSR, and the Securities and Exchange Board of India (“SEBI”) also commenced investigating the allegations made in the SSR for any violations of the various SEBI Regulations. The SC also constituted an expert committee to investigate and also advise into the various aspects of existing laws and regulations, and also directed the SEBI to consider certain additional aspects in its scope. The Expert committee submitted its report dated May 06, 2023, finding no regulatory failure, in respect of applicable laws and regulations. The SEBI also concluded its investigations in twenty-two of the twenty-four matters as per the status report dated August 25, 2023 to the SC.
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+The SC by its order dated January 03, 2024, disposed off all matters of appeal relating to the allegations in the SSR (including other allegations) in various writ petitions including those relating to separate independent investigations. However, the SC concluded that the SEBI should complete the pending two investigations, preferably within 3 months, and take its investigations (including the twenty-two investigations already completed) to their logical conclusion in accordance with law.
+
+During the year ended March 31, 2024, the Company has received two show cause notices (“SCN”) from the SEBI alleging non-compliance of provisions pertaining to related party transactions in the Listing Agreement and LODR Regulations with regard to certain transactions by the Company with third parties in earlier financial years, from a substance-over-form perspective, which were fully settled during the year ended March 31, 2023. As a consequence, the SCNs allege that the said transactions are not reported in the relevant years’ financial statements / annual report, and requisite review / approvals for such transactions is not taken, as applicable. Subsequent to year end, the Company has responded to SEBI on both SCNs. Based on legal advice obtained, management believes that considering that alleged transactions with third parties were undertaken in compliance with applicable law at the relevant time, at terms comparable to market rates, and accordingly, there is no non-compliance of applicable laws and regulations as alleged by the SCNs, and the SCNs have no material consequential effects to the relevant years’ financial statements.
+
+In April 2023, the Holding Company had obtained a legal opinion by independent law firm, confirming (a) none of the alleged related parties mentioned in the short-seller report were related parties to the Group, under applicable frameworks; and (b) the Group is in compliance with the requirements of applicable laws and regulations. Subsequent to the SC order dated January 03, 2024, to uphold the principles of good governance, the Adani Group has also initiated an independent legal and accounting review of the allegations in the SSR and other allegations (including any allegations related to the Holding Company) to reassert compliance of applicable laws and regulations. Such independent review also did not identify any non-compliances or irregularities by the Group, and management has noted on record, the results of this review.
+
+Based on the legal opinions obtained, subsequent independent review referred to above, the SC order and the fact that there are no pending regulatory or adjudicatory proceedings as of date, except relating to the SCNs as mentioned above, management of the Holding Company concludes that there are no material consequences of the allegations mentioned in the SSR and other allegations on the Company, and accordingly, no adjustments have been made in these financial statements in this regard.
+
+# 69 Related party transactions
+
+a. List of related parties and relationship 
+
+<table><tr><td>Description of Relationship</td><td>Name of Related Parties</td></tr><tr><td>Entity having significant influence</td><td>S. B. Adani Family Trust (SBAFT)*</td></tr><tr><td>Associate</td><td>Moxie Power Generation Limited (w.e.f. January 30, 2024)</td></tr><tr><td rowspan="8">Entities over which one or more Key Management Personnel (“KMP”) or their relatives have significant influence / control / joint control; entities having significant influence over the Company have significant influence / control / joint control through voting power or otherwise</td><td>ACC Limited (w.e.f. September 16, 2022)</td></tr><tr><td>Adani Airport Holdings Limited</td></tr><tr><td>Adani Australia Pty Limited</td></tr><tr><td>Adani Bunkering Private Limited</td></tr><tr><td>Adani Capital Private Limited</td></tr><tr><td>Adani Cement Industries Limited</td></tr><tr><td>Adani Digital Labs Private Limited</td></tr><tr><td>Adani Electricity Mumbai Infra Limited</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+69 Related party transactions (Contd...) 
+
+<table><tr><td>Description of Relationship</td><td>Name of Related Parties</td></tr><tr><td rowspan="34">Entities over which one or more Key Management Personnel (&quot;KMP&quot;) or their relatives have significant influence / control / joint control; entities having significant influence over the Company have significant influence / control / joint control through voting power or otherwise</td><td>Adani Electricity Mumbai Limited</td></tr><tr><td>Adani Energy Solutions Limited (Formerly known as Adani Transmission Limited)</td></tr><tr><td>Adani Enterprises Limited</td></tr><tr><td>Adani Estate Management Private Limited</td></tr><tr><td>Adani Foundation</td></tr><tr><td>Adani Gangavaram Port Private Limited</td></tr><tr><td>Adani Global DMCC</td></tr><tr><td>Adani Global FZE</td></tr><tr><td>Adani Global Pte Limited</td></tr><tr><td>Adani Green Energy (UP) Limited</td></tr><tr><td>Adani Green Energy Limited</td></tr><tr><td>Adani Green Energy Twenty Four C Limited</td></tr><tr><td>Adani Green Energy Twenty Three Limited (Formerly known as PN Clean Energy Limited)</td></tr><tr><td>Adani Hazira Port Limited</td></tr><tr><td>Adani Health Ventures Limited</td></tr><tr><td>Adani Hospitals Mundra Private Limited</td></tr><tr><td>Adani Infra (India) Limited</td></tr><tr><td>Adani Infrastructure and Developers Private Limited</td></tr><tr><td>Adani Infrastructure Management Services Limited</td></tr><tr><td>Adani Institute For Education and Research</td></tr><tr><td>Adani International Container Terminal Private Limited</td></tr><tr><td>Adani Kandla Bulk Terminal Private Limited</td></tr><tr><td>Adani Kattupalli Port Limited</td></tr><tr><td>Adani Krishnapatnam Port Limited</td></tr><tr><td>Adani Logistics Limited</td></tr><tr><td>Adani New Industries Limited (Formerly known as Mundra Windtech Limited)</td></tr><tr><td>Adani Petrochemicals Limited</td></tr><tr><td>Adani Petronet (Dahej) Port Limited</td></tr><tr><td>Adani Ports and Special Economic Zone Limited</td></tr><tr><td>Adani Properties Private Limited</td></tr><tr><td>Adani Rail Infra Private Limited</td></tr><tr><td>Adani Renewable Energy Forty Two Limited</td></tr><tr><td>Adani Renewable Energy Holding Eighteen Private Limited (Formerly known as SBE Renewables Fifteen Private Limited)</td></tr><tr><td>Adani Renewable Energy Park Rajasthan Limited</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+69 Related party transactions (Contd...) 
+
+<table><tr><td>Description of Relationship</td><td>Name of Related Parties</td></tr><tr><td rowspan="37">Entities over which one or more Key Management Personnel (&quot;KMP&quot;) or their relatives have significant influence / control / joint control; entities having significant influence over the Company have significant influence / control / joint control through voting power or otherwise</td><td>Adani Road O&amp;M Limited</td></tr><tr><td>Adani Road Transport Limited</td></tr><tr><td>Adani Shipping (India) Private Limited</td></tr><tr><td>Adani Skill Development Centre</td></tr><tr><td>Adani Solar Energy Four Private Limited</td></tr><tr><td>Adani Sportline Private Limited</td></tr><tr><td>Adani Total Gas Limited</td></tr><tr><td>Adani Total Energies E-Mobility Limited</td></tr><tr><td>Adani Tracks Management Services Private Limited</td></tr><tr><td>Adani Transmission (India) Limited</td></tr><tr><td>Adani University</td></tr><tr><td>Adani Vizhinjam Port Private Limited</td></tr><tr><td>Adani Water Limited</td></tr><tr><td>Adani Wilmar Limited</td></tr><tr><td>AdaniConnex Private Limited</td></tr><tr><td>Ahmedabad International Airport Limited</td></tr><tr><td>Alipurduar Transmission Limited</td></tr><tr><td>Alluvial Heavy Minerals Limited</td></tr><tr><td>Ambuja Cements Limited (w.e.f. September 16, 2022)</td></tr><tr><td>AMG Media Networks Limited</td></tr><tr><td>Aviceda Infra Park Limited (w.e.f. March 30, 2024)</td></tr><tr><td>Azhiyur Vengalam Road Private Limited</td></tr><tr><td>Badakumari Karki Road Private Limited</td></tr><tr><td>Barmer Power Transmission Service Limited</td></tr><tr><td>Belvedere Golf and Country Club Private Limited</td></tr><tr><td>Bhagalpur Waste Water Limited</td></tr><tr><td>Bikaner-Khetri Transmission Limited</td></tr><tr><td>Bilaspur Pathrapali Road Private Limited</td></tr><tr><td>Budaun Hardoi Road Private Limited</td></tr><tr><td>Budhpur Buildcon Private Limited</td></tr><tr><td>CG Natural Resources Private Limited</td></tr><tr><td>Dirk Trade and Logistics LLP</td></tr><tr><td>Emerging Market Investment DMCC</td></tr><tr><td>Gare Palma II Collieries Private Limited</td></tr><tr><td>Ghatampur Transmission Limited</td></tr><tr><td>Gidhmuri Paturia Collieries Private Limited</td></tr><tr><td>Guwahati International Airport Limited</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+69 Related party transactions (Contd...) 
+
+<table><tr><td>Description of Relationship</td><td>Name of Related Parties</td></tr><tr><td rowspan="35">Entities over which one or more Key Management Personnel (&quot;KMP&quot;) or their relatives have significant influence / control / joint control; entities having significant influence over the Company have significant influence / control / joint control through voting power or otherwise</td><td>Hardoi Unnao Road Private Limited</td></tr><tr><td>Innovant Buildwell Private Limited (w.e.f. January 30, 2024)</td></tr><tr><td>Jaipur International Airport Limited</td></tr><tr><td>Jam Khambaliya Transco Limited</td></tr><tr><td>Jash Energy Private Limited</td></tr><tr><td>Kagal Satara Road Private Limited</td></tr><tr><td>Karnavati Aviation Private Limited</td></tr><tr><td>Kharghar Vikhroli Transmission Limited</td></tr><tr><td>Khavda-Bhuj Transmission Limited</td></tr><tr><td>Kodad Khammam Road Private Limited</td></tr><tr><td>Kurmitar Iron Ore Mining Private Limited</td></tr><tr><td>Kutch Copper Limited</td></tr><tr><td>Lakadia Banaskantha Transco Limited</td></tr><tr><td>Lucknow International Airport Limited</td></tr><tr><td>Maharashtra Eastern Grid Power Transmission Company Limited</td></tr><tr><td>Mancherial Repallewada Road Private Limited</td></tr><tr><td>Mangaluru International Airport Limited</td></tr><tr><td>Marine Infrastructure Developer Private Limited</td></tr><tr><td>MH Natural Resources Private Limited</td></tr><tr><td>Mining Tech Consultancy Services Limited (Formerly known as Mining Tech Consultancy Services Private Limited)</td></tr><tr><td>MPSEZ Utilities Limited</td></tr><tr><td>Mumbai International Airport Limited</td></tr><tr><td>Mundra International Airport Limited. (Formerly known as Mundra International Airport Private Limited)</td></tr><tr><td>Mundra Petrochem Limited</td></tr><tr><td>Mundra Solar Energy Limited</td></tr><tr><td>Mundra Solar PV Limited</td></tr><tr><td>Mundra Solar Technology Limited</td></tr><tr><td>Mundra Windtech Limited</td></tr><tr><td>Nanasa Pidgaon Road Private Limited</td></tr><tr><td>Navi Mumbai International Airport Private Limited</td></tr><tr><td>North Karanpura Transco Limited</td></tr><tr><td>Panagarh Palsit Road Private Limited</td></tr><tr><td>Parsa Kente Collieries Limited</td></tr><tr><td>Pelma Collieries Limited</td></tr><tr><td>PN Clean Energy Limited</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+69 Related party transactions (Contd...) 
+
+<table><tr><td>Description of Relationship</td><td>Name of Related Parties</td></tr><tr><td rowspan="21">Entities over which one or more Key Management Personnel (&quot;KMP&quot;) or their relatives have significant influence / control / joint control; entities having significant influence over the Company have significant influence / control / joint control through voting power or otherwise</td><td>PN Renewable Energy Limited</td></tr><tr><td>Prayagraj Water Private Limited</td></tr><tr><td>Prayatna Developers Private Limited</td></tr><tr><td>PRS Tolls Private Limited</td></tr><tr><td>Rajasthan Collieries Limited</td></tr><tr><td>Sanghi Industries Limited (w.e.f. December 06, 2023)</td></tr><tr><td>Shanti Sagar International Dredging Limited</td></tr><tr><td>Stratatech Mineral Resources Private Limited</td></tr><tr><td>Suryapet Khammam Road Private Limited</td></tr><tr><td>The Dhamra Port Company Limited</td></tr><tr><td>TN Urja Private Limited</td></tr><tr><td>TRV (Kerala) International Airport Limited</td></tr><tr><td>Unnao Prayagraj Road Private Limited</td></tr><tr><td>Vijayawada Bypass Project Private Limited</td></tr><tr><td>Vishakha Renewables Private Limited</td></tr><tr><td>Vishakha Solar Films Private Limited</td></tr><tr><td>Wardha Solar (Maharashtra) Private Limited</td></tr><tr><td>Warora-Kurnool Transmission Limited</td></tr><tr><td>Western Transmission (Gujarat) Limited</td></tr><tr><td>Wind One Renergy Limited</td></tr><tr><td>WRSS XXI (A) Transco Limited</td></tr><tr><td rowspan="13">Key Management Personnel</td><td>Mr. Gautam S. Adani, Chairman</td></tr><tr><td>Mr. Rajesh S. Adani, Director</td></tr><tr><td>Mr. Anil Sardana, Managing Director</td></tr><tr><td>Mr. S. B. Khyalia, Chief Executive Officer</td></tr><tr><td>Mr. Shailesh Sawa, Chief Financial Officer (up to March 31, 2024)</td></tr><tr><td>Mr. Dilip Kumar Jha, Chief Financial Officer (w.e.f. April 01, 2024)</td></tr><tr><td>Mr. Deepak S Pandya, Company Secretary</td></tr><tr><td>Mr. Mukesh Shah, Non-Executive Director (up to March 30, 2024)</td></tr><tr><td>Mrs. Sangeeta Singh, Non-Executive Director (w.e.f May 01, 2024)</td></tr><tr><td>Mr. Raminder Singh Gujral, Non-Executive Director (up to November 11, 2022)</td></tr><tr><td>Mr. Sushil Kumar Roongta, Non-Executive Director (w.e.f. November 11, 2022)</td></tr><tr><td>Mrs. Chandra Iyengar, Non-Executive Director (w.e.f. November 11, 2022)</td></tr><tr><td>Ms. Gauri Trivedi, Non-Executive Director (up to November 11, 2022)</td></tr></table>
+
+\*Based on assessment of shareholding by SBAFT along with its controlled entity, SBAFT’s relationship with other shareholders and other relevant factors, the management has assessed that SBAFT exercises significant influence on the Company, which has been disclosed accordingly.
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 69 Related party transactions (Contd...)
+
+# b. Transactions with Related Parties
+
+\` In crore 
+
+<table><tr><td rowspan="2">Particulars</td><td colspan="3">For the year ended March 31, 2024</td><td colspan="2">For the year ended March 31, 2023</td></tr><tr><td>Associate</td><td>Entities over which one or more Key Management Personnel (&quot;KMP&quot;) or their relatives have significant influence / control / joint control; entities having significant influence over the Company have significant influence / control / joint control through voting power or otherwise</td><td>KMP</td><td>Entities over which one or more Key Management Personnel (&quot;KMP&quot;) or their relatives have significant influence / control / joint control; entities having significant influence over the Company have significant influence / control / joint control through voting power or otherwise</td><td>KMP</td></tr><tr><td>Borrowing Taken (refer note (ii) below)</td><td>-</td><td>293.25</td><td>-</td><td>6,051.19</td><td>-</td></tr><tr><td>Adani Rail Infra Private Limited</td><td>-</td><td>150.00</td><td>-</td><td>1,018.05</td><td>-</td></tr><tr><td>Adani Infrastructure Management Services Limited</td><td>-</td><td>143.25</td><td>-</td><td>1,916.81</td><td>-</td></tr><tr><td>Adani Properties Private Limited</td><td>-</td><td>-</td><td>-</td><td>69.61</td><td>-</td></tr><tr><td>Adani Infra (India) Limited</td><td>-</td><td>-</td><td>-</td><td>3,046.71</td><td>-</td></tr><tr><td>Others</td><td>-</td><td>-</td><td>-</td><td>0.01</td><td>-</td></tr><tr><td>Borrowing paid Back</td><td>-</td><td>7,083.37</td><td>-</td><td>4,812.33</td><td>-</td></tr><tr><td>Adani Infra (India) Limited</td><td>-</td><td>2,834.76</td><td>-</td><td>2,890.24</td><td>-</td></tr><tr><td>Adani Infrastructure Management Services Limited</td><td>-</td><td>2,224.34</td><td>-</td><td>1,637.09</td><td>-</td></tr><tr><td>Adani Rail Infra Private Limited</td><td>-</td><td>1,083.73</td><td>-</td><td>285.00</td><td>-</td></tr><tr><td>Adani Properties Private Limited</td><td>-</td><td>940.54</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Interest Expense on Loan</td><td>-</td><td>129.29</td><td>-</td><td>569.14</td><td>-</td></tr><tr><td>Adani Infra (India) Limited</td><td>-</td><td>55.48</td><td>-</td><td>315.80</td><td>-</td></tr><tr><td>Adani Infrastructure Management Services Limited</td><td>-</td><td>37.57</td><td>-</td><td>132.64</td><td>-</td></tr><tr><td>Adani Rail Infra Private Limited</td><td>-</td><td>20.78</td><td>-</td><td>18.06</td><td>-</td></tr><tr><td>Adani Properties Private Limited</td><td>-</td><td>15.46</td><td>-</td><td>69.67</td><td>-</td></tr><tr><td>Others</td><td>-</td><td>-</td><td>-</td><td>32.97</td><td>-</td></tr><tr><td>Interest Expense Others</td><td>-</td><td>-</td><td>-</td><td>23.02</td><td>-</td></tr><tr><td>Adani Ports and Special Economic Zone Limited</td><td>-</td><td>-</td><td>-</td><td>20.25</td><td>-</td></tr><tr><td>Adani Enterprises Limited</td><td>-</td><td>-</td><td>-</td><td>2.77</td><td>-</td></tr><tr><td>Loan Received Back</td><td>-</td><td>375.57</td><td>-</td><td>4.82</td><td>-</td></tr><tr><td>Innovant Buildwell Private Limited</td><td>-</td><td>375.57</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Adani Infra (India) Limited</td><td>-</td><td>-</td><td>-</td><td>4.82</td><td>-</td></tr><tr><td>Interest Income on Loan</td><td>-</td><td>2.91</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Innovant Buildwell Private Limited</td><td>-</td><td>2.91</td><td>-</td><td>-</td><td>-</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+69 Related party transactions (Contd...) 
+
+<table><tr><td rowspan="2">Particulars</td><td colspan="3">For the year ended March 31, 2024</td><td colspan="2">For the year ended March 31, 2023</td></tr><tr><td>Associate</td><td>Entities over which one or more Key Management Personnel (&quot;KMP&quot;) or their relatives have significant influence / control / joint control; entities having significant influence over the Company have significant influence / control / joint control through voting power or otherwise</td><td>KMP</td><td>Entities over which one or more Key Management Personnel (&quot;KMP&quot;) or their relatives have significant influence / control / joint control; entities having significant influence over the Company have significant influence / control / joint control through voting power or otherwise</td><td>KMP</td></tr><tr><td>Interest Income</td><td>-</td><td>-</td><td>-</td><td>1.99</td><td>-</td></tr><tr><td>ACC Limited</td><td>-</td><td>-</td><td>-</td><td>1.99</td><td>-</td></tr><tr><td>Sale of Goods / Power</td><td>-</td><td>11,719.62</td><td>-</td><td>8,523.68</td><td>-</td></tr><tr><td>Adani Enterprises Limited</td><td>-</td><td>11,346.54</td><td>-</td><td>8,307.32</td><td>-</td></tr><tr><td>Others</td><td>-</td><td>373.08</td><td>-</td><td>216.36</td><td>-</td></tr><tr><td>Purchase of Goods / Power</td><td>-</td><td>519.04</td><td>-</td><td>941.91</td><td>-</td></tr><tr><td>Adani Global PTE Limited</td><td>-</td><td>324.62</td><td>-</td><td>673.77</td><td>-</td></tr><tr><td>Adani Enterprises Limited</td><td>-</td><td>139.80</td><td>-</td><td>127.48</td><td>-</td></tr><tr><td>Parsa Kente Collieries Limited</td><td>-</td><td>46.25</td><td>-</td><td>133.62</td><td>-</td></tr><tr><td>Others</td><td>-</td><td>8.37</td><td>-</td><td>7.04</td><td>-</td></tr><tr><td>Purchase of Property, Plant and Equipment</td><td>-</td><td>271.17</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Adani Water Limited</td><td>-</td><td>194.96</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Adani Green Energy Limited</td><td>-</td><td>46.76</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Adani Estate Management Private Limited</td><td>-</td><td>29.45</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Sale of Property, Plant and Equipment</td><td>-</td><td>0.13</td><td>-</td><td>0.03</td><td>-</td></tr><tr><td>PN Clean Energy Limited</td><td>-</td><td>0.05</td><td>-</td><td>-</td><td>-</td></tr><tr><td>PN Renewable Energy Limited</td><td>-</td><td>0.05</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Bhagalpur Waste Water Limited</td><td>-</td><td>0.03</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Adani Hospitals Mundra Private Limited</td><td>-</td><td>-</td><td>-</td><td>0.02</td><td>-</td></tr><tr><td>Mundra Petrochem Limited</td><td>-</td><td>-</td><td>-</td><td>0.01</td><td>-</td></tr><tr><td>Investment in Equity Shares of Associate</td><td>*</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Moxie Power Generation Limited</td><td>*</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Sale of Equity Investment</td><td>-</td><td>536.22</td><td>-</td><td>988.97</td><td>-</td></tr><tr><td>AdaniConnex Private Limited</td><td>-</td><td>536.22</td><td>-</td><td>988.97</td><td>-</td></tr><tr><td>Rendering of Service#</td><td>-</td><td>11.06</td><td>-</td><td>14.19</td><td>-</td></tr><tr><td>Adani Electricity Mumbai Limited</td><td>-</td><td>6.43</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Mundra Solar PV Limited</td><td>-</td><td>1.13</td><td>-</td><td>1.63</td><td>-</td></tr></table>
+
+# Mainly includes Sale of Services.
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+69 Related party transactions (Contd...) 
+
+<table><tr><td rowspan="2">Particulars</td><td colspan="3">For the year ended March 31, 2024</td><td colspan="2">For the year ended March 31, 2023</td></tr><tr><td>Associate</td><td>Entities over which one or more Key Management Personnel (&quot;KMP&quot;) or their relatives have significant influence / control / joint control; entities having significant influence over the Company have significant influence / control / joint control through voting power or otherwise</td><td>KMP</td><td>Entities over which one or more Key Management Personnel (&quot;KMP&quot;) or their relatives have significant influence / control / joint control; entities having significant influence over the Company have significant influence / control / joint control through voting power or otherwise</td><td>KMP</td></tr><tr><td>Adani Infrastructure Management Services Limited</td><td>-</td><td>*</td><td>-</td><td>10.02</td><td>-</td></tr><tr><td>Others</td><td>-</td><td>3.50</td><td>-</td><td>2.54</td><td>-</td></tr><tr><td>Receiving of Services##</td><td>-</td><td>1,504.14</td><td>-</td><td>866.68</td><td>-</td></tr><tr><td>Adani Ports and Special Economic Zone Limited</td><td>-</td><td>640.66</td><td>-</td><td>256.25</td><td>-</td></tr><tr><td>Adani Infrastructure Management Services Limited</td><td>-</td><td>586.77</td><td>-</td><td>465.94</td><td>-</td></tr><tr><td>Others</td><td>-</td><td>276.71</td><td>-</td><td>144.49</td><td>-</td></tr><tr><td>Deposit Received</td><td>-</td><td>39.47</td><td>-</td><td>1,260.00</td><td>-</td></tr><tr><td>Adani Green Energy Limited</td><td>-</td><td>37.95</td><td>-</td><td>-</td><td>-</td></tr><tr><td>AdaniConnex Private Limited</td><td>-</td><td>-</td><td>-</td><td>1,250.00</td><td>-</td></tr><tr><td>Others</td><td>-</td><td>1.52</td><td>-</td><td>10.00</td><td>-</td></tr><tr><td>Deposit Given</td><td>-</td><td>68.00</td><td>-</td><td>28.85</td><td>-</td></tr><tr><td>Adani Estate Management Private Limited</td><td>-</td><td>68.00</td><td>-</td><td>-</td><td>-</td></tr><tr><td>MPSEZ Utilities Limited</td><td>-</td><td>-</td><td>-</td><td>28.85</td><td>-</td></tr><tr><td>Issue of Unsecured Perpetual Securities</td><td>-</td><td>129.04</td><td>-</td><td>566.49</td><td>-</td></tr><tr><td>AdaniConnex Private Limited</td><td>-</td><td>129.04</td><td>-</td><td>566.49</td><td>-</td></tr><tr><td>Redemption of Unsecured Perpetual Securities</td><td>-</td><td>5,900.00</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Adani Rail Infra Private Limited</td><td>-</td><td>5,900.00</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Distribution to holders of Unsecured Perpetual Securities</td><td>-</td><td>1,631.93</td><td>-</td><td>661.17</td><td>-</td></tr><tr><td>Adani Properties Private Limited</td><td>-</td><td>865.38</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Adani Rail Infra Private Limited</td><td>-</td><td>593.14</td><td>-</td><td>397.17</td><td>-</td></tr><tr><td>Adani Infra (India) Limited</td><td>-</td><td>173.41</td><td>-</td><td>264.00</td><td>-</td></tr><tr><td>Deposit Refunded</td><td>-</td><td>261.52</td><td>-</td><td>1,000.00</td><td>-</td></tr><tr><td>AdaniConnex Private Limited</td><td>-</td><td>250.00</td><td>-</td><td>1,000.00</td><td>-</td></tr><tr><td>Others</td><td>-</td><td>11.52</td><td>-</td><td>-</td><td>-</td></tr></table>
+
+## Mainly includes services towards Repairs and Maintenance and Port handling Charges.
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+69 Related party transactions (Contd...) 
+
+<table><tr><td rowspan="2">Particulars</td><td colspan="3">For the year ended March 31, 2024</td><td colspan="2">For the year ended March 31, 2023</td></tr><tr><td>Associate</td><td>Entities over which one or more Key Management Personnel (&quot;KMP&quot;) or their relatives have significant influence / control / joint control; entities having significant influence over the Company have significant influence / control / joint control through voting power or otherwise</td><td>KMP</td><td>Entities over which one or more Key Management Personnel (&quot;KMP&quot;) or their relatives have significant influence / control / joint control; entities having significant influence over the Company have significant influence / control / joint control through voting power or otherwise</td><td>KMP</td></tr><tr><td>Deposit Received Back</td><td>-</td><td>-</td><td>-</td><td>28.85</td><td>-</td></tr><tr><td>MPSEZ Utilities Limited</td><td>-</td><td>-</td><td>-</td><td>28.85</td><td>-</td></tr><tr><td>Redemption of Optionally Convertible Debentures</td><td>-</td><td>82.88</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Aviceda Infra Park Limited</td><td>-</td><td>82.88</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Corporate Social Responsibility Contribution</td><td>-</td><td>37.31</td><td>-</td><td>16.70</td><td>-</td></tr><tr><td>Adani Foundation</td><td>-</td><td>37.31</td><td>-</td><td>16.70</td><td>-</td></tr><tr><td>Corporate Guarantee Received (Net)</td><td>-</td><td>661.05</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Adani Properties Private Limited</td><td>-</td><td>661.05</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Corporate Guarantee Released (Net)</td><td>-</td><td>892.52</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Adani Enterprises Limited</td><td>-</td><td>892.52</td><td>-</td><td>-</td><td>-</td></tr><tr><td>Short-term Benefits</td><td>-</td><td>-</td><td>10.97</td><td>-</td><td>8.31</td></tr><tr><td>Mr. S. B. Khyalia, CEO</td><td>-</td><td>-</td><td>6.42</td><td>-</td><td>3.53</td></tr><tr><td>Mr. Shailesh Sawa, CFO</td><td>-</td><td>-</td><td>4.01</td><td>-</td><td>4.26</td></tr><tr><td>Mr. Deepak S Pandya, CS</td><td>-</td><td>-</td><td>0.54</td><td>-</td><td>0.52</td></tr><tr><td>Post-employment Benefits</td><td>-</td><td>-</td><td>0.36</td><td>-</td><td>0.33</td></tr><tr><td>Mr. S. B. Khyalia, CEO</td><td>-</td><td>-</td><td>0.06</td><td>-</td><td>0.06</td></tr><tr><td>Mr. Shailesh Sawa, CFO</td><td>-</td><td>-</td><td>0.24</td><td>-</td><td>0.22</td></tr><tr><td>Mr. Deepak S Pandya, CS</td><td>-</td><td>-</td><td>0.06</td><td>-</td><td>0.05</td></tr><tr><td>Director Sitting Fees</td><td>-</td><td>-</td><td>0.49</td><td>-</td><td>0.46</td></tr><tr><td>Mr. Mukesh Shah</td><td>-</td><td>-</td><td>0.17</td><td>-</td><td>0.17</td></tr><tr><td>Mr. Sushil Kumar Roongta</td><td>-</td><td>-</td><td>0.17</td><td>-</td><td>0.06</td></tr><tr><td>Mrs. Chandra Iyengar</td><td>-</td><td>-</td><td>0.15</td><td>-</td><td>0.05</td></tr><tr><td>Mr. Raminder Singh Gujral</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0.07</td></tr><tr><td>Ms. Gauri Trivedi</td><td>-</td><td>-</td><td>-</td><td>-</td><td>0.11</td></tr></table>
+
+(Figures below \` 50,000 are denominated with\*)
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 69 Related party transactions (Contd...)
+
+c. Balances with Related Parties : 
+
+<table><tr><td rowspan="2">Particulars</td><td>As at March 31, 2024</td><td>As at March 31, 2023</td></tr><tr><td colspan="2">Entities over which one or more Key Management Personnel (&quot;KMP&quot;) or their relatives have significant influence / control / joint control; entities having significant influence over the Company have significant influence / control / joint control through voting power or otherwise</td></tr><tr><td>Borrowings (refer note (ii) below)</td><td>-</td><td>6,790.13</td></tr><tr><td>Adani Infra (India) Limited</td><td>-</td><td>2,834.76</td></tr><tr><td>Adani Infrastructure Management Services Limited</td><td>-</td><td>2,081.09</td></tr><tr><td>Adani Properties Private Limited</td><td>-</td><td>940.54</td></tr><tr><td>Adani Rail Infra Private Limited</td><td>-</td><td>933.74</td></tr><tr><td>Interest Payable</td><td>-</td><td>2.77</td></tr><tr><td>Adani Enterprises Limited</td><td>-</td><td>2.77</td></tr><tr><td>Interest Receivable</td><td>-</td><td>1.99</td></tr><tr><td>ACC Limited</td><td>-</td><td>1.99</td></tr><tr><td>Trade Receivables</td><td>458.00</td><td>520.27</td></tr><tr><td>Adani Enterprises Limited</td><td>356.67</td><td>471.31</td></tr><tr><td>Adani Electricity Mumbai Limited</td><td>81.95</td><td>0.04</td></tr><tr><td>Others</td><td>19.38</td><td>48.92</td></tr><tr><td>Security Deposit, Advances for goods and services and other Receivables</td><td>83.62</td><td>10.31</td></tr><tr><td>Adani Estate Management Private Limited</td><td>68.00</td><td>-</td></tr><tr><td>Adani Enterprises Limited</td><td>7.16</td><td>8.01</td></tr><tr><td>Adani Logistics Limited</td><td>1.30</td><td>1.30</td></tr><tr><td>Others</td><td>7.16</td><td>1.00</td></tr><tr><td>Trade Payables and Other Payables</td><td>449.81</td><td>682.11</td></tr><tr><td>Adani Infrastructure Management Services Limited</td><td>178.84</td><td>175.92</td></tr><tr><td>Adani Ports and Special Economic Zone Limited</td><td>89.34</td><td>314.15</td></tr><tr><td>Adani Global Pte Limited</td><td>54.88</td><td>86.10</td></tr><tr><td>Others</td><td>126.75</td><td>105.94</td></tr><tr><td>Security Deposit and Advances Liabilities</td><td>38.62</td><td>260.01</td></tr><tr><td>Adani Green Energy Limited</td><td>37.95</td><td>-</td></tr><tr><td>AdaniConnex Private Limited</td><td>-</td><td>250.00</td></tr><tr><td>Others</td><td>0.67</td><td>10.01</td></tr><tr><td>Unsecured Perpetual Securities (Issued)</td><td>7,315.00</td><td>13,215.00</td></tr><tr><td>Adani Infra (India) Limited</td><td>3,715.00</td><td>3,715.00</td></tr><tr><td>Adani Properties Private Limited</td><td>3,600.00</td><td>3,600.00</td></tr><tr><td>Adani Rail Infra Private Limited</td><td>-</td><td>5,900.00</td></tr><tr><td>Non-cumulative Compulsory Redeemable Preference Shares</td><td>300.00</td><td>-</td></tr><tr><td>Adani Rail Infra Private Limited</td><td>300.00</td><td>-</td></tr><tr><td>Corporate Guarantee Received</td><td>1,211.05</td><td>1,442.52</td></tr><tr><td>Adani Properties Private Limited</td><td>661.05</td><td>-</td></tr><tr><td>Adani Enterprises Limited</td><td>550.00</td><td>1,442.52</td></tr></table>
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+# 69 Related party transactions (Contd...)
+
+# Notes:
+
+i) The amount outstanding are unsecured and will be settled in cash or Kind.   
+ii) Borrowings includes Interest accrued of \` Nil (Previous year \` 436.64 crore) added to borrowings as on reporting date as agreed as per contractual terms.   
+iii) Material related party transactions and closing balances are disclosed seperately.   
+iv) Details in respect of transactions with related parties in terms of Regulation 23 of SEBI (LODR) Regulation, 2015 effective from April 01, 2023 is also disclosed above.
+
+70 Mahan Energen Limited (“MEL”), wholly owned subsidiary of the Company has entered into a 20-year long-term Power Purchase Agreement (“PPA”) for 500 MW with Reliance Industries Limited (“RIL”), under the Captive User policy as defined under the Electricity Rules, 2005. One unit of 600 MW capacity, out of its aggregate operating and upcoming capacity of 2800 MW, will be designated as the Captive Unit for this purpose. In order to avail the benefit of this policy, the Company and RIL have agreed that RIL to hold a 26% ownership stake in the Captive Unit in proportion to the total capacity of the power plant. It will accordingly invest in 5,00,00,000 equity shares of MEL, aggregating to \` 50 crore for the proportionate ownership stake. The transaction will be effective upon fulfillment of the customary closing conditions including receipt of requisite approvals.
+
+71 The Group uses an accounting software for maintaining its books of account which has a feature of recording audit trail (edit log) facility and the same has operated throughout the year for all relevant transactions recorded in the accounting software. However, the audit trail feature is not enabled for certain direct changes to data when using certain privileged / administrative access rights to the SAP application and the underlying HANA database. Further no instance of audit trail feature being tampered with was noted in respect of the accounting software.
+
+Subsequently to the year end, the log has been activated at the SAP application and the privileged access to HANA database has been restricted to limited set of users who necessarily require this access for maintenance and administration of the database.
+
+# 72 Recent Pronouncements
+
+“Ministry of Corporate Affairs (“MCA”) notifies new standards or amendments to the existing standards under Companies (Indian Accounting Standards) Rules as issued from time to time. During the year ended March 31, 2024, MCA has not notified any new standards or amendments to the existing standards applicable to the Group.”
+
+73 The Group does not have any transaction to report against the following disclosure requirements as notified by MCA pursuant to amendment to Schedule III:
+
+1. Crypto Currency or Virtual Currency   
+2. Benami Property held under Benami Transactions (Prohibition) Act, 1988 (45 of 1988)   
+3. Registration of charges or satisfaction with Registrar of Companies   
+4. Related to Borrowing of Funds:
+
+i. Wilful defaulter   
+ii. Utilization of borrowed fund and share premium   
+iii. Discrepancy in utilization of borrowings   
+iv. Discrepancy in information submitted towards borrowings obtained on the basis of security of current assets
+
+# Notes to Consolidated Financial Statements
+
+for the year ended March 31, 2024
+
+74 According to the management’s evaluation of events subsequent to the balance sheet date, there were no significant adjusting events that occurred other than those disclosed / given effect to, in these financial statements as of May 01, 2024.
+
+As per our report of even date
+
+For S R B C & CO LLP
+
+Chartered Accountants
+
+Firm Registration No. : 324982E/E300003
+
+per Santosh Agarwal
+
+Partner
+
+Membership No. 093669
+
+For and on behalf of the Board of Directors
+
+Gautam S. Adani
+
+Chairman
+
+DIN : 00006273
+
+Anil Sardana
+
+Managing Director
+
+DIN : 00006867
+
+S. B. Khyalia
+
+Chief Executive Officer
+
+Dilip Kumar Jha
+
+Chief Financial Officer
+
+Deepak S Pandya
+
+Company Secretary
+
+Place : Ahmedabad
+
+Date : May 01, 2024
+
+Place : Ahmedabad
+
+Date : May 01, 2024
+
+# Notice
+
+NOTICE is hereby given that the 28th Annual General Meeting (“AGM”) of Adani Power Limited (“the Company”) will be held on Tuesday, June 25, 2024 at 2:00 p.m. through Video Conferencing / Other Audio-Visual Means to transact the following businesses. The venue of the meeting shall be deemed to be the Registered Office of the Company at Adani Corporate House, Shantigram, Near Vaishno Devi Circle, S.G. Highway, Khodiyar, Ahmedabad – 382 421, Gujarat.
+
+# ORDINARY BUSINESS
+
+1. To receive, consider and adopt the –
+
+a. audited financial statements of the Company for the financial year ended March 31, 2024 together with the Reports of the Board of Directors and Auditors thereon; and   
+b. audited consolidated financial statements of the Company for the financial year ended March 31, 2024 together with the report of Auditors thereon.
+
+2. To declare dividend on 4,15,86,207 0.01% Compulsorily Redeemable Preference Shares.
+
+The preference shareholders in your Company are holding 4,15,86,207 0.01% Compulsorily Redeemable Preference Shares of \` 100/- each fully paid-up. These preference shares bear dividend at the rate of 0.01% per annum for each financial year.
+
+Therefore, the Members of the Company are requested to consider and if thought fit, to pass with or without modification(s), the following resolution as an Ordinary Resolution:
+
+“RESOLVED THAT pursuant to the terms of issue of 4,15,86,207 0.01% Compulsorily Redeemable Preference Shares of \` 100/- each fully paid- up (“preference shares”) and also in terms of the recommendation of the Board of Directors of the Company, the approval of the Members of the Company be and is hereby granted for payment of dividend @ 0.01% on 4,15,86,207 preference shares for the year ended March 31, 2024.”
+
+3. To appoint a Director in place of Mr. Gautam S. Adani (DIN: 00006273), who retires by rotation and being eligible offers himself for re-appointment.
+
+Explanation: Based on the terms of appointment, Directors (other than Independent Directors) are subject to retirement by rotation. Mr. Gautam S. Adani, who has been a Director (Category – Non-Executive) and whose office is liable to retire by rotation at this AGM, being eligible, seeks re-appointment. Based on the performance evaluation, the Board recommends his re- appointment.
+
+Therefore, the Members of the Company are requested to consider and, if thought fit, to pass the following resolution as an Ordinary Resolution:
+
+“RESOLVED THAT pursuant to the provisions of Section 152 and other applicable provisions of the Companies Act, 2013, Mr. Gautam S. Adani (DIN: 00006273), who retires by rotation, be and is hereby re-appointed as a Director of the Company, liable to retire by rotation.”
+
+# SPECIAL BUSINESS
+
+4. To consider, and, if thought fit, to approve the appointment of Mrs. Sangeeta Singh (DIN: 10593952) as an Independent Director of the Company for a period of 3 (three) years w.e.f. from May 01, 2024 and to pass, with or without modification(s), the following resolution as a Special Resolution:
+
+“RESOLVED THAT pursuant to the provisions of Sections 149, 150, 152 and any other applicable provisions, if any, of the Companies Act, 2013 (the “Act”) and the Rules made thereunder (including any statutory modification(s) or reenactment thereof for the time being in force) read with Schedule IV to the Act and the applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (the “SEBI Listing Regulations”), the Articles of Association of the Company and pursuant to the recommendation of the Nomination and Remuneration Committee and approval of the Board of Directors, Mrs. Sangeeta Singh (DIN: 10593952) who was appointed as an Additional and Independent Director of the Company under Section 161 of the Act and has submitted a declaration that she meets the criteria of independence under Section 149(6) of the Act and Regulation 16(1)(b) of the SEBI Listing Regulations and in respect of whom the Company has received a notice in writing from a member proposing her candidature for the office of Director, be and is hereby appointed as an Independent Director of the Company to hold office for 3 (three) years with effect from May 01, 2024, whose term of office shall not be liable to retirement by rotation.
+
+RESOLVED FURTHER THAT the Board of Directors and/ or a duly constituted Committee thereof and/ or the Key Managerial Personnel of the Company be and are hereby severally authorized to settle any question, difficulty or doubt, that may arise in giving effect to this resolution and to do all such acts, deeds, matters and things as may be considered necessary or expedient for giving effect to this resolution, inter-alia, filings of required forms / documents with the Ministry of Corporate Affairs and Stock Exchanges and / or other authorities as may be required to give effect to this resolution.
+
+5. To consider, and, if thought fit, to approve the material related party transaction(s) proposed to be entered into by the Company and to pass, with or without modification(s), the following resolution as an Ordinary Resolution:
+
+“RESOLVED THAT pursuant to the applicable provisions of the Companies Act, 2013 read with the rules framed thereunder (including any statutory amendment(s) or re-enactment(s) thereof, for the time being in force, if any), and in terms of Regulation 23 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”), as amended from time to time, the consent of the Members of the Company be and is hereby accorded to the Board of Directors of the Company (the “Board”, which term shall be deemed to include any duly authorized Committee constituted /empowered by the Board, from time to time, to exercise its powers conferred by this resolution), for entering into and / or carrying out and / or continuing with existing contracts / arrangements / transactions or modification(s) of earlier arrangements / transactions or as fresh and independent transaction(s) or otherwise (whether individually or series of transaction(s) taken together or otherwise), with Adani Rail Infra Private Limited, a related party of the Company, as per the details set out in the explanatory statement annexed to this notice, notwithstanding the fact that the aggregate value of all these transaction(s), whether undertaken directly by the Company or along with its subsidiary(ies), may exceed the prescribed thresholds as per provisions of the SEBI Listing Regulations as applicable from time to time, provided, however, that the said contract(s)/ arrangement(s)/ transaction(s) shall be carried out on an arm’s length basis and in the ordinary course of business of the Company.
+
+RESOLVED FURTHER THAT the Board be and are hereby severally authorised to execute all such agreements, documents, instruments and writings as deemed necessary, with power to alter and vary the terms and conditions of such contracts/ arrangements/ transactions, settle all questions, difficulties or doubts that may arise in this regard”.
+
+6. To consider, and, if thought fit, to approve the material related party transaction(s) proposed to be entered into by the Company and to pass, with or without modification(s), the following resolution as an Ordinary Resolution:
+
+“RESOLVED THAT pursuant to the applicable provisions of the Companies Act, 2013 read with the rules framed thereunder (including any statutory amendment(s) or re-enactment(s) thereof, for the time being in force, if any), and in terms of Regulation 23 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”), as amended from time to time, the consent of the Members of the Company be and is hereby accorded to the Board of Directors of the Company (the “Board” , which term shall be deemed to include any duly authorized Committee constituted /empowered by the Board, from time to time, to exercise its powers conferred by this resolution), for entering into and / or carrying out and / or continuing with existing contracts / arrangements / transactions or modification(s) of earlier arrangements / transactions or as fresh and independent transaction(s) or otherwise (whether individually or series of transaction(s) taken together or otherwise), with Adani Infra (India) Limited, a related party of the Company, as per the details set out in the explanatory statement annexed to this notice, notwithstanding the fact that the aggregate value of all these transaction(s), whether undertaken directly by the Company or along with its subsidiary(ies), may exceed the prescribed thresholds as per provisions of the SEBI Listing Regulations as applicable from time to time, provided, however, that the said contract(s)/ arrangement(s)/ transaction(s) shall be carried out on an arm’s length basis and in the ordinary course of business of the Company.
+
+RESOLVED FURTHER THAT the Board be and are hereby severally authorised to execute all such agreements, documents, instruments and writings as deemed necessary, with power to alter and vary the terms and conditions of such contracts/ arrangements/ transactions, settle all questions, difficulties or doubts that may arise in this regard”.
+
+7. To consider, and, if thought fit, to approve the material related party transaction(s) proposed to be entered into by the Company and to pass, with or without modification(s), the following resolution as an Ordinary Resolution:
+
+“RESOLVED THAT pursuant to the applicable provisions of the Companies Act, 2013 read with the rules framed thereunder (including any statutory amendment(s) or re-enactment(s) thereof, for the time being in force, if any), and in terms of Regulation 23 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”), as amended from time to time, the consent of the Members of the Company be and is hereby accorded to the Board of Directors of the Company (the “Board” , which term shall be deemed to include any duly authorized Committee constituted /empowered by the Board, from time to time, to exercise its powers conferred by this resolution), for entering into and / or carrying out and / or continuing with existing contracts / arrangements / transactions or modification(s) of earlier arrangements / transactions or as fresh and independent transaction(s) or otherwise (whether individually or series of transaction(s) taken together or otherwise), with Adani Properties Private Limited, a related party of the Company, as per the details set out in the explanatory statement annexed to this notice, notwithstanding the fact that the aggregate value of all these transaction(s), whether undertaken directly by the Company or along with its subsidiary(ies), may exceed the prescribed thresholds as per provisions of the SEBI Listing Regulations as applicable from time to time, provided, however, that the said contract(s)/ arrangement(s)/ transaction(s) shall be carried out on an arm’s length basis and in the ordinary course of business of the Company.
+
+RESOLVED FURTHER THAT the Board be and are hereby severally authorised to execute all such agreements, documents, instruments and writings as deemed necessary, with power to alter and vary the terms and conditions of such contracts/ arrangements/ transactions, settle all questions, difficulties or doubts that may arise in this regard”.
+
+8. To consider, and, if thought fit, to approve the material related party transaction(s) proposed to be entered into by the Company and to pass, with or without modification(s), the following resolution as an Ordinary Resolution:
+
+“RESOLVED THAT pursuant to the applicable provisions of the Companies Act, 2013 read with the rules framed thereunder (including any statutory amendment(s) or re-enactment(s) thereof, for the time being in force, if any), and in terms of Regulation 23 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”), as amended from time to time, the consent of the Members of the Company be and is hereby accorded to the Board of Directors of the Company (the “Board”, which term shall be deemed to include any duly authorized Committee constituted /empowered by the Board, from time to time, to exercise its powers conferred by this resolution ), for entering into and / or carrying out and / or continuing with existing contracts / arrangements / transactions or modification(s) of earlier arrangements / transactions or as fresh and independent transaction(s) or otherwise (whether individually or series of transaction(s) taken together or otherwise), with Adani Infrastructure Management Services Limited, a related party of the Company, as per the details set out in the explanatory statement annexed to this notice, notwithstanding the fact that the aggregate value of all these transaction(s), whether undertaken directly by the Company or along with its subsidiary(ies), may exceed the prescribed thresholds as per provisions of the SEBI Listing Regulations as applicable from time to time, provided, however, that the said contract(s)/ arrangement(s)/ transaction(s) shall be carried out on an arm’s length basis and in the ordinary course of business of the Company.
+
+RESOLVED FURTHER THAT the Board be and are hereby severally authorised to execute all such agreements, documents, instruments and writings as deemed necessary, with power to alter and vary the terms and conditions of such contracts/ arrangements/ transactions, settle all questions, difficulties or doubts that may arise in this regard”.
+
+9. To consider, and, if thought fit, to approve the material related party transaction(s) proposed to be entered into by the Company and to pass, with or without modification(s), the following resolution as an Ordinary Resolution:
+
+“RESOLVED THAT pursuant to the applicable provisions of the Companies Act, 2013 read with the rules framed thereunder (including any statutory amendment(s) or re-enactment(s) thereof, for the time being in force, if any), and in terms of Regulation 23 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”), as amended from time to time, the consent of the Members of the Company be and is hereby accorded to the Board of Directors of the Company (the “Board” , which term shall be deemed to include any duly authorized Committee constituted /empowered by the Board, from time to time, to exercise its powers conferred by this resolution), for entering into and / or carrying out and / or continuing with existing contracts / arrangements / transactions or modification(s) of earlier arrangements / transactions or as fresh and independent transaction(s) or otherwise (whether individually or series of transaction(s) taken together or otherwise), with Adani Enterprises Limited, a related party of the Company, as per the details set out in the explanatory statement annexed to this notice, notwithstanding the fact that the aggregate value of all these transaction(s), whether undertaken directly by the Company or along with its subsidiary(ies), may exceed the prescribed thresholds as per provisions of the SEBI Listing Regulations as applicable from time to time, provided, however, that the said contract(s)/ arrangement(s)/ transaction(s) shall be carried out on an arm’s length basis and in the ordinary course of business of the Company.
+
+RESOLVED FURTHER THAT the Board be and are hereby severally authorised to execute all such agreements, documents, instruments and writings as deemed necessary, with power to alter and vary the terms and conditions of such contracts/ arrangements/ transactions, settle all questions, difficulties or doubts that may arise in this regard”.
+
+10. To consider, and, if thought fit, to approve the material related party transaction(s) proposed to be entered into by Company and to pass, with or without modification(s), the following resolution as an Ordinary Resolution:
+
+“RESOLVED THAT pursuant to the applicable provisions of the Companies Act, 2013 read with the rules framed thereunder (including any statutory amendment(s) or re-enactment(s) thereof, for the time being in force, if any), and in terms of Regulation 23 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”), as amended from time to time, the consent of the Members of the Company be and is hereby accorded to the Board of Directors of the Company (the “Board”), for entering into and / or carrying out and / or continuing with existing contracts / arrangements / transactions or modification(s) of earlier arrangements / transactions or as fresh and independent transaction(s) or otherwise (whether individually or series of transaction(s) taken together or otherwise), with Mahan Energen Limited, a related party of the Company, as per the details set out in the explanatory statement annexed to this notice, notwithstanding the fact that the aggregate value of all these transaction(s), whether undertaken directly by the Company or along with its subsidiary(ies), may exceed the prescribed thresholds as per provisions of the SEBI Listing Regulations as applicable from time to time, provided, however, that the said contract(s)/ arrangement(s)/ transaction(s) shall be carried out on an arm’s length basis and in the ordinary course of business of the Company.
+
+RESOLVED FURTHER THAT the Board of Directors of the Company and the Management Committee of the Board of Directors of the Company be and are hereby severally authorised to execute all such agreements, documents, instruments and writings as deemed necessary, with power to alter and vary the terms and conditions of such contracts/ arrangements/ transactions, settle all questions, difficulties or doubts that may arise in this regard”.
+
+11. To consider, and, if thought fit, to approve the material related party transaction(s) proposed to be entered into by the Company and to pass, with or without modification(s), the following resolution as an Ordinary Resolution:
+
+“RESOLVED THAT pursuant to the applicable provisions of the Companies Act, 2013 read with the rules framed thereunder (including any statutory amendment(s) or re-enactment(s) thereof, for the time being in force, if any), and in terms of Regulation 23 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”), as amended from time to time, the consent of the Members of the Company be and is hereby accorded to the Board of Directors of the Company (the “Board”), for entering into and / or carrying out and / or continuing with existing contracts / arrangements / transactions or modification(s) of earlier arrangements / transactions or as fresh and independent transaction(s) or otherwise (whether individually or series of transaction(s) taken together or otherwise), with Moxie Power Generation Limited, a related party of the Company, as per the details set out in the explanatory statement annexed to this notice, notwithstanding the fact that the aggregate value of all these transaction(s), whether undertaken directly by the Company or along with its subsidiary(ies), may exceed the prescribed thresholds as per provisions of the SEBI Listing Regulations as applicable from time to time, provided, however, that the said contract(s)/ arrangement(s)/ transaction(s) shall be carried out on an arm’s length basis and in the ordinary course of business of the Company.
+
+RESOLVED FURTHER THAT the Board of Directors of the Company and the Management Committee of the Board of Directors of the Company be and are hereby severally authorised to execute all such agreements, documents, instruments and writings as deemed necessary, with power to alter and vary the terms and conditions of such contracts/ arrangements/ transactions, settle all questions, difficulties or doubts that may arise in this regard”.
+
+12. To consider, and, if thought fit, to approve the material related party transaction(s) proposed to be entered into by the Company and to pass, with or without modification(s), the following resolution as an Ordinary Resolution:
+
+“RESOLVED THAT pursuant to the applicable provisions of the Companies Act, 2013 read with the rules framed thereunder (including any statutory amendment(s) or re-enactment(s) thereof, for the time being in force, if any), and in terms of Regulation 23 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”), as amended from time to time, the consent of the Members of the Company be and is hereby accorded to the Board of Directors of the Company (the “Board”), for entering into and / or carrying out and / or continuing with existing contracts / arrangements / transactions or modification(s) of earlier arrangements / transactions or as fresh and independent transaction(s) or otherwise (whether individually or series of transaction(s) taken together or otherwise), with Adani Energy Solutions
+
+Limited, a related party of the Company, as per the details set out in the explanatory statement annexed to this notice, notwithstanding the fact that the aggregate value of all these transaction(s), whether undertaken directly by the Company or along with its subsidiary(ies), may exceed the prescribed thresholds as per provisions of the SEBI Listing Regulations as applicable from time to time, provided, however, that the said contract(s)/ arrangement(s)/ transaction(s) shall be carried out on an arm’s length basis and in the ordinary course of business of the Company.
+
+RESOLVED FURTHER THAT the Board of Directors of the Company and the Management Committee of the Board of Directors of the Company be and are hereby severally authorised to execute all such agreements, documents, instruments and writings as deemed necessary, with power to alter and vary the terms and conditions of such contracts/ arrangements/ transactions, settle all questions, difficulties or doubts that may arise in this regard”.
+
+13. To consider, and, if thought fit, to approve the material related party transaction(s) proposed to be entered into by the subsidiary of the Company and to pass, with or without modification(s), the following resolution as an Ordinary Resolution:
+
+“RESOLVED THAT pursuant to the applicable provisions of the Companies Act, 2013 read with the rules framed thereunder (including any statutory amendment(s) or re-enactment(s) thereof, for the time being in force, if any), and in terms of Regulation 23 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”), as amended from time to time, the consent of the Members of the Company be and is hereby accorded to the Board of Directors of the Company (the “Board”), for entering into and / or carrying out and / or continuing with existing contracts / arrangements / transactions or modification(s) of earlier arrangements / transactions or as fresh and independent transaction(s) or otherwise (whether individually or series of transaction(s) taken together or otherwise), with Adani Enterprises Limited, a related party of the Company, as per the details set out in the explanatory statement annexed to this notice, notwithstanding the fact that the aggregate value of all these transaction(s), whether undertaken directly by the Company or along with its subsidiary(ies), may exceed the prescribed thresholds as per provisions of the SEBI
+
+Listing Regulations as applicable from time to time, provided, however, that the said contract(s)/ arrangement(s)/ transaction(s) shall be carried out on an arm’s length basis and in the ordinary course of business of the Company.
+
+RESOLVED FURTHER THAT the Board of Directors of the Company and the Management Committee of the Board of Directors of the Company be and are hereby severally authorised to execute all such agreements, documents, instruments and writings as deemed necessary, with power to alter and vary the terms and conditions of such contracts/ arrangements/ transactions, settle all questions, difficulties or doubts that may arise in this regard”.
+
+14. To consider, and, if thought fit, to approve the material related party transaction(s) proposed to be entered into by the subsidiary of the Company and to pass, with or without modification(s), the following resolution as an Ordinary Resolution:
+
+“RESOLVED THAT pursuant to the applicable provisions of the Companies Act, 2013 read with the rules framed thereunder (including any statutory amendment(s) or re-enactment(s) thereof, for the time being in force, if any), and in terms of Regulation 23 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”), as amended from time to time, the consent of the Members of the Company be and is hereby accorded to the Board of Directors of the Company (the “Board”), for entering into and / or carrying out and / or continuing with existing contracts / arrangements / transactions or modification(s) of earlier arrangements / transactions or as fresh and independent transaction(s) or otherwise (whether individually or series of transaction(s) taken together or otherwise), with Adani Energy Solutions Limited, a related party of the Company, as per the details set out in the explanatory statement annexed to this notice, notwithstanding the fact that the aggregate value of all these transaction(s), whether undertaken directly by the Company or along with its subsidiary(ies), may exceed the prescribed thresholds as per provisions of the SEBI Listing Regulations as applicable from time to time, provided, however, that the said contract(s)/ arrangement(s)/ transaction(s) shall be carried out on an arm’s length basis and in the ordinary course of business of the Company.
+
+RESOLVED FURTHER THAT the Board of Directors of the Company and the Management Committee of the Board of Directors of the Company be and are hereby severally authorised to execute all such agreements, documents, instruments and writings as deemed necessary, with power to alter and vary the terms and conditions of such contracts/ arrangements/ transactions, settle all questions, difficulties or doubts that may arise in this regard”.
+
+15. To consider, and, if thought fit, to approve the material related party transaction(s) proposed to be entered into by the subsidiary of the Company and to pass, with or without modification(s), the following resolution as an Ordinary Resolution:
+
+“RESOLVED THAT pursuant to the applicable provisions of the Companies Act, 2013 read with the rules framed thereunder (including any statutory amendment(s) or re-enactment(s) thereof, for the time being in force, if any), and in terms of Regulation 23 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”), as amended from time to time, the consent of the Members of the Company be and is hereby accorded to the Board of Directors of the Company (the “Board”), for entering into and / or carrying out and / or continuing with existing contracts / arrangements / transactions or modification(s) of earlier arrangements / transactions or as fresh and independent transaction(s) or otherwise (whether individually or series of transaction(s) taken together or otherwise), with Adani Properties Private Limited, a related party of the Company, as per the details set out in the explanatory statement annexed to this notice, notwithstanding the fact that the aggregate value of all these transaction(s), whether undertaken directly by the Company or along with its subsidiary(ies), may exceed the prescribed thresholds as per provisions of the SEBI Listing Regulations as applicable from time to time, provided, however, that the said contract(s)/ arrangement(s)/ transaction(s) shall be carried out on an arm’s length basis and in the ordinary course of business of the Company.
+
+RESOLVED FURTHER THAT the Board of Directors of the Company and the Management Committee of the Board of Directors of the Company be and are hereby severally authorised to execute all such agreements, documents, instruments and writings as deemed necessary, with power to alter and vary the terms and conditions of such contracts/ arrangements/ transactions, settle all questions, difficulties or doubts that may arise in this regard”.
+
+16. To consider, and, if thought fit, to approve the material related party transaction(s) proposed to be entered into by the subsidiary of the Company and to pass, with or without modification(s), the following resolution as an Ordinary Resolution:
+
+“RESOLVED THAT pursuant to the applicable provisions of the Companies Act, 2013 read with the rules framed thereunder (including any statutory amendment(s) or re-enactment(s) thereof, for the time being in force, if any), and in terms of Regulation 23 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”), as amended from time to time, the consent of the Members of the Company be and is hereby accorded to the Board of Directors of the Company (the “Board”), for entering into and / or carrying out and / or continuing with existing contracts / arrangements / transactions or modification(s) of earlier arrangements / transactions or as fresh and independent transaction(s) or otherwise (whether individually or series of transaction(s) taken together or otherwise), with Adani Properties Private Limited, a related party of the Company, as per the details set out in the explanatory statement annexed to this notice, notwithstanding the fact that the aggregate value of all these transaction(s), whether undertaken directly by the Company or along with its subsidiary(ies), may exceed the prescribed thresholds as per provisions of the SEBI Listing Regulations as applicable from time to time, provided, however, that the said contract(s)/ arrangement(s)/ transaction(s) shall be carried out on an arm’s length basis and in the ordinary course of business of the Company.
+
+RESOLVED FURTHER THAT the Board of Directors of the Company and the Management Committee of the Board of Directors of the Company be and are hereby severally authorised to execute all such agreements, documents, instruments and writings as deemed necessary, with power to alter and vary the terms and conditions of such contracts/ arrangements/ transactions, settle all questions, difficulties or doubts that may arise in this regard”.
+
+17. To consider and, if thought fit, to approve the payment of remuneration by way of commission to Non-Executive & Independent Directors of the
+
+Company and to pass, with or without modification(s), the following resolution as an Ordinary Resolution:
+
+“RESOLVED THAT pursuant to the provisions of Section 149, 197, 198 and all other applicable provisions, if any, of the Companies Act, 2013 (the “Act”) and the rules made thereunder (including any amendment(s), statutory modification(s) or re-enactment(s) thereof for the time being in force), Regulation 17 and all other applicable provisions, if any, of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 or any other law for the time being in force, and in accordance with provisions of the Articles of Association of the Company, and subject to such other approvals as may be required, the approval of the members of the Company be and is hereby accorded to the Board of Directors of the Company (the “Board”) for payment of commission or otherwise to the non-executive directors, including Independent Director(s) of the Company, in addition to sitting fee being paid to them for attending the meetings of the Board and its Committees, a sum not exceeding 1% (one percent) of the net profits of the Company per annum , as computed in accordance with the provisions of Section 198 of the Act, for the five (5) financial years starting from April 1, 2024, in such manner and upto such extent as the Board of Directors of the Company may, from time to time, determine.
+
+RESOLVED FURTHER THAT the Board of Directors of the Company and / or any duly constituted committee of the Board, be and are hereby severally authorized to do all such acts, deeds, matters and things, as it may deem necessary, proper or desirable and to settle any question, difficulty or doubt that may arise in this regard.”
+
+18. To consider and, if thought fit, to ratify the remuneration of the Cost Auditors appointed by the Board of Directors of the Company, for the financial year ending March 31, 2025 and to pass, with or without modification(s), the following resolution as an Ordinary Resolution:
+
+“RESOLVED THAT pursuant to the provisions of Section 148 and all other applicable provisions of the Companies Act, 2013 and the Companies (Audit and Auditors) Rules, 2014 (including any statutory modification(s) or re-enactment thereof for the time being in force), M/s. Kiran J. Mehta & Co., Cost Accountants [Firm Reg. No. 000025], the Cost Auditors appointed by the Board of Directors of the Company, based on the recommendation of the Audit Committee, to conduct the audit of the cost records of the Company for the financial year ending March 31, 2025, be paid remuneration of \` 15,40,000/- (including consolidation fees) plus applicable taxes and reimbursement of out of pocket expenses at actual, if any, incurred in connection with the audit.
+
+RESOLVED FURTHER THAT the Board of Directors of the Company be and is hereby authorized to do all acts and take all such steps as may be necessary, proper or expedient to give effect to this resolution.”
+
+For and on behalf of the Board
+
+# Adani Power Limited
+
+# Deepak S. Pandya
+
+# Company Secretary
+
+Membership No. FCS 5002
+
+Date: May 22, 2024
+
+Place: Ahmedabad
+
+# Registered Office:
+
+Adani Corporate House, Shantigram,
+
+Nr. Vaishno Devi Circle,
+
+S. G. Highway, Khodiyar, Ahmedabad – 382 421
+
+CIN: L40100GJ1996PLC030533
+
+# NOTES:
+
+1. The Government of India, Ministry of Corporate Affairs has allowed conducting Annual General Meeting through Video Conferencing (VC) or Other Audio-Visual Means (OAVM) and dispended the personal presence of the members at the meeting. Accordingly, the Ministry of Corporate Affairs issued Circular No. 14/2020 dated April 08, 2020, Circular No. 17/2020 dated April 13, 2020 and Circular No. 20/2020 dated May 05, 2020 and Circular No. 02/2021 dated January 13, 2021 and Circular No. 21/2021 dated December 14, 2021 and 02/2022 dated May 05, 2022 and latest being 10/2022 dated December 28, 2022 (“MCA Circulars”) and Circular No. SEBI/HO/CFD/ CMD2/CIR/P/2021/11 dated January 15, 2021 and Circular No. SEBI/HO/DDHS/P/ CIR/2022/0063 dated May 13, 2022 and SEBI/HO/ CRD/PoD- 2/P/CIR/2023/4 dated January 05, 2023 issued by the Securities Exchange Board of India (“SEBI Circular”) prescribing the procedures and manner of conducting the Annual General Meeting through VC/OVAM. In terms of the said circulars, the 10th Annual General Meeting (“AGM”) of the Members will be held through VC/OAVM. Hence, Members
+
+can attend and participate in the AGM through VC/ OAVM only. The detailed procedure for participation in the meeting through VC/ OAVM is as per note no.18 and available at the Company’s website www.adanipower.com.
+
+2. The helpline number regarding any query / assistance for participation in the AGM through VC/ OAVM is 022-23058542/43.
+
+3. Information regarding appointment/ reappointment of Directors and Explanatory Statement in respect of special businesses to be transacted pursuant to Section 102 of the Companies Act, 2013 (“the Act”) and/or Regulation 36(3) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”) is annexed hereto.
+
+4. Pursuant to the Circular No. 14/2020 dated April 08, 2020, issued by the Ministry of Corporate Affairs, the facility to appoint proxy to attend and cast vote for the Members is not available for this AGM. However, the Body Corporates are entitled to appoint authorised representatives to attend the AGM through VC/OAVM and participate thereat and cast their votes through e-voting.
+
+5. The attendance of the Members attending the AGM through VC/OAVM will be counted for the purpose of reckoning the quorum under Section 103 of the Act.
+
+6. In line with the aforesaid Ministry of Corporate Affairs Circulars, the AGM Notice calling the AGM has been uploaded on the website of the Company at www.adanipower.com The Notice can also be accessed from the websites of the Stock Exchanges i.e. BSE Limited and National Stock Exchange of India Limited at www.bseindia.com and www.nseindia.com respectively and the AGM Notice is also available on the website of CDSL (agency for providing the Remote e-Voting facility) i.e. www.evotingindia.com
+
+7. The Register of members and share transfer books of the Company will remain closed from Tuesday, June 18, 2024 to Tuesday, June 25, 2024 (both days inclusive) for the purpose of AGM.
+
+8. Members seeking any information with regard to accounts are requested to write to the Company at least 10 days before the meeting so as to enable the management to keep the information ready.
+
+9. Members holding the shares in physical mode are requested to notify immediately the change of their address and bank particulars to the R&T Agent of the Company. In case shares held in dematerialized form, the information regarding change of address and bank particulars should be given to their respective Depository Participant.
+
+10. In terms of Section 72 of the Act, nomination facility is available to individual Members holding shares in the physical form. The shareholders who are desirous of availing this facility, may kindly write to Company’s R&T Agent for nomination form by quoting their folio number.
+
+11. The Register of Directors’ and Key Managerial Personnel and their shareholding maintained under Section 170 of the Act, the Register of contracts or arrangements in which the Directors are interested under Section 189 of the Act and all other documents referred to in this Notice will be available for inspection in electronic mode.
+
+12. The Members can join the AGM through the VC/ OAVM mode 15 (fifteen) minutes before and after the scheduled time of the commencement of the AGM by following the procedure mentioned in the AGM Notice. The facility of participation at the AGM through VC/OAVM will be made available for 1,000 members on first come first serve basis. This will not include large Shareholders (Shareholders holding 2% or more shareholding), Promoters, Institutional Investors, Directors, Key Managerial Personnel, the Chairpersons of the Audit Committee, Nomination and Remuneration Committee and Stakeholders’ Relationship Committee, Auditors etc. who are allowed to attend the AGM without restriction on account of first come first serve basis.
+
+13. Process and manner for members opting for voting through electronic means:
+
+i. Pursuant to the provisions of Section 108 of the Act read with Rule 20 of the Companies (Management and Administration) Rules, 2014 (as amended) and Regulation 44 of SEBI Listing Regulations (as amended), and the Circulars issued by the Ministry of Corporate Affairs dated April 8, 2020, April 13, 2020, May 5, 2020, January 13, 2021, December 14, 2021, May 5, 2022 and December 28, 2022, the Company is providing facility of remote e-voting to its Members in respect of the business to be transacted at the AGM. For this purpose, the Company has entered into an agreement with Central Depository Services (India) Limited (CDSL), as the Authorised e-voting agency for facilitating voting through electronic means. The facility of casting votes by a member using
+
+remote e-voting as well as e-voting system on the date of the AGM will be provided by CDSL.
+
+ii. Members whose names are recorded in the Register of Members or in the Register of Beneficial Owners maintained by the Depositories as on the Cut-off date i.e. Tuesday, June 18, 2024, shall be entitled to avail the facility of remote e-voting as well as e-voting system on the date of the AGM. Any recipient of the Notice, who has no voting rights as on the Cut-off date, shall treat this Notice as intimation only.
+
+iii. A person who has acquired the shares and has become a Member after the dispatch of the Notice of the AGM and prior to the Cut- off date i.e. Tuesday, June 18, 2024, shall be entitled to exercise his/her vote either electronically i.e. remote e-voting or venue voting system on the date of the AGM by following the procedure mentioned in this part.
+
+iv. The remote e-voting will commence on Friday, June 21, 2024 at 9.00 a.m. and will end on Monday, June 24, 2024 at 5.00 p.m. During this period, the members of the Company holding shares either in physical form or in demat form as on the Cut-off date i.e. Tuesday, June 18, 2024 may cast their vote electronically. The members will not be able to cast their vote electronically beyond the date and time mentioned above and the remote e-voting module shall be disabled for voting by CDSL thereafter.
+
+v. Once the vote on a resolution is cast by the Member, he/she shall not be allowed to change it subsequently or cast the vote again.
+
+The voting rights of the Members shall be in proportion to their share in the paid-up equity share capital of the Company as on the Cut- off date i.e. Tuesday, June 18, 2024.
+
+vi. The Company has appointed CS Chirag Shah, Practicing Company Secretary (Membership No. FCS: 5545; CP No: 3498), to act as the Scrutinizer for conducting the remote e-voting process as well as the e-voting system on the date of the AGM, in a fair and transparent manner.
+
+14. Process for those shareholders whose email ids are not registered:
+
+a) For Physical shareholders- please provide necessary details like Folio No., Name of shareholder, scanned copy of the share certificate (front and back), PAN (selfattested scanned copy of PAN card), AADHAR (self-attested scanned copy of Aadhar Card) by email to deepak.pandya@adani.com.
+
+b) For Demat shareholders -, please provide Demat account details (CDSL-16 digit beneficiary ID or NSDL-16 digit DPID + CLID), Name, client master or copy of Consolidated Account statement, PAN (self-attested scanned copy of PAN card), AADHAR (self- attested scanned copy of Aadhar Card) to deepak.pandya@adani.com.
+
+# 15. THE INSTRUCTIONS FOR SHAREHOLDERS FOR REMOTE VOTING ARE AS UNDER:
+
+(i) The voting period begins on Friday, June 21, 2024 at 9.00 a.m. and will end on Monday, June 24, 2024 at 5.00 p.m. During this period shareholders of the Company, holding shares either in physical form or in dematerialized form, as on the cut-off date i.e. Tuesday, June 18, 2024 may cast their vote electronically. The e-voting module shall be disabled by CDSL for voting thereafter.   
+(ii) Shareholders who have already voted prior to the meeting date would not be entitled to vote at the meeting.   
+(iii) Pursuant to SEBI Circular No. SEBI/HO/CFD/ CMD/CIR/P/2020/242 dated December 9, 2020, under Regulation 44 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, listed entities are required to provide remote e-voting facility to its shareholders, in respect of all shareholders’ resolutions. However, it has been observed that the participation by the public non-institutional
+
+shareholders/retail shareholders is at a negligible level.
+
+Currently, there are multiple e-voting service providers (ESPs) providing e-voting facility to listed entities in India. This necessitates registration on various ESPs and maintenance of multiple user IDs and passwords by the shareholders.
+
+In order to increase the efficiency of the voting process, pursuant to a public consultation, it has been decided to enable e-voting to all the demat account holders, by way of a single login credential, through their demat accounts/ websites of Depositories/ Depository Participants. Demat account holders would be able to cast their vote without having to register again with the ESPs, thereby, not only facilitating seamless authentication but also enhancing ease and convenience of participating in e-voting process.
+
+Step 1: Access through Depositories CDSL/ NSDL e-Voting system in case of individual shareholders holding shares in demat mode.
+
+(iv) In terms of SEBI circular no. SEBI/HO/CFD/ CMD/ CIR/P/2020/242 dated December 09, 2020 on e-Voting facility provided by Listed Companies, Individual shareholders holding securities in demat mode are allowed to vote through their demat account maintained with Depositories and Depository Participants. Shareholders are advised to update their mobile number and email Id in their demat accounts in order to access e-Voting facility.
+
+Pursuant to abovesaid SEBI Circular, Login method for e-Voting and joining virtual meetings for Individual shareholders holding securities in Demat mode is given below:
+
+<table><tr><td>Type of shareholders</td><td>Login Method</td></tr><tr><td>Individual Shareholders holding securities in Demat mode with CDSL</td><td>1) Users who have opted for CDSL Easi / Easiest facility, can login through their existing user id and password. Option will be made available to reach e-Voting page without any further authentication. The users to login to Easi / Easiest are requested to visit CDSL website www.cdslindia.com and click on login icon &amp; New System Myeasi Tab.2) After successful login the Easi / Easiest user will be able to see the e-Voting option for eligible companies where the evoting is in progress as per the information provided by company. On clicking the evoting option, the user will be able to see e-Voting page of the e-Voting service provider for casting your vote during the remote e-Voting period or joining virtual meeting &amp; voting during the meeting. Additionally, there is also links provided to access the system of all e-Voting Service Providers, so that the user can visit the e-Voting service providers' website directly.</td></tr><tr><td>Individual Shareholders holding securities in Demat mode with CDSL</td><td>3) If the user is not registered for Easi/Easiest, option to register is available at cdsl websitewww.cdslindia.comand click on login &amp; New System Myeasi Tab and then click on registration option.4) Alternatively, the user can directly access e-Voting page by providing Demat Account Number and PAN No. from a e-Voting link available onwww.cdslindia.comhome page. The system will authenticate the user by sending OTP on registered Mobile &amp; Email as recorded in the Demat Account. After successful authentication, user will be able to see the e-Voting option where the e-voting is in progress and also able to directly access the system of all e-Voting Service Providers.</td></tr><tr><td>Individual Shareholders holding securities in demat mode with NSDL</td><td>1) If you are already registered for NSDL IDeAS facility, please visit the e-Services website of NSDL. Open web browser by typing the following URL:https://eservices.nsdl.comeither on a Personal Computer or on a mobile. Once the home page of e-Services is launched, click on the “Beneficial Owner” icon under “Login” which is available under ‘IDeAS’ section. A new screen will open. You will have to enter your User ID and Password. After successful authentication, you will be able to see e-Voting services. Click on “Access to e-Voting” under e-Voting services and you will be able to see e-Voting page. Click on company name or e-Voting service provider name and you will be re-directed to e-Voting service provider website for casting your vote during the remote e-Voting period or joining virtual meeting &amp; voting during the meeting.2) If the user is not registered for IDeAS e-Services, option to register is available athttps://eservices.nsdl.com. Select “Register Online for IDeAS “Portal or click athttps://eservices.nsdl.com/SecureWeb/IdeasDirectReg.jsp3) Visit the e-Voting website of NSDL. Open web browser by typing the following URL:https://www.evoting.nsdl.com/ either on a Personal Computer or on a mobile. Once the home page of e-Voting system is launched, click on the icon “Login” which is available under ‘Shareholder/Member’ section. A new screen will open. You will have to enter your User ID (i.e. your sixteen digit demat account number hold with NSDL), Password/OTP and a Verification Code as shown on the screen. After successful authentication, you will be redirected to NSDL Depository site wherein you can see e-Voting page. Click on company name or e-Voting service provider name and you will be redirected to e-Voting service provider website for casting your vote during the remote e-Voting period or joining virtual meeting &amp; voting during the meeting.</td></tr><tr><td>Individual Shareholders (holding securities in demat mode) login through their Depository Participants</td><td>You can also login using the login credentials of your demat account through your Depository Participant registered with NSDL/CDSL for e-Voting facility. After successful login, you will be able to see e-Voting option. Once you click on e-Voting option, you will be redirected to NSDL/CDSL Depository site after successful authentication, wherein you can see e-Voting feature. Click on company name or e-Voting service provider name and you will be redirected to e-Voting service provider’s website for casting your vote during the remote e-Voting period or joining virtual meeting &amp; voting during the meeting.</td></tr></table>
+
+Important note: Members who are unable to retrieve User ID/ Password are advised to use Forget User ID and Forget Password option available at abovementioned websites.
+
+Helpdesk for Individual Shareholders holding securities in demat mode for any technical issues related to login through Depository i.e. CDSL and NSDL
+
+<table><tr><td>Login type</td><td>Helpdesk details</td></tr><tr><td>Individual Shareholders holding securities in Demat mode with CDSL</td><td>Members facing any technical issue in login can contact CDSL helpdesk by sending a request at helpdesk.evoting@cdslindia.com or call toll free no. 18 00 22 55 33.</td></tr><tr><td>Individual Shareholders holding securities in Demat mode with NSDL</td><td>Members facing any technical issue in login can contact NSDL helpdesk by sending a request at evoting@nsdl.co.in or call at toll free no.: 022-48867000 and 022-24997000</td></tr></table>
+
+Step 2 : Access through CDSL e-Voting system in case of shareholders holding shares in physical mode and non-individual shareholders in demat mode.
+
+(v) Login method for e-Voting and joining virtual meeting for shareholders other than individual shareholders & physical shareholders.
+
+1. The shareholders should log on to the e-voting website www.evotingindia.com.   
+2. Click on Shareholders.   
+3. Now Enter your User ID   
+a. For CDSL: 16 digits beneficiary ID,   
+b. For NSDL: 8 Character DP ID followed by 8 Digits Client ID,   
+c. Members holding shares in Physical Form should enter Folio Number registered with the Company.   
+4. Next enter the Image Verification as displayed and Click on Login.   
+5. If you are holding shares in demat form and had logged on to www.evotingindia.com and voted on an earlier voting of any company, then your existing password is to be used.   
+6. If you are a first-time user follow the steps given below:
+
+For Physical shareholders and other than individual shareholders holding shares in Demat. 
+
+<table><tr><td>PAN</td><td>Enter your 10-digit alpha-numeric PAN issued by Income Tax Department (Applicable for both demat shareholders as well as physical shareholders)Members who have not updated their PAN with the Company/Depository Participant are requested to use the sequence number indicated in the PAN field.</td></tr><tr><td>Dividend Bank Details OR Date of Birth (DOB)</td><td>Enter the Dividend Bank Details or Date of Birth (in dd/mm/yyyy format) as recorded in your demat account or in the company records in order to login. If both the details are not recorded with the depository or company, please enter the member id / folio number in the Dividend Bank details field as mentioned in instruction (v).</td></tr></table>
+
+(vi) After entering these details appropriately, click on “SUBMIT” tab.   
+(vii) Members holding shares in physical form will then directly reach the Company selection screen. However, members holding shares in demat form will now reach ‘Password Creation’ menu wherein they are required to mandatorily enter their login password in the new password field. Kindly note that this password is to be also used by the demat holders for voting for resolutions of any other company on which they are eligible
+
+to vote, provided that company opts for e-voting through CDSL platform. It is strongly recommended not to share your password with any other person and take utmost care to keep your password confidential.
+
+(viii) For Members holding shares in physical form, the details can be used only for e-voting on the resolutions contained in this Notice.   
+(ix) Click on the EVSN of the Company – ADANI POWER LIMITED on which you choose to vote.
+
+(x) On the voting page, you will see “RESOLUTION DESCRIPTION” and against the same the option “YES/NO” for voting. Select the option YES or NO as desired. The option YES implies that you assent to the Resolution and option NO implies that you dissent to the Resolution.   
+(xi) Click on the “RESOLUTIONS FILE LINK” if you wish to view the entire Resolution details.   
+(xii) After selecting the resolution, you have decided to vote on, click on “SUBMIT”. A confirmation box will be displayed. If you wish to confirm your vote, click on “OK”, else to change your vote, click on “CANCEL” and accordingly modify your vote.   
+(xiii) Once you “CONFIRM” your vote on the resolution, you will not be allowed to modify your vote.   
+(xiv) You can also take a print of the votes cast by clicking on “Click here to print” option on the Voting page.   
+(xv) If a demat account holder has forgotten the login password, then Enter the User ID and the image verification code and click on Forgot Password & enter the details as prompted by the system.
+
+There is also an optional provision to upload Board Resolution/Power of Attorney if any uploaded, which will be made available to scrutinizer for verification.
+
+(xvi) Note for Non – Individual Shareholders and Custodians – For remote voting only.
+
+• Non-Individual shareholders (i.e. other than Individuals, HUF, NRI etc.) and Custodian are required to log on to www.evotingindia.com and register themselves as Corporates.   
+A scanned copy of the Registration Form bearing the stamp and sign of the entity should be emailed to helpdesk.evoting@cdslindia.com.   
+• After receiving the login details a Compliance User should be created using the admin login and password. The Compliance User would be able to link the account(s) for which they wish to vote on.   
+• The list of accounts linked in the login should be mailed to helpdesk.evoting@cdslindia.com and on approval of the accounts they would be able to cast their vote.   
+C A scanned copy of the Board Resolution and Power of Attorney (POA) which they have issued in favour of the Custodian, if any, should be uploaded in PDF format in the system for the scrutinizer to verify the same.
+
+C Alternatively, Non-Individual shareholders are required to send the relevant Board Resolution/ Authority letter etc. together with attested specimen signature of the duly authorized signatory who are authorized to vote, to the Scrutinizer and to the Company, if voted from individual tab & not uploaded same in the CDSL e-voting system for the scrutinizer to verify the same.   
+• If you have any queries or issues regarding attending AGM & e-Voting from the CDSL e-Voting System, you can write an email to helpdesk.evoting@cdslindia.com or contact at toll free no. 1800 22 55 33.   
+• All grievances connected with the facility for voting by electronic means may be addressed to Mr. Rakesh Dalvi, Sr. Manager, (CDSL) Central Depository Services (India) Limited, A Wing, 25th Floor, Marathon Futurex, Mafatlal Mill Compounds, N M Joshi Marg, Lower Parel (East), Mumbai - 400013 or send an email to helpdesk.evoting@cdslindia.com or call toll free no. 1800 22 55 33.
+
+16. The instructions for shareholders attending the AGM through VC/OAVM & e-voting during meeting are as under: -
+
+a. The procedure for attending meeting & e-Voting on the day of the AGM is same as the instructions mentioned above for remote e-voting.   
+b. The link for VC/OAVM to attend meeting will be available where the EVSN of Company will be displayed after successful login as per the instructions mentioned above for remote e-voting.   
+c. Only those Members/ shareholders, who will be present in the AGM through VC/OAVM facility and have not casted their vote on the Resolutions through remote e-Voting and are otherwise not barred from doing so, shall be eligible to vote through e-Voting system available in the AGM.   
+d. If any Votes are cast by the Members through the e-voting available during the AGM and if the same members have not participated in the meeting through VC/OAVM facility, then the votes cast by such members shall be considered invalid as the facility of e-voting during the meeting is available only to the members participating in the meeting.   
+e. Members who have voted through Remote e-Voting will be eligible to attend the AGM. However, they will not be eligible to vote at the AGM.
+
+17. The results declared along with the Scrutinizer’s Report shall be placed on the Company’s website www.adanipower.com and on the website of CDSL i.e. www.cdslindia.com within two days of the passing of the Resolutions at the 28th Annual General Meeting of the Company and shall also be communicated to the Stock Exchanges where the shares of the Company are listed.
+
+# 18. INSTRUCTIONS FOR MEMBERS FOR ATTENDING THE AGM THROUGH VC/OAVM ARE AS UNDER:
+
+1. Members will be provided with a facility to attend the AGM through VC/OAVM or view the live webcast of AGM through the CDSL e-Voting system. Members may access the same at https://www.evotingindia.com under shareholders’/members login by using the remote e-voting credentials. The link for VC/OAVM will be available in shareholder/ members login where the EVSN of Company will be displayed.   
+2. Members are encouraged to join the Meeting through Laptops / iPads for better experience.
+
+3. Further Members will be required to allow Camera and use Internet with a good speed to avoid any disturbance during the meeting.   
+4. Please note that participants connecting from Mobile Devices or Tablets or through Laptop connecting via Mobile Hotspot may experience Audio/Video loss due to fluctuation in their respective network. It is therefore recommended to use stable Wi-Fi or LAN connection to mitigate any kind of aforesaid glitches.   
+5. For ease of conduct, members who would like to ask questions may send their questions in advance at least (7) days before AGM mentioning their name, demat account number / folio number, email id, mobile number at deepak.pandya@adani.com and register themselves as a speaker. Those Members who have registered themselves as a speaker will only be allowed to express their views/ask questions during the AGM.   
+6. Since the AGM will be held through VC/OAVM, the Route Map is not annexed in this Notice.
+
+Contact Details: 
+
+<table><tr><td>Company</td><td>:Mr. Deepak S. PandyaCompany Secretary and Compliance Officer Adani Power LimitedRegd. Office: “Adani Corporate House”, Shantigram, Nr. Vaishno Devi Circle, S. G. Highway, Khodiyar, Ahmedabad – 382 421, Gujarat, IndiaCIN: L40100GJ1996PLC030533E-mail:deepak.pandya@adani.com</td></tr><tr><td>Registrar and Transfer Agent</td><td>:M/s. KFin Technologies LimitedSelenium Tower B, Plot 31-32, Gachibowli, Financial District,Nanakramguda, Serilingampally, Hyderabad – 500 032Tel: +91-40-67161526Fax: +91-40-23001153E-mail: einward.ris@kfintech.com Website: www.kfintech.com</td></tr><tr><td>e-Voting Agency</td><td>:Central Depository Services (India) LimitedE-mail: helpdesk.evoting@cdslindia.comPhone: 022- 22723333 / 8588</td></tr><tr><td>Scrutinizer</td><td>:CS Chirag ShahPracticing Company SecretaryE-mail: pcschirag@gmail.com</td></tr></table>
+
+# ANNEXURE TO NOTICE
+
+# EXPLANATORY STATEMENT PURSUANT TO SECTION 102 OF THE COMPANIES ACT, 2013 AND / OR REGULATION 36(3) OF THE SEBI (LISTING OBLIGATIONS AND DISCLOSURE REQUIREMENTS) REGULATIONS, 2015.
+
+# For Item No. 4:
+
+Based on the recommendations of the Nomination and Remuneration Committee (the “NRC”), the Board of Directors has appointed Mrs. Sangeeta Singh (DIN: 10593952) as an Additional and Independent Director of the Company under Section 161 of the Companies Act, 2013 (the “Act”) read with applicable provisions of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (the “Listing Regulations”) and Articles of Association of the Company with effect from May 01, 2024 for a first term of 3 (three) consecutive years, subject to the approval of Members of the Company.
+
+In accordance with the provisions of Section 149 read with Schedule IV to the Act, appointment of Independent Directors requires approval of the members of the Company. Further, in terms of amendment in the Listing Regulations effective from January 1, 2022, a listed entity shall ensure that approval of Shareholders for appointment of a person in the Board of Directors is taken at the next general meeting or within a time period of three months from the date of appointment, whichever is earlier. Accordingly, the appointment of Mrs. Sangeeta Singh (DIN: 10593952) would require approval of Members of the Company on or before June 25, 2024.
+
+The Company has received a Notice under Section 160 of the Act from a Member in writing proposing the candidature of Mrs. Sangeeta Singh for appointment as an Independent Director of the Company. Mrs. Sangeeta Singh has given a declaration to the Board that she meets the criteria of Independence as provided under Section 149(6) of the Act and Regulation 16(1)(b) of the SEBI Listing Regulations.
+
+In the opinion of the Board, Mrs. Sangeeta Singh fulfils the conditions specified in the Act, Rules made thereunder and Listing Regulations for appointment as an Independent Director and she is independent of management. The Board recommends his appointment as an Independent Director for three (3) consecutive years with effect from May 1, 2024. Further, Mrs. Sangeeta Singh has confirmed that she is not aware of any circumstance or situation which exists or may be reasonably anticipated that could impair or impact his ability to discharge her duties as an Independent Director of the Company. Mrs. Sangeeta Singh has also confirmed that she is not debarred from holding the office of a Director by virtue of any Order passed by SEBI or any such authority. Mrs. Sangeeta Singh is not disqualified from being appointed as a Director in terms of Section 164 of the Act. Mrs. Sangeeta Singh has confirmed that she is in compliance with Rules 6(1) and 6(2) of the Companies (Appointment and Qualification of Directors) Rules, 2014, with respect to her registration with the data bank of Independent Directors maintained by the Indian Institute of Corporate Affairs (‘IICA’).
+
+A brief profile of Mrs. Sangeeta Singh (DIN: 10593952) the nature of her expertise in specific functional areas, disclosure of relationship between Directors, inter-se, names of Companies in which she holds Directorship, Committee Memberships / Chairmanships, her shareholding etc. are provided herein.
+
+# Brief profile of Mrs. Sangeeta Singh (Independent Director)–
+
+Mrs. Sangeeta Singh holds the degree of M.Sc. (Public Economics) from University of Birmingham (UK), M. Phil. (International Relations) from Jawaharlal Nehru University (New Delhi) and M.A. (Political Science) from Jawaharlal Nehru University (New Delhi). She has worked in various capacities as Member of Central Board of Direct Taxes (CBDT), Principal Chief Commissioner of Income Tax amongst others. As a Member of CBDT, she has led the administering and implementing of Income Tax Act and Rules both for department and taxpayers and was in charge of national level revenue collection by the Department.
+
+A copy of the draft letter of appointment as an Independent Director stating the terms and conditions is available for inspection by Members at the Registered Office of the Company between 11.00 a.m. and 01.00 p.m. on all working days of the Company from the date of dispatch of this Notice till Tuesday, June 25, 2024 and the same is also available on the website of the Company at the link https://www.adanipower.com.
+
+As required under Regulation 36 of the SEBI Listing Regulations and Clause 1.2.5 of Secretarial Standard-2, other requisite information is annexed hereto, and forms a part of this Notice.
+
+Except Mrs. Sangeeta Singh (DIN: 10593952) and her relatives to the extent of their shareholding interest, if any, in the Company, none of the other Directors, Key Managerial Personnel of the Company and their relatives are in anyway concerned or interested, financially or otherwise, in the Resolution set out in this Notice.
+
+The Board of Directors recommends the resolution given in the Notice for approval of Members of the Company as a Special Resolution.
+
+The Board recommends the resolution set forth at Item No. 4 for the approval of the Members
+
+# For Item Nos. 5, 6, 7, 8, 9, 10, 11, 12, 13, 14,15, and 16:
+
+The provisions of the SEBI Listing Regulations, as amended by the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) (Sixth Amendment) Regulations, 2021, effective April 1, 2022, mandates prior approval of members by means of an ordinary resolution for all material related party transactions and subsequent material modifications as defined by the Audit Committee, even if such transactions are in the ordinary course of business of the concerned Company and at an arm’s length basis. Effective from April 1, 2022, a transaction with a related party shall be considered as material if the transaction(s) to be entered into, either individually or taken together with previous transactions during a financial year, whether directly and/or through its subsidiary(ies), exceed(s) \` 1,000 crore, or 10% of the annual consolidated turnover as per the last audited financial statements of the listed entity, whichever is lower.
+
+In the financial year 2024-25, the Company, along with its subsidiary(ies), propose to enter into certain related party transaction(s) as mentioned below, on mutually agreed terms and conditions, and the aggregate of such transaction(s), are expected to cross the applicable materiality thresholds as mentioned above. Accordingly, as per the SEBI Listing Regulations, prior approval of the Members is being sought for all such arrangements / transactions proposed to be undertaken by the Company, either directly or along with its subsidiary(ies). All the said transactions shall be in the ordinary course of business of the Company and on an arm’s length basis.
+
+The Audit Committee has, on the basis of relevant details provided by the management, as required by the law, reviewed and approved the said transaction(s), subject to approval of the Members, while noting that such transactions shall be on arms’ length basis and in the ordinary course of business of the Company.
+
+Information required under Regulation 23 of SEBI Listing Regulations read with SEBI Circular dated November 22, 2021 is provided herein below:
+
+# Material Related Party Transactions by the Company
+
+Resolution Item No. 5: Particulars of material related party transactions to be entered by Adani Power Limited with Adani Rail Infra Private Limited 
+
+<table><tr><td colspan="2">Particulars</td><td>Details</td></tr><tr><td>i.</td><td>Name of the Related Party</td><td>Adani Rail Infra Private Limited (&#x27;ARIPL&#x27;)</td></tr><tr><td>ii.</td><td>Type of transaction</td><td>Obtaining financial assistance by way of loan / securities / other debt instruments</td></tr><tr><td>iii.</td><td>Material terms and particulars of the proposed transaction</td><td>Material terms and conditions are / will be based on the contract(s) entered / proposed to be entered into, which inter alia include the rates based on prevailing/ extant market conditions and commercial terms as on the date of entering into the contract(s).</td></tr><tr><td>iv.</td><td>Nature of Relationship with the Company including nature of its concern or interest (financial or otherwise)</td><td>ARIPL is an entity over which controlling entity or KMP(s) has control or significant influence.</td></tr><tr><td>v.</td><td>Tenure of the proposed transaction</td><td>FY 2024-25</td></tr><tr><td>vi.</td><td>Value of the proposed transaction</td><td>Not to exceed ₹ 5,500 crore</td></tr><tr><td>vii.</td><td>Value of RPT as % of -Company&#x27;s audited consolidated annual turnover of ₹ 60,281.48 crore for the financial year 2023-2024.Subsidiary&#x27;s annual standalone turnover for the financial year 2023-24.</td><td>Approx. 9.12%.Not Applicable</td></tr><tr><td rowspan="5">viii.</td><td>If the transaction relates to any loans, inter- corporate deposits, advances or investments made or given by the listed entity or its subsidiary:</td><td></td></tr><tr><td>(i) details of the source of funds in connection with the proposed transaction</td><td>Not Applicable</td></tr><tr><td>(ii) where any financial indebtedness is incurred to make or give loans, inter-corporate deposits, advances or investments</td><td>Not Applicable</td></tr><tr><td>(iii) Applicable terms, including covenants, tenure, interest rate and repayment schedule, whether secured or unsecured; if secured, the nature of security</td><td>Not Applicable</td></tr><tr><td>(iv) the purpose for which the funds will be utilized by the ultimate beneficiary of such funds pursuant to the related party transaction</td><td>Not Applicable</td></tr><tr><td>ix.</td><td>Justification as to why the RPT is in the interest of the Company.</td><td>Refer Note 1: Borrowing of funds and obtaining Financial Assistance</td></tr><tr><td>x.</td><td>A statement that the valuation or other external report, if any, relied upon by the listed entity in relation to the proposed transaction will be made available through registered e-mail address of the shareholder</td><td>Not Applicable</td></tr><tr><td>xi.</td><td>Any other information relevant or important for the members to take a decision on the proposed transaction.</td><td>None</td></tr></table>
+
+Resolution Item No. 6: Particulars of material related party transactions to be entered by Adani Power Limited with Adani Infra (India) Limited: 
+
+<table><tr><td colspan="2">Particulars</td><td>Details</td></tr><tr><td>i.</td><td>Name of the Related Party</td><td>Adani Infra (India) Limited (&#x27;AIIIL&#x27;)</td></tr><tr><td>ii.</td><td>Type of transaction</td><td>Obtaining financial assistance by way of loan / securities / other debt instruments; Purchase of Investments and Availing Service</td></tr><tr><td>iii.</td><td>Material terms and particulars of the proposed transaction</td><td>Material terms and conditions are / will be based on the contract(s) entered / proposed to be entered into, which inter alia include the rates based on prevailing/ extant market conditions and commercial terms as on the date of entering into the contract(s).</td></tr><tr><td>iv.</td><td>Nature of Relationship with the Company including nature of its concern or interest (financial or otherwise)</td><td>AIIL is an entity over which controlling entity or KMP(s) has control or significant influence.</td></tr><tr><td>v.</td><td>Tenure of the proposed transaction</td><td>FY 2024-25</td></tr><tr><td>vi.</td><td>Value of the proposed transaction</td><td>Not to exceed ₹ 7,850 crore</td></tr><tr><td>vii.</td><td>Value of RPT as % of -Company&#x27;s audited consolidated annual turnover of ₹ 60,281.48 crore for the financial year 2023-2024.Subsidiary&#x27;s annual standalone turnover for the financial year 2023-24.</td><td>Approx. 13.02%.Not Applicable</td></tr><tr><td rowspan="5">viii.</td><td>If the transaction relates to any loans, inter- corporate deposits, advances or investments made or given by the listed entity or its subsidiary:</td><td></td></tr><tr><td>(i) details of the source of funds in connection with the proposed transaction</td><td>Not Applicable</td></tr><tr><td>(ii) where any financial indebtedness is incurred to make or give loans, inter-corporate deposits, advances or investments</td><td>Not Applicable</td></tr><tr><td>(iii) Applicable terms, including covenants, tenure, interest rate and repayment schedule, whether secured or unsecured; if secured, the nature of security</td><td>Not Applicable</td></tr><tr><td>(iv) the purpose for which the funds will be utilized by the ultimate beneficiary of such funds pursuant to the related party transaction</td><td>Not Applicable</td></tr><tr><td>ix.</td><td>Justification as to why the RPT is in the interest of the Company.</td><td>Refer Note 1: Borrowing of funds and obtaining Financial Assistance;Refer Note 2: Purchase of investment and Availing Service</td></tr><tr><td>x.</td><td>A statement that the valuation or other external report, if any, relied upon by the listed entity in relation to the proposed transaction will be made available through registered e-mail address of the shareholder</td><td>Not Applicable</td></tr><tr><td>xi.</td><td>Any other information relevant or important for the members to take a decision on the proposed transaction.</td><td>None</td></tr></table>
+
+Resolution Item No. 7: Particulars of material related party transactions to be entered by Adani Power Limited with Adani Properties Private Limited 
+
+<table><tr><td colspan="2">Particulars</td><td>Details</td></tr><tr><td>i.</td><td>Name of the Related Party</td><td>Adani Properties Private Limited (&#x27;APPL&#x27;)</td></tr><tr><td>ii.</td><td>Type of transaction</td><td>Obtaining financial assistance by way of loan / securities / other debt instruments including Corporate Guarantee; and Payment of lease rent</td></tr><tr><td>iii.</td><td>Material terms and particulars of the proposed transaction</td><td>Material terms and conditions are / will be based on the contract(s) entered / proposed to be entered into, which inter alia include the rates based on prevailing/ extant market conditions and commercial terms as on the date of entering into the contract(s).</td></tr><tr><td>iv.</td><td>Nature of Relationship with the Company including nature of its concern or interest (financial or otherwise)</td><td>APPL is an entity over which controlling entity or KMP(s) has control or significant influence.</td></tr><tr><td>v.</td><td>Tenure of the proposed transaction</td><td>FY 2024-25</td></tr><tr><td>vi.</td><td>Value of the proposed transaction</td><td>Not to exceed ₹ 6,340 crore</td></tr><tr><td>vii.</td><td>Value of RPT as % of -Company&#x27;s audited consolidated annual turnover of ₹ 60,281.48 crore for the financial year 2023-2024.Subsidiary&#x27;s annual standalone turnover for the financial year 2023-24.</td><td>Approx. 10.52%.Not applicable</td></tr><tr><td rowspan="5">viii.</td><td>If the transaction relates to any loans, inter- corporate deposits, advances or investments made or given by the listed entity or its subsidiary:</td><td></td></tr><tr><td>(i) details of the source of funds in connection with the proposed transaction</td><td>Not Applicable</td></tr><tr><td>(ii) where any financial indebtedness is incurred to make or give loans, inter-corporate deposits, advances or investments</td><td>Not Applicable</td></tr><tr><td>(iii) Applicable terms, including covenants, tenure, interest rate and repayment schedule, whether secured or unsecured; if secured, the nature of security</td><td>Not Applicable</td></tr><tr><td>(iv) the purpose for which the funds will be utilized by the ultimate beneficiary of such funds pursuant to the related party transaction</td><td>Not Applicable</td></tr><tr><td>ix.</td><td>Justification as to why the RPT is in the interest of the Company.</td><td>Refer Note 1: Borrowing of funds and obtaining Financial Assistance;Refer Note 3: Payment of lease rent</td></tr><tr><td>x.</td><td>A statement that the valuation or other external report, if any, relied upon by the listed entity in relation to the proposed transaction will be made available through registered e-mail address of the shareholder</td><td>Not Applicable</td></tr><tr><td>xi.</td><td>Any other information relevant or important for the members to take a decision on the proposed transaction.</td><td>None</td></tr></table>
+
+Resolution Item No. 8: Particulars of material related party transactions to be entered by Adani Power Limited with Adani Infrastructure Management Services Limited: 
+
+<table><tr><td colspan="2">Particulars</td><td>Details</td></tr><tr><td>i.</td><td>Name of the Related Party</td><td>Adani Infrastructure Management Services Limited (&#x27;AIMSL&#x27;)</td></tr><tr><td>ii.</td><td>Type of transaction</td><td>Availing Operations &amp; Maintenance (O &amp; M) services; and Obtaining financial assistance by way of loan / securities / other debt instruments</td></tr><tr><td>iii.</td><td>Material terms and particulars of the proposed transaction</td><td>Material terms and conditions are / will be based on the contract(s) entered / proposed to be entered into, which inter alia include the rates based on prevailing/ extant market conditions and commercial terms as on the date of entering into the contract(s).</td></tr><tr><td>iv.</td><td>Nature of Relationship with the Company including nature of its concern or interest (financial or otherwise)</td><td>AIMSL is an entity over which controlling entity or KMP(s) has control or significant influence.</td></tr><tr><td>v.</td><td>Tenure of the proposed transaction</td><td>FY 2024-25</td></tr><tr><td>vi.</td><td>Value of the proposed transaction</td><td>Not to exceed ₹ 6,350 crore</td></tr><tr><td>vii.</td><td>Value of RPT as % of -Company&#x27;s audited consolidated annual turnover of ₹ 60,281.48 crore for the financial year 2023-2024.Subsidiary&#x27;s annual standalone turnover for the financial year 2023-24.</td><td>Approx. 10.53%Not applicable</td></tr><tr><td rowspan="5">viii.</td><td>If the transaction relates to any loans, inter- corporate deposits, advances or investments made or given by the listed entity or its subsidiary:</td><td></td></tr><tr><td>(i) details of the source of funds in connection with the proposed transaction</td><td>Not Applicable</td></tr><tr><td>(ii) where any financial indebtedness is incurred to make or give loans, inter-corporate deposits, advances or investments</td><td>Not Applicable</td></tr><tr><td>(iii) Applicable terms, including covenants, tenure, interest rate and repayment schedule, whether secured or unsecured; if secured, the nature of security</td><td>Not Applicable</td></tr><tr><td>(iv) the purpose for which the funds will be utilized by the ultimate beneficiary of such funds pursuant to the related party transaction</td><td>Not Applicable</td></tr><tr><td>ix.</td><td>Justification as to why the RPT is in the interest of the Company.</td><td>Refer Note 1: Borrowing of funds and obtaining Financial Assistance;Refer Note 4: Availing Operations &amp; Maintenance (O &amp; M) services</td></tr><tr><td>x.</td><td>A statement that the valuation or other external report, if any, relied upon by the listed entity in relation to the proposed transaction will be made available through registered e-mail address of the shareholder</td><td>Not Applicable</td></tr><tr><td>xi.</td><td>Any other information relevant or important for the members to take a decision on the proposed transaction.</td><td>None</td></tr></table>
+
+Resolution Item No. 9: Particulars of material related party transactions to be entered by Adani Power Limited with Adani Enterprises Limited 
+
+<table><tr><td colspan="2">Particulars</td><td>Details</td></tr><tr><td>i.</td><td>Name of the Related Party</td><td>Adani Enterprises Limited (&#x27;AEL&#x27;)</td></tr><tr><td>ii.</td><td>Type of transaction</td><td>Purchase &amp; Sale of Goods; and Availing various Services</td></tr><tr><td>iii.</td><td>Material terms and particulars of the proposed transaction</td><td>Material terms and conditions are / will be based on the contract(s) entered / proposed to be entered into, which inter alia include the rates based on prevailing/ extant market conditions and commercial terms as on the date of entering into the contract(s).</td></tr><tr><td>iv.</td><td>Nature of Relationship with the Company including nature of its concern or interest (financial or otherwise)</td><td>AEL is an entity over which controlling entity or KMP(s) has control or significant influence.</td></tr><tr><td>v.</td><td>Tenure of the proposed transaction</td><td>FY 2024-25</td></tr><tr><td>vi.</td><td>Value of the proposed transaction</td><td>Not to exceed ₹ 10,293 crore</td></tr><tr><td>vii.</td><td>Value of RPT as % of -Company&#x27;s audited consolidated annual turnover of ₹ 60,281.48 crore for the financial year 2023-2024.Subsidiary&#x27;s annual standalone turnover for the financial year 2023-24.</td><td>Approx. 17.07%.Not Applicable</td></tr><tr><td rowspan="5">viii.</td><td>If the transaction relates to any loans, inter- corporate deposits, advances or investments made or given by the listed entity or its subsidiary:</td><td></td></tr><tr><td>(i) details of the source of funds in connection with the proposed transaction</td><td>Not Applicable</td></tr><tr><td>(ii) where any financial indebtedness is incurred to make or give loans, inter-corporate deposits, advances or investments</td><td>Not Applicable</td></tr><tr><td>(iii) Applicable terms, including covenants, tenure, interest rate and repayment schedule, whether secured or unsecured; if secured, the nature of security</td><td>Not Applicable</td></tr><tr><td>(iv) the purpose for which the funds will be utilized by the ultimate beneficiary of such funds pursuant to the related party transaction</td><td>Not Applicable</td></tr><tr><td>ix.</td><td>Justification as to why the RPT is in the interest of the Company.</td><td>Refer Note 5: Purchase &amp; Sale of Goods and Availing various Services</td></tr><tr><td>x.</td><td>A statement that the valuation or other external report, if any, relied upon by the listed entity in relation to the proposed transaction will be made available through registered e-mail address of the shareholder</td><td>Not Applicable</td></tr><tr><td>xi.</td><td>Any other information relevant or important for the members to take a decision on the proposed transaction.</td><td>None</td></tr></table>
+
+# Resolution Item No. 10: Particulars of material related party transactions to be entered by Adani Power Limited with Mahan Energen Limited (MEL):
+
+(Reference is drawn to our intimation dated March 28, 2024 to the stock exchanges regarding execution of an investment agreement. Upon the said agreement becoming effective, MEL will cease to be Wholly Owned Subsidiary of the APL. Accordingly, it is proposed to obtain shareholders’ approval for the transactions between APL and MEL, in compliance with SEBI LODR regulations.)
+
+<table><tr><td colspan="2">Particulars</td><td>Details</td></tr><tr><td>i.</td><td>Name of the Related Party</td><td>Mahan Energen Limited (&#x27;MEL&#x27;)</td></tr><tr><td>ii.</td><td>Type of transaction</td><td>Purchase and Sale of Goods; Providing financial assistance by way of loan /securities / other debt instruments including corporate guarantee; and Investment in Shares and Securities</td></tr><tr><td>iii.</td><td>Material terms and particulars of the proposed transaction</td><td>Material terms and conditions are / will be based on the contract(s) entered / proposed to be entered into, which inter alia include the rates based on prevailing/ extant market conditions and commercial terms as on the date of entering into the contract(s).</td></tr><tr><td>iv.</td><td>Nature of Relationship with the Company including nature of its concern or interest (financial or otherwise)</td><td>MEL is the direct subsidiary of the Company.</td></tr><tr><td>v.</td><td>Tenure of the proposed transaction</td><td>FY 2024-25</td></tr><tr><td>vi.</td><td>Value of the proposed transaction</td><td>Not to exceed ₹ 7,300 crore</td></tr><tr><td>vii.</td><td>Value of RPT as % of -Company&#x27;s audited consolidated annual turnover of ₹ 60,281.48 crore for the financial year 2023-2024.Subsidiaries annual standalone turnover for the financial year 2023-24.</td><td>Approx. 12.11%.Not Applicable</td></tr><tr><td rowspan="5">viii.</td><td>If the transaction relates to any loans, inter- corporate deposits, advances or investments made or given by the listed entity or its subsidiary:</td><td></td></tr><tr><td>(i) details of the source of funds in connection with the proposed transaction</td><td>Refer Note 6: Lending of funds and providing Financial Assistance including Corporate Guarantee</td></tr><tr><td>(ii) where any financial indebtedness is incurred to make or give loans, inter-corporate deposits, advances or investments</td><td>Refer Note 6: Lending of funds and providing Financial Assistance including Corporate Guarantee</td></tr><tr><td>(iii) Applicable terms, including covenants, tenure, interest rate and repayment schedule, whether secured or unsecured; if secured, the nature of security</td><td>Refer Note 6: Lending of funds and providing Financial Assistance including Corporate Guarantee</td></tr><tr><td>(iv) the purpose for which the funds will be utilized by the ultimate beneficiary of such funds pursuant to the related party transaction</td><td>Refer Note 6: Lending of funds and providing Financial Assistance including Corporate Guarantee</td></tr><tr><td>ix.</td><td>Justification as to why the RPT is in the interest of the Company.</td><td>Refer Note 6: Lending of funds and providing Financial Assistance including Corporate GuaranteeRefer Note 7: Investment in Shares and SecuritiesRefer Note 8: Purchase and Sale of Goods</td></tr><tr><td>x.</td><td>A statement that the valuation or other external report, if any, relied upon by the listed entity in relation to the proposed transaction will be made available through registered e-mail address of the shareholder</td><td>Not Applicable</td></tr><tr><td>xi.</td><td>Any other information relevant or important for the members to take a decision on the proposed transaction.</td><td>None</td></tr></table>
+
+Resolution Item No. 11: Particulars of material related party transactions to be entered by Adani Power Limited with Moxie Power Generation Limited: 
+
+<table><tr><td colspan="2">Particulars</td><td>Details</td></tr><tr><td>i.</td><td>Name of the Related Party</td><td>Moxie Power Generation Limited (‘MPGL)</td></tr><tr><td>ii.</td><td>Type of transaction</td><td>Purchase and Sale of Goods; Providing financial assistance by way of loan / securities / other debt instruments including corporate guarantee; and Investment in Shares and Securities</td></tr><tr><td>iii.</td><td>Material terms and particulars of the proposed transaction</td><td>Material terms and conditions are / will be based on the contract(s) entered / proposed to be entered into, which inter alia include the rates based on prevailing/ extant market conditions and commercial terms as on the date of entering into the contract(s).</td></tr><tr><td>iv.</td><td>Nature of Relationship with the Company including nature of its concern or interest (financial or otherwise)</td><td>MPGL is an associate entity of the Company.</td></tr><tr><td>v.</td><td>Tenure of the proposed transaction</td><td>FY 2024-25</td></tr><tr><td>vi.</td><td>Value of the proposed transaction</td><td>Not to exceed ₹ 8,420 crore</td></tr><tr><td>vii.</td><td>Value of RPT as % of -Company&#x27;s audited consolidated annual turnover of ₹ 60,281.48 crore for the financial year 2023-2024.Subsidiaries annual standalone turnover for the financial year 2023-24.</td><td>Approx. 13.97%.Not Applicable</td></tr><tr><td rowspan="5">viii.</td><td>If the transaction relates to any loans, inter- corporate deposits, advances or investments made or given by the listed entity or its subsidiary:</td><td></td></tr><tr><td>(i) details of the source of funds in connection with the proposed transaction</td><td>Refer Note 6: Lending of funds and providing Financial Assistance including Corporate Guarantee</td></tr><tr><td>(ii) where any financial indebtedness is incurred to make or give loans, inter-corporate deposits, advances or investments</td><td>Refer Note 6: Lending of funds and providing Financial Assistance including Corporate Guarantee</td></tr><tr><td>(iii) Applicable terms, including covenants, tenure, interest rate and repayment schedule, whether secured or unsecured; if secured, the nature of security</td><td>Refer Note 6: Lending of funds and providing Financial Assistance including Corporate Guarantee</td></tr><tr><td>(iv) the purpose for which the funds will be utilized by the ultimate beneficiary of such funds pursuant to the related party transaction</td><td>Refer Note 6: Lending of funds and providing Financial Assistance including Corporate Guarantee</td></tr><tr><td>ix.</td><td>Justification as to why the RPT is in the interest of the Company.</td><td>Refer Note 6: Lending of funds and providing Financial Assistance including Corporate GuaranteeRefer Note 7: Investment in Shares and SecuritiesRefer Note 8: Purchase and Sale of Goods</td></tr><tr><td>x.</td><td>A statement that the valuation or other external report, if any, relied upon by the listed entity in relation to the proposed transaction will be made available through registered e-mail address of the shareholder</td><td>Not Applicable</td></tr><tr><td>xi.</td><td>Any other information relevant or important for the members to take a decision on the proposed transaction.</td><td>None</td></tr></table>
+
+Resolution Item No. 12: Particulars of material related party transactions to be entered by Adani Power Limited with Adani Energy Solutions Limited 
+
+<table><tr><td colspan="2">Particulars</td><td>Details</td></tr><tr><td>i.</td><td>Name of the Related Party</td><td>Adani Energy Solutions Limited (&#x27;AESL&#x27;)</td></tr><tr><td>ii.</td><td>Type of transaction</td><td>Purchase and Sale of Goods; Receiving of Services</td></tr><tr><td>iii.</td><td>Material terms and particulars of the proposed transaction</td><td>Material terms and conditions are / will be based on the contract(s) entered / proposed to be entered into, which inter alia include the rates based on prevailing/ extant market conditions and commercial terms as on the date of entering into the contract(s).</td></tr><tr><td>iv.</td><td>Nature of Relationship with the Company including nature of its concern or interest (financial or otherwise)</td><td>AESL is an entity over which controlling entity or KMP(s) has control or significant influence.</td></tr><tr><td>v.</td><td>Tenure of the proposed transaction</td><td>FY 2024-25</td></tr><tr><td>vi.</td><td>Value of the proposed transaction</td><td>Not to exceed ₹ 4,498 crore</td></tr><tr><td>vii.</td><td>Value of RPT as % of -Company&#x27;s audited consolidated annual turnover of ₹ 60,281.48 crore for the financial year 2023-2024.Subsidiaries annual standalone turnover for the financial year 2023-24.</td><td>Approx. 7.46 %.Not Applicable</td></tr><tr><td rowspan="5">viii.</td><td>If the transaction relates to any loans, inter- corporate deposits, advances or investments made or given by the listed entity or its subsidiary:</td><td>Not Applicable</td></tr><tr><td>(i) details of the source of funds in connection with the proposed transaction</td><td>Not Applicable</td></tr><tr><td>(ii) where any financial indebtedness is incurred to make or give loans, inter-corporate deposits, advances or investments</td><td>Not Applicable</td></tr><tr><td>(iii) Applicable terms, including covenants, tenure, interest rate and repayment schedule, whether secured or unsecured; if secured, the nature of security</td><td>Not Applicable</td></tr><tr><td>(iv) the purpose for which the funds will be utilized by the ultimate beneficiary of such funds pursuant to the related party transaction</td><td>Not Applicable</td></tr><tr><td>ix.</td><td>Justification as to why the RPT is in the interest of the Company.</td><td>Refer Note 5: Purchase &amp; Sale of Goods and Availing various Services.Refer Note 9: Receiving of Services</td></tr><tr><td>x.</td><td>A statement that the valuation or other external report, if any, relied upon by the listed entity in relation to the proposed transaction will be made available through registered e-mail address of the shareholder</td><td>Not Applicable</td></tr><tr><td>xi.</td><td>Any other information relevant or important for the members to take a decision on the proposed transaction.</td><td>None</td></tr></table>
+
+Resolution Item No. 13: Mahan Energen Limited (‘MEL’), a Wholly Owned Subsidiary of the Company, with Adani Enterprises Limited: 
+
+<table><tr><td colspan="2">Particulars</td><td>Details</td></tr><tr><td>i.</td><td>Name of the Related Party</td><td>Adani Enterprises Limited (&#x27;AEL&#x27;)</td></tr><tr><td>ii.</td><td>Type of transaction</td><td>Purchase and Sale of Power; &amp; Availing of various Services and Purchase of Shares and Securities</td></tr><tr><td>iii.</td><td>Material terms and particulars of the proposed transaction</td><td>Material terms and conditions are / will be based on the contract(s) entered / proposed to be entered into, which inter alia include the rates based on prevailing/ extant market conditions and commercial terms as on the date of entering into the contract(s).</td></tr><tr><td>iv.</td><td>Nature of Relationship with the Company including nature of its concern or interest (financial or otherwise)</td><td>AEL is an entity over which controlling entity or KMP(s) has control or significant influence.</td></tr><tr><td>v.</td><td>Tenure of the proposed transaction</td><td>FY 2024-25</td></tr><tr><td>vi.</td><td>Value of the proposed transaction</td><td>Not to exceed ₹ 2,220 crore</td></tr><tr><td>vii.</td><td>Value of RPT as % of -Company&#x27;s audited consolidated annual turnover of ₹ 60,281.48 crore for the financial year 2023-2024.MEL&#x27;s annual standalone turnover of ₹ 3,803.62 crore for the financial year 2023-24.</td><td>Approx. 3.68%.Approx. 58.37%</td></tr><tr><td rowspan="5">viii.</td><td>If the transaction relates to any loans, inter- corporate deposits, advances or investments made or given by the listed entity or its subsidiary:</td><td></td></tr><tr><td>(i) details of the source of funds in connection with the proposed transaction</td><td>Not Applicable</td></tr><tr><td>(ii) where any financial indebtedness is incurred to make or give loans, inter-corporate deposits, advances or investments</td><td>Not Applicable</td></tr><tr><td>(iii) Applicable terms, including covenants, tenure, interest rate and repayment schedule, whether secured or unsecured; if secured, the nature of security</td><td>Not Applicable</td></tr><tr><td>(iv) the purpose for which the funds will be utilized by the ultimate beneficiary of such funds pursuant to the related party transaction</td><td>Not Applicable</td></tr><tr><td>ix.</td><td>Justification as to why the RPT is in the interest of the Company.</td><td>Note 5 : Purchase &amp; Sale of Goods; Availing various ServicesNote 10 : Purchase of Shares &amp; Securities</td></tr><tr><td>x.</td><td>A statement that the valuation or other external report, if any, relied upon by the listed entity in relation to the proposed transaction will be made available through registered e-mail address of the shareholder</td><td>Not Applicable</td></tr><tr><td>xi.</td><td>Any other information relevant or important for the members to take a decision on the proposed transaction.</td><td>None</td></tr></table>
+
+Resolution Item No. 14: Mahan Energen Limited (‘MEL’), a Wholly Owned Subsidiary of the Company, with Adani Energy Solutions Limited: 
+
+<table><tr><td colspan="2">Particulars</td><td>Details</td></tr><tr><td>i.</td><td>Name of the Related Party</td><td>Adani Energy Solutions Limited (&#x27;AESL&#x27;)</td></tr><tr><td>ii.</td><td>Type of transaction</td><td>Purchase and Sale of Goods and Availing Services</td></tr><tr><td>iii.</td><td>Material terms and particulars of the proposed transaction</td><td>Material terms and conditions are / will be based on the contract(s) entered / proposed to be entered into, which inter alia include the rates based on prevailing/ extant market conditions and commercial terms as on the date of entering into the contract(s).</td></tr><tr><td>iv.</td><td>Nature of Relationship with the Company including nature of its concern or interest (financial or otherwise)</td><td>AESL is an entity over which controlling entity or KMP(s) has control or significant influence.</td></tr><tr><td>v.</td><td>Tenure of the proposed transaction</td><td>FY 2024-25</td></tr><tr><td>vi.</td><td>Value of the proposed transaction</td><td>Not to exceed ₹ 1,120 crore</td></tr><tr><td>vii.</td><td>Value of RPT as % of -Company&#x27;s audited consolidated annual turnover of ₹ 60,281.48 crore for the financial year 2023-2024.MEL&#x27;s annual standalone turnover of ₹ 3,803.62 crore for the financial year 2023-24.</td><td>Approx. 1.86%.Approx. 29.45%</td></tr><tr><td rowspan="5">viii.</td><td>If the transaction relates to any loans, inter- corporate deposits, advances or investments made or given by the listed entity or its subsidiary:</td><td></td></tr><tr><td>(i) details of the source of funds in connection with the proposed transaction</td><td>Not Applicable</td></tr><tr><td>(ii) where any financial indebtedness is incurred to make or give loans, inter-corporate deposits, advances or investments</td><td>Not Applicable</td></tr><tr><td>(iii) Applicable terms, including covenants, tenure, interest rate and repayment schedule, whether secured or unsecured; if secured, the nature of security</td><td>Not Applicable</td></tr><tr><td>(iv) the purpose for which the funds will be utilized by the ultimate beneficiary of such funds pursuant to the related party transaction</td><td>Not Applicable</td></tr><tr><td>ix.</td><td>Justification as to why the RPT is in the interest of the Company.</td><td>Refer Note 5: Purchase &amp; Sale of Goods and Availing various Services;Refer Note 9: Receiving of Services</td></tr><tr><td>x.</td><td>A statement that the valuation or other external report, if any, relied upon by the listed entity in relation to the proposed transaction will be made available through registered e-mail address of the shareholder</td><td>Not Applicable</td></tr><tr><td>xi.</td><td>Any other information relevant or important for the members to take a decision on the proposed transaction.</td><td>None</td></tr></table>
+
+Resolution Item No. 15: Mahan Energen Limited (‘MEL’), a Wholly Owned Subsidiary of the Company, with Adani Properties Private Limited: 
+
+<table><tr><td colspan="2">Particulars</td><td>Details</td></tr><tr><td>i.</td><td>Name of the Related Party</td><td>Adani Properties Private Limited (&#x27;APPL&#x27;)</td></tr><tr><td>ii.</td><td>Type of transaction</td><td>Obtaining financial assistance including corporate guarantees</td></tr><tr><td>iii.</td><td>Material terms and particulars of the proposed transaction</td><td>Material terms and conditions are / will be based on the contract(s) entered / proposed to be entered into, which inter alia include the rates based on prevailing/ extant market conditions and commercial terms as on the date of entering into the contract(s).</td></tr><tr><td>iv.</td><td>Nature of Relationship with the Company including nature of its concern or interest (financial or otherwise)</td><td>APPL is an entity over which controlling entity or KMP(s) has control or significant influence.</td></tr><tr><td>v.</td><td>Tenure of the proposed transaction</td><td>FY 2024-25</td></tr><tr><td>vi.</td><td>Value of the proposed transaction</td><td>Not to exceed ₹ 3,000 crore</td></tr><tr><td>vii.</td><td>Value of RPT as % of -Company&#x27;s audited consolidated annual turnover of ₹ 60,281.48 crore for the financial year 2023-2024.MEL&#x27;s annual standalone turnover of ₹ 3,803.62 crore for the financial year 2023-24.</td><td>Approx. 4.98%.Approx. 78.87%</td></tr><tr><td rowspan="5">viii.</td><td>If the transaction relates to any loans, inter- corporate deposits, advances or investments made or given by the listed entity or its subsidiary:</td><td></td></tr><tr><td>(i) details of the source of funds in connection with the proposed transaction</td><td>Not Applicable</td></tr><tr><td>(ii) where any financial indebtedness is incurred to make or give loans, inter-corporate deposits, advances or investments</td><td>Not Applicable</td></tr><tr><td>(iii) Applicable terms, including covenants, tenure, interest rate and repayment schedule, whether secured or unsecured; if secured, the nature of security</td><td>Not Applicable</td></tr><tr><td>(iv) the purpose for which the funds will be utilized by the ultimate beneficiary of such funds pursuant to the related party transaction</td><td>Not Applicable</td></tr><tr><td>ix.</td><td>Justification as to why the RPT is in the interest of the Company.</td><td>Refer Note 1: Borrowing of funds and obtaining Financial Assistance</td></tr><tr><td>x.</td><td>A statement that the valuation or other external report, if any, relied upon by the listed entity in relation to the proposed transaction will be made available through registered e-mail address of the shareholder</td><td>Not Applicable</td></tr><tr><td>xi.</td><td>Any other information relevant or important for the members to take a decision on the proposed transaction.</td><td>None</td></tr></table>
+
+Resolution Item No. 16: Adani Power Jharkhand Limited (‘APJL’), a Wholly Owned Subsidiary of the Company, with Adani Properties Private Limited: 
+
+<table><tr><td colspan="2">Particulars</td><td>Details</td></tr><tr><td>i.</td><td>Name of the Related Party</td><td>Adani Properties Private Limited (&#x27;APPL&#x27;)</td></tr><tr><td>ii.</td><td>Type of transaction</td><td>Obtaining financial assistance including corporate guarantees</td></tr><tr><td>iii.</td><td>Material terms and particulars of the proposed transaction</td><td>Material terms and conditions are / will be based on the contract(s) entered / proposed to be entered into, which inter alia include the rates based on prevailing/ extant market conditions and commercial terms as on the date of entering into the contract(s).</td></tr><tr><td>iv.</td><td>Nature of Relationship with the Company including nature of its concern or interest (financial or otherwise)</td><td>APPL is an entity over which controlling entity or KMP(s) has control or significant influence.</td></tr><tr><td>v.</td><td>Tenure of the proposed transaction</td><td>FY 2024-25</td></tr><tr><td>vi.</td><td>Value of the proposed transaction</td><td>Not to exceed ₹ 4,200 crore</td></tr><tr><td>vii.</td><td>Value of RPT as % of -Company&#x27;s audited consolidated annual turnover of ₹ 60,281.48 crore for the financial year 2023-2024.APJL&#x27;s annual standalone turnover of ₹ 7,514.59 crore for the financial year 2023-24.</td><td>Approx. 6.97%.Approx. 55.89%</td></tr><tr><td rowspan="5">viii.</td><td>If the transaction relates to any loans, inter- corporate deposits, advances or investments made or given by the listed entity or its subsidiary:</td><td></td></tr><tr><td>(i) details of the source of funds in connection with the proposed transaction</td><td>Not Applicable</td></tr><tr><td>(ii) where any financial indebtedness is incurred to make or give loans, inter-corporate deposits, advances or investments</td><td>Not Applicable</td></tr><tr><td>(iii) Applicable terms, including covenants, tenure, interest rate and repayment schedule, whether secured or unsecured; if secured, the nature of security</td><td>Not Applicable</td></tr><tr><td>(iv) the purpose for which the funds will be utilized by the ultimate beneficiary of such funds pursuant to the related party transaction</td><td>Not Applicable</td></tr><tr><td>ix.</td><td>Justification as to why the RPT is in the interest of the Company.</td><td>Refer Note 1: Borrowing of funds and obtaining Financial Assistance</td></tr><tr><td>x.</td><td>A statement that the valuation or other external report, if any, relied upon by the listed entity in relation to the proposed transaction will be made available through registered e-mail address of the shareholder</td><td>Not Applicable</td></tr><tr><td>xi.</td><td>Any other information relevant or important for the members to take a decision on the proposed transaction.</td><td>None</td></tr></table>
+
+# Background, details and benefits of the transaction
+
+# Note 1: Borrowing of funds and obtaining Financial Assistance
+
+The Company on its own and along with its subsidiaries is growing organically & inorganically and, in this pursuit, it is exploring opportunities including acquiring/ developing power projects. It is also exploring other business opportunities for growth like land development/ developing infrastructural facilities, etc. For funding of these projects / requirements and also to meet any temporary cashflow requirement, the Company and/or its subsidiaries, in its ordinary course of business, may require financial assistance in form of inter-corporate deposit, loan, subscription or purchase of securities / debt instruments and guarantees.
+
+# Note 2: Purchase of Investments / Securities and Availing Service
+
+# Purchase of Investments / Securities
+
+The Company has identified certain land parcels located at various locations owned by subsidiaries of group company which are suitable for setting up a thermal power plant. In furtherance of the same, APL proposes to acquire such subsidiaries holding land parcels.
+
+# Availing Service
+
+The Company plans to undertake expansion projects at the existing Raigarh and also at Raipur Thermal Power Plants with an additional capacity of 1600 MW (2 x 800 MW) each. Domestic manufacturers lack the bandwidth to provide a full EPC solution. Therefore these projects will be undertaken based on split package philosophy. Further, for the satisfaction of project sponsors; and lenders, who insist on overall project management including sourcing, engineering, quality, post order monitoring and execution, health & safety, post construction monitoring and handing over of the project to ensure timely completion and proper quality assurance. Accordingly , it is proposed to engage a professional Project Management Consultant (PMC) to manage and deliver the said service.
+
+Considering the above, it is proposed to engage AIIL for PMC services for Raigarh TPP and Raipur TPP due to its experience and expertise in handling such complex projects. PMC fees of 12.5% of hard project cost, which is expected to be \~ \` 1,377 crore (including GST) for Raigarh TPP and \~ \` 1,349 crore (including GST) for Raipur TPP, (excluding land cost, pre-operative expenses, financing cost, IDC, DSRA) to be charged over the period of respective contract. The approval for the above proposed fees is being sought for based on the estimated consummation during each financial year of the contract period.
+
+# Note 3: Payment of lease rent
+
+APPL has leased out its property situated in New Delhi admeasuring 1003 square meter for 20 years, to be used by APL for various business purposes. APL will pay the agreed lease rent to APPL for this. The Company also has an option to purchase the said property in future for its business purposes.
+
+# Note 4: Availing Operations & Maintenance (O&M) services.
+
+In order to avail the expert services on O&M activities and attaining excellence, the said activities have been outsourced to AIMSL for all seven plants including Bitta solar power plant of the Company. AIMSL has O&M contracts of Adani Group’s transmission and renewable businesses as well. The Company has awarded the contract of O&M Services to AIMSL with well-defined key performance indicators and liquidated damages conditions.
+
+# Note 5 : Purchase & Sale of Goods and Availing various Services
+
+# Purchase of Coal
+
+APL and MEL are in the business of generating power for which good quality and timely availability of coal are essential. To ensure un-interrupted operations and power supply to its customers, APL and MEL propose to procure imported / domestic coal from AEL being one of the largest traders of coal in India, in normal course and in emergent situations.
+
+# Sale and Purchase of Power
+
+At present, APL and its subsidiaries are selling/ purchasing power under merchant market through AEL which has announced that its board has approved the sale / transfer of its power trading business which will be completed after the receipt of regulatory approvals. Adani Energy Solution Limited (‘AESL’) is proposing to enter the power trading business. APL and its subsidiary therefore propose to undertake power trading transaction through AESL post receipt of trading license by AESL. Hence, transactions with respect to sale and purchase of power with AEL will reduce to that extent.
+
+# Purchase of Power
+
+Due to non-availability of any of the plant for generation of the electricity on some occasions during the year, APL and its subsidiary may procure power from alternative sources to fulfil its obligation under PPAs. In the absence of a trading license, APL and its subsidiary may purchase power through related parties holding trading license in line with the CERC norms.
+
+# Sale of Power
+
+In order to sell power in the merchant market through Energy Exchanges, APL and its subsidiary are required to sell power via trading licensee as per CERC norms. Hence, APL proposes to sale power to related parties holding power trading license to enable access to merchant market. Further, APL may sell power under existing bilateral agreements with related parties.
+
+# Sale of Fly Ash
+
+Ministry of Environment, Forest & Climate Change (MoEF&CC) has mandated that thermal power plants are required to utilize / dispose 100% ash generated and prescribed procedure for its Enforcement. Any violation of such norms may attract imposition of Environmental Compensation / penalty on unutilized fly ash. In view of meeting the statutory requirements, the fly ash is proposed to be sold to AEL which possesses experience in managing overall supply chain and faster logistics to achieve maximum utilization of fly ash.
+
+# Availing various Services
+
+APL and its subsidiary shall continue to get the benefit of various support services from AEL like Information Technology, Central Treasury services, Manpower Support services etc. The amount to be charged to APL and its subsidiary will be on a cost-to-cost basis allocated on reasonable parameters.
+
+Further, with a view to comply with the norms of transportation of coal from mine at Suliyari under Singrauli district administration and to ensure smooth transportation of coal, APL and its subsidiary propose to avail various support services from AEL which is having experience to handle large quantum of coal in the region. This will ensure operational efficiency through availability of uninterrupted coal supply to APL and its subsidiary.
+
+# Note 6: Lending of funds and providing financial assistance including Corporate Guarantee
+
+APL, along with its subsidiaries / associate is growing organically and inorganically and, in this pursuit, it is exploring opportunities for acquiring as well as developing brownfield power projects.
+
+In this regard, MEL/MPGL may need funds in order to meet requirements for expansion / acquisition. Power plants are capital intensive in nature and thus require heavy initial and ongoing investment. Further, as per lenders’ stipulation, APL may need to provide corporate guarantee as an additional collateral for the loan taken by MEL / MPGL.
+
+This funding to subsidiary / associate would be unsecured and for long term or short-term tenure, depending on the requirement of the borrowing entity. Such funding will carry interest / coupon rate as per market rate prevailing at the time of disbursement.
+
+# Note 7: Investment in Shares and Securities
+
+APL may need to invest, on a long term basis, in shares and securities of MEL / MPGL to meet requirement for capacity expansion / acquisition as setting up / acquisition of power plant is capital intensive in nature and thus require heavy initial and ongoing investment.
+
+# Note 8 (i): Purchase of Goods
+
+In case of shortfall of availability of required quantum of coal, APL may procure coal from MEL / MPGL. The transaction would be in the commercial / beneficial interest of the Company as it will ensure uninterrupted operations and power generation.
+
+# Note 8 (ii): Sale of Goods
+
+In case of shortfall of availability of required quantum of coal, MEL/MPGL may procure it from APL. The transaction would be in the commercial / beneficial interest of MEL / MPGL as it will ensure uninterrupted operations and power generation.
+
+# Note 9: Receiving of Services
+
+# Receiving of Supply and Services:
+
+APL is required to shift EHV transmission line (18 nos.) on proposed railway alignment for its Raigarh Thermal Power Plant. For the said requirement the services for shifting shall be availed from AESL having experience in the field of transmission line operations.
+
+Further, MEL is also required to shift EHV 400kV D/C Transmission Line (Jabalpur – Vindhyachal) of Powergrid which may create safety issues in its Phase II expansion plan. For the said requirement the services for shifting shall be availed from AESL having experience in the field of transmission line operations.
+
+# Receiving of O&M service:
+
+AESL provides maintenance services for 33 KV lines in Raipur Thermal Power Plant which will ensure uninterrupted transmission from Raipur Power Plant Hence, the transaction is in the commercial / beneficial interest of the company.
+
+# Note 10: Acquisition by way of Amalgamation
+
+MEL, as part of its discussions, has been given to understand that AEL is desirous of divesting its investment in SMRPL holding mining rights in Dhirauli coal block (‘Dhirauli’).
+
+As Dhirauli coal block is located in close proximity to MEL’s power plant in Singrauli, MEL is ideally positioned to acquire Dhirauli coal block and use extracted coal for generation of power at its thermal power plant at Mahan. This will allow MEL to improve the availability of coal and provide it with an alternative source of supply to supplement its existing coal sourcing contracts resulting in optimization of overall coal cost and lead time. In view of the above, MEL proposes to amalgamate SMRPL from AEL for which MEL will pay consideration to AEL.
+
+The Dhirauli coal mining block has a capacity to produce 6.5 MTPA of coal. This mine has been awarded to SMRPL on January 11, 2021 under a commercial coal mining license. Pursuant to an application for proposed amalgamation of SMRPL with MEL, Ministry of Coal (MoC) has issued a letter dt. May 08, 2024 to SMRPL consenting amalgamation of SMRPL with MEL. Post proposed amalgamation, a Mining Lease Deed by MEL with the Nominated Authority is expected to be executed.
+
+The Board recommends passing of the Ordinary Resolutions as set out in Item nos. 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, and 16 of this Notice, for approval by the Members of the Company.
+
+As per the SEBI Listing Regulations, all related parties of the Company, whether or not a party to the proposed transaction(s), shall abstain from voting on the said resolutions.
+
+Mr. Gautam S. Adani and Mr. Rajesh S. Adani and their relatives are deemed to be concerned or interested in these resolutions. None of the other Directors, Key Managerial Personnel of the Company and their respective relatives, are in any way, concerned or interested, financially or otherwise, except to the extent of their shareholding in the Company, if any, in the proposed Ordinary Resolution, as set out in Item no, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, and 16 of this Notice.
+
+# For Item No. 17
+
+The Company’s Non-Executive Directors including Independent Directors (“NEDs”) are leading professionals with a high level of expertise and rich experience in functional areas such as business strategy, financial governance, corporate governance, amongst others. The Company’s Non-Executive Directors have been shaping and steering the long-term strategy and make invaluable contributions towards the Company’s business strategy, monitoring of risk management and compliances.
+
+In recognition of their contribution, the resolution proposes to seek approval of Members in accordance with Section 197 of the Act in order to pay remuneration to NEDs of the Company, by way of commission or otherwise, a sum not exceeding 1% (one percent) of the net profits of the Company calculated in accordance with the provisions of the Act, for the 5 (five) financial years starting from April 1, 2024. The payment of such commission / remuneration shall be in addition to the sitting fees for attending Board/Committee meetings paid to such Non-Executive Directors. This remuneration will be distributed amongst all or some of the Non-Executive Directors in accordance with the directions given by the Board of Directors and subject to any other applicable requirements under the Act.
+
+Accordingly, the Board recommends the resolution set forth in Item No. 17 relating to payment of remuneration to Non-Executive Directors, by way of an Ordinary Resolution.
+
+All Non-Executive Directors of the Company may be deemed to be concerned or interested in this resolution to the extent of commission / remuneration that may be payable to them from time to time and none of the other Directors or key managerial personnel or their relatives is, in anyway, concerned or interested in the resolution set out at Item No. 17 above.
+
+# For Item No. 18
+
+The Board, on the recommendation of the Audit Committee, has approved the appointment and remuneration of M/s. Kiran J. Mehta & Co., Cost Accountants [Firm Reg. No. 000025] as the Cost Auditors of the Company to conduct the audit of the cost records of the Company for the financial year 2024-25, at a fee of \` 15,40,000/- (including consolidation fees) plus applicable Taxes and reimbursement of out-of-pocket expenses, as remuneration for cost audit services for the Financial Year 2024-25.
+
+In accordance with the provisions of Section 148 of the Companies Act, 2013 read with the Companies (Audit and Auditors) Rules, 2014, the remuneration payable to the Cost Auditors has to be ratified by the Members of the Company.
+
+Accordingly, consent of the Members is sought for passing an Ordinary Resolution as set out at Item No. 18 of this Notice for ratification of the remuneration
+
+# ADANI POWER LIMITED
+
+# Integrated Annual Report 2023-24
+
+payable to the Cost Auditors for the financial year ending March 31, 2025.
+
+The Board recommends passing of the Ordinary Resolution as set out in Item no. 18 of this Notice, for approval by the Members of the Company.
+
+None of the Directors, Key Managerial Personnel of the Company and their respective relatives, are in any way, concerned or interested, financially or otherwise, in the proposed Ordinary Resolution, as set out in Item no. 18
+
+For and on behalf of the Board
+
+Adani Power Limited
+
+Deepak S. Pandya
+
+Company Secretary
+
+Membership No. FCS 5002
+
+Date: May 22, 2024
+
+Place: Ahmedabad
+
+Registered Office:
+
+Adani Corporate House, Shantigram,
+
+Nr. Vaishno Devi Circle,
+
+S. G. Highway, Khodiyar, Ahmedabad – 382 421
+
+CIN: L40100GJ1996PLC030533
+
+# ANNEXURE TO NOTICE
+
+Details of Directors seeking appointment pursuant to Regulation 36(3) of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 read with clause 1.2.5 of the Secretarial Standard -2
+
+Particulars of Directors seeking Appointment / Re-appointment 
+
+<table><tr><td>Particulars</td><td>Mr. Gautam S. Adani</td><td>Mrs. Sangeeta Singh</td></tr><tr><td>Director Identification Number ('DIN')</td><td>00006273</td><td>10593952</td></tr><tr><td>Age</td><td>61 Years</td><td>61 Years</td></tr><tr><td>Qualification</td><td>S. Y. B.Com</td><td>Mrs. Sangeeta Singh holds the degree of M.Sc. (Public Economics) from University of Birmingham (UK), M. Phil. (International Relations) from Jawaharlal Nehru University (New Delhi) and M.A. (Political Science) from Jawaharlal Nehru University (New Delhi).</td></tr><tr><td>Brief Resume &amp; Experience/Expertise</td><td>Mr. Gautam Adani is the Chairman and Founder of the Adani Group. Under his leadership, Adani Group has emerged as a global integrated infrastructure player with interest across Resources, Logistics and Energy verticals.His journey has been marked by his ambitious and entrepreneurial vision, coupled with great vigour and hard work.This has not only enabled the Group to achieve numerous milestones with speed and scale but also resulted in the creation of a robust business model which is contributing towards building sound infrastructure in India. For details profile, please refer Company's website: www.adanipower.com</td><td>She has worked in various capacities as Member of Central Board of Direct Taxes (CBDT), Principal Chief Commissioner of Income Tax amongst others. As a Member of CBDT, she has led the administering and implementing of Income Tax Act and Rules both for department and taxpayers and was in charge of national level revenue collection by the Department. For detailed profile, please refer Company's website: www.adanipower.com</td></tr><tr><td>Terms and conditions of appointment or re-appointment</td><td>In terms of Section 152 and other applicable provisions of the Companies Act, 2013, Mr. Gautam S. Adani, who retires by rotation, be and is hereby re-appointed as a Director of the Company, liable to retire by rotation.</td><td>Appointment for a first term of 3 (three) consecutive years commencing from May 01, 2024 to April 30, 2027 and shall not be liable to retirement by rotation.</td></tr><tr><td>Remuneration to be paid</td><td>Not applicable</td><td>Eligible for sitting fees and commission as approved.</td></tr><tr><td>Remuneration last drawn</td><td>Not applicable</td><td>Not applicable</td></tr><tr><td>Date of first appointment on the Board</td><td>December 26, 2005</td><td>May 01, 2024</td></tr><tr><td>Shareholding in the Company including beneficial ownership</td><td>Mr. Gautam S. Adani holds 1 (one) Equity Share of the Company in his individual capacity.</td><td>Nil</td></tr><tr><td>Relationship with Other Directors and other Key Managerial Personnel of the Company</td><td>Mr. Gautam S. Adani &amp; Mr. Rajesh S. Adani (on behalf of S.B. Adani Family Trust) holds 1,42,16,12,453 Equity Shares of the Company. Mr. Gautam S. Adani and Mr. Rajesh S. Adani, who are related to each other as brothers.</td><td>Mrs. Sangeeta Singh is not related to any Directors and other Key Managerial Personnel of the Company.</td></tr><tr><td>The Number of Meetings of the Board attended during FY 2023-24</td><td>Four out of five</td><td>Not Applicable</td></tr><tr><td>Directorship in other listed entities (in India)</td><td>Adani Enterprises LimitedAdani Ports and Special Economic Zone LimitedAdani Green Energy LimitedAmbuja Cements LimitedAdani Energy Solutions LimitedAdani Total Gas Limited</td><td>Nil</td></tr><tr><td>Chairmanship/Membership of the Committees of the Board of Directors of the listed entity (in India) (includes only Audit Committee and Stakeholders' Relationship Committee)</td><td>Nil</td><td>Nil</td></tr><tr><td>Resignation from listed entity (in India), if any, in the past three years.</td><td>Nil</td><td>Nil</td></tr><tr><td>In case of Independent Directors, the skills and capabilities required for the role and the manner in which the proposed person meets such requirements.</td><td>Not Applicable</td><td>I. SKILLS AND CAPABILITIES REQUIRED FOR THE ROLE OF INDEPENDENT DIRECTOROperational ExperienceLeadershipIndustry Knowledge, Research &amp; Development and InnovationFinancial, Regulatory / Legal &amp; Risk ManagementUnderstanding of laws, rules and regulationsCorporate GovernanceInformation TechnologyIntegrity and ethical standardsMANNER IN WHICH THE PROPOSED APPOINTEE MEETS THE ABOVE REQUIREMENT:Mrs. Sangeeta Singh holds the degree of M.Sc. (Public Economics) from University of Birmingham (UK), M. Phil. (International Relations) from Jawaharlal Nehru University (New Delhi) and M.A. (Political Science) from Jawaharlal Nehru University (New Delhi). She has worked in various capacities as Member of Central Board of Direct Taxes (CBDT), Principal Chief Commissioner of Income Tax amongst others. As a Member of CBDT, she has led the administering and implementing of Income Tax Act and Rules both for department and taxpayers and was in charge of national level revenue collection by the Department. The Nomination and Remuneration Committee and Board is of the opinion that Mrs. Sangeeta Singh meets the above-mentioned skills and capabilities required for the role of Independent Director.</td></tr></table>
+
+# Adani Power Limited
+
+Registered office
+
+Adani Corporate House
+
+Shantigram, Near Vaishnodevi Circle, S G Highway,
+
+Ahmedabad-382421, Gujarat, India.
+
+Tel : +91-79-26565555
+
+![](images/3e61c7b8654bbc46616a90a0beafe55db6ea7ff061300fa2494cf6bb279522ef.jpg)
+
+www.adanipower.com
